@@ -1,0 +1,1001 @@
+id,nombre_comun,vegetacion,edad,pb,pap,dap,dap2,papdel,papgrueso,altura_fuste,altura_arbol,diferencia,diametro_copa,fuste,tallos,raiz,raiz_expuesta,copa,densidad_copa,vitalidad,norte,este
+1,"Palma areca",Palma,Juvenil,1.34,0,0.05,0.05,0.12,0.2,0.5,1.7,1.2,2.8,0,10,0,0,0,"Alto (67 - 100%)",Regular,873684,1057760
+2,"Chorro de oro, Lluvia de oro",Arbol,Maduro,1.02,0.74,0.24,0.24,0,0,2.5,6,3.5,4.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873686,1057640
+3,"Chorro de oro, Lluvia de oro",Arbol,Maduro,1.28,0,0.19,0.19,0.47,0.73,3,7,4,8,0,3,0,0,0,"Alto (67 - 100%)",Regular,873684,1057650
+4,"Chorro de oro, Lluvia de oro",Arbol,Juvenil,0.39,0.29,0.09,0.09,0,0,2.7,6,3.3,2.8,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873691,1057650
+5,"Dracaena roja","Planta arbustiva",Maduro,0.55,0.37,0.12,0.12,0,0,3.2,7,3.8,2.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873688,1057650
+6,"Clemon, Algodon de arbol",Arbol,Maduro,0.72,0.56,0.18,0.18,0,0,3.5,6.5,3,5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873692,1057650
+7,"Limon swinglea, Swinglea",Arbol,Maduro,1.4,0,0.25,0.25,0.77,0.8,5,8.5,3.5,10,0,2,0,0,0,"Alto (67 - 100%)",Regular,873690,1057660
+8,Cheflera,Arbol,Maduro,0.51,0.31,0.1,0.1,0,0,2,5.5,3.5,1.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873689,1057660
+9,"Limon swinglea, Swinglea",Arbol,Maduro,1.3,0,0.26,0.26,0.81,0.83,5,9,4,11,0,2,0,0,0,"Alto (67 - 100%)",Regular,873691,1057660
+10,"Palma de yuca",Palma,Longevo,5.2,0,0.13,0.13,0.34,0.5,3.4,7,3.6,5,0,5,0,0,0,"Medio (34 - 66%)",Regular,873692,1057650
+11,Guanabano,Arbol,Maduro,0.7,0,0.1,0.1,0.19,0.42,2.8,5.2,2.4,6,0,2,0,0,0,"Medio (34 - 66%)",Regular,873694,1057650
+12,"Acacia robinia",Arbol,Maduro,1.52,0,0.23,0.23,0.68,0.78,6,8.5,2.5,11,0,3,0,0,0,"Alto (67 - 100%)",Regular,873697,1057650
+13,"Chorro de oro, Lluvia de oro",Arbol,Maduro,0.9,0,0.12,0.12,0.3,0.44,2,6.5,4.5,2.8,0,3,0,0,0,"Medio (34 - 66%)",Regular,873697,1057650
+14,Jagua,Arbol,Maduro,0.79,0.63,0.2,0.2,0,0,6,10,4,7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873701,1057650
+15,"Palma de yuca",Palma,Longevo,1.1,0.62,0.2,0.2,0,0,1.6,4,2.4,1.2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873701,1057650
+16,Naranjo,Arbusto,Maduro,0.74,0,0.11,0.11,0.32,0.35,3,6,3,5,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873701,1057660
+17,"Cojon de cabrito, Pepa de cabra, Cajeto, Enebro",Arbusto,Maduro,0.77,0,0.12,0.12,0.33,0.4,2.8,5,2.2,6.5,0,3,0,0,0,"Medio (34 - 66%)",Regular,873703,1057670
+18,"Limon swinglea, Swinglea",Arbol,Maduro,1.33,0,0.26,0.26,0.78,0.85,5,9,4,7,0,2,0,0,0,"Alto (67 - 100%)",Regular,873691,1057660
+19,"Guayacan carrapo",Arbol,Maduro,1.13,0,0.23,0.23,0.63,0.84,6,9.5,3.5,8,0,2,0,0,0,"Alto (67 - 100%)",Regular,873697,1057670
+20,"Palma areca",Palma,Longevo,1.9,0,0.08,0.08,0.2,0.28,5,7.5,2.5,6.5,0,7,0,0,0,"Medio (34 - 66%)",Regular,873697,1057670
+21,"Acacia robinia",Arbol,Maduro,0.85,0,0.2,0.2,0.49,0.75,5,8.5,3.5,8,0,2,0,0,0,"Alto (67 - 100%)",Sano,873710,1057670
+22,"Acacia robinia",Arbol,Juvenil,0.98,0.78,0.25,0.25,0,0,4,6,2,5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873708,1057660
+23,"Guayacan rosado",Arbol,Maduro,0.69,0.48,0.15,0.15,0,0,3,6,3,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873710,1057660
+24,Jagua,Arbol,Maduro,0.68,0.57,0.18,0.18,0,0,5,9.5,4.5,5.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873708,1057650
+25,Leucaena,Arbol,Juvenil,0.2,0.14,0.04,0.04,0,0,2,4.5,2.5,1.8,0,1,0,0,0,"Medio (34 - 66%)",Sano,873705,1057650
+26,"Acacia robinia",Arbol,Juvenil,1.23,0,0.19,0.19,0.52,0.67,6,9,3,10,0,3,0,0,0,"Alto (67 - 100%)",Regular,873708,1057650
+27,"Palma de yuca",Palma,Maduro,0.32,0,0.07,0.07,0.22,0.23,1,2,1,1.2,0,3,0,0,0,"Medio (34 - 66%)",Regular,873696,1057650
+28,"Palma areca",Palma,Maduro,1,0,0.05,0.05,0.14,0.19,0.5,2.8,2.3,2,0,2,0,0,0,"Medio (34 - 66%)",Regular,873696,1057650
+29,Mango,Arbol,Maduro,0.52,0.41,0.13,0.13,0,0,2.2,4.5,2.3,5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873810,1057800
+30,"Cardenal, Sombrilla japonesa, Flor de Pascua",Arbusto,Maduro,0.37,0,0.05,0.05,0.14,0.18,1,2.4,1.4,1.8,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873813,1057800
+31,Limon,Arbusto,Maduro,0.62,0,0.08,0.08,0.18,0.3,1.8,3.6,1.8,3,0,4,0,0,0,"Alto (67 - 100%)",Sano,873813,1057800
+32,Aguacate,Arbol,Maduro,0.27,0,0.05,0.05,0.14,0.15,0.5,2.4,1.9,2.6,0,3,0,0,0,"Alto (67 - 100%)",Sano,873817,1057800
+33,Mango,Arbol,Maduro,0.46,0.31,0.1,0.1,0,0,1.7,3.6,1.9,3,0,1,0,0,0,"Alto (67 - 100%)",Sano,873821,1057800
+34,Mango,Arbol,Maduro,0.37,0,0.05,0.05,0.15,0.19,1.5,2.8,1.3,2.4,0,2,0,0,0,"Alto (67 - 100%)",Sano,873830,1057800
+35,"Guayacan rosado",Arbol,Maduro,0.33,0.2,0.06,0.06,0,0,2.6,3.2,0.6,2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873830,1057810
+36,"Guayacan rosado",Arbol,Maduro,0.3,0.2,0.06,0.06,0,0,2,3.1,1.1,2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873836,1057810
+37,"Guayacan rosado",Arbol,Maduro,0.22,0.1,0.03,0.03,0,0,1.5,2.4,0.9,1.3,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873834,1057820
+38,Mango,Arbol,Maduro,0.85,0,0.1,0.1,0.24,0.41,1.9,4.5,2.6,5,0,9,0,0,0,"Alto (67 - 100%)",Regular,873827,1057830
+39,Aguacate,Arbol,Maduro,0.5,0.37,0.12,0.12,0,0,2,4.8,2.8,3.8,0,1,0,0,0,"Medio (34 - 66%)",Regular,873829,1057830
+40,"Palma de azucar",Palma,Juvenil,0.95,0.84,0.27,0.27,0,0,1.7,5.5,3.8,4.2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873870,1057860
+41,Guacimo,Arbol,Juvenil,0.28,0.16,0.05,0.05,0,0,1.4,3,1.6,2.1,0,1,0,0,0,"Medio (34 - 66%)",Regular,873878,1057880
+42,Guacimo,Arbol,Juvenil,0.35,0.2,0.06,0.06,0,0,0.5,3,2.5,1.7,0,1,0,0,0,"Medio (34 - 66%)",Regular,873880,1057880
+43,"Pino azul",Arbol,Maduro,0.5,0,0.07,0.07,0.14,0.33,1,2.4,1.4,1.5,0,5,0,0,0,"Alto (67 - 100%)",Regular,873796,1057990
+44,"Palma manila, Palma navidad",Palma,Maduro,0.79,0.44,0.14,0.14,0,0,2,3.5,1.5,2.2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873796,1058000
+45,"Palma manila, Palma navidad",Palma,Maduro,0.77,0.5,0.16,0.16,0,0,2,4,2,2.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873797,1058010
+46,"Palma de coco",Palma,Maduro,1.86,1.19,0.38,0.38,0,0,3.5,8,4.5,5.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873797,1058020
+47,"Palma areca",Palma,Maduro,0.51,0,0.04,0.04,0.13,0.14,1.8,2.6,0.8,1,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873838,1058090
+48,"Palma areca",Palma,Maduro,1.71,0,0.05,0.05,0.13,0.21,1,2.8,1.8,2.9,0,7,0,0,0,"Medio (34 - 66%)",Regular,873841,1058090
+49,"Palma areca",Palma,Maduro,0.92,0,0.07,0.07,0.2,0.25,1.5,3.5,2,3.8,0,2,0,0,0,"Medio (34 - 66%)",Regular,873845,1058090
+50,"Palma areca",Palma,Maduro,0.84,0,0.06,0.06,0.18,0.2,1,2.8,1.8,2,0,2,0,0,0,"Medio (34 - 66%)",Regular,873826,1058100
+51,"Palma areca",Palma,Maduro,0.98,0,0.1,0.1,0.29,0.32,6,7.5,1.5,4,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873536,1057600
+52,"Palma areca",Palma,Maduro,0.25,0.2,0.06,0.06,0,0,2.8,4.2,1.4,2.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873535,1057600
+53,"Palma areca",Palma,Maduro,1.62,0,0.09,0.09,0.28,0.3,3.5,6,2.5,6,0,4,0,0,0,"Alto (67 - 100%)",Regular,873531,1057600
+54,"Dracaena, Cancion de la India","Planta arbustiva",Maduro,0.74,0,0.1,0.1,0.25,0.36,2,5,3,2.4,0,3,0,0,0,"Alto (67 - 100%)",Regular,873530,1057600
+55,"Millonaria, Crispa","Planta arbustiva",Maduro,0.67,0,0.05,0.05,0.1,0.2,3,7,4,1.6,0,10,0,0,0,"Alto (67 - 100%)",Regular,873528,1057600
+56,"Palma areca",Palma,Maduro,2.06,0,0.12,0.12,0.32,0.43,3.5,6,2.5,7,0,5,0,0,0,"Medio (34 - 66%)",Regular,873526,1057600
+57,"Carbonero de flor roja",Arbusto,Maduro,0.45,0.31,0.1,0.1,0,0,2.5,3,0.5,5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873594,1057830
+58,Chiminango,Arbol,Maduro,2.27,0,0.45,0.45,0.94,1.9,4,10,6,18,0,2,0,0,0,"Medio (34 - 66%)",Regular,873576,1057830
+59,Chiminango,Arbol,Maduro,1.18,0,0.25,0.25,0.74,0.82,4,13,9,8,0,2,0,0,0,"Medio (34 - 66%)",Regular,873579,1057830
+60,"Jazmin de noche, Caballero de la noche",Arbusto,Maduro,0.88,0,0.03,0.03,0.07,0.1,1.2,2.4,1.2,3,0,5,0,0,0,"Medio (34 - 66%)",Regular,873576,1057840
+61,"Chiminango rojo, Espina de mono",Arbol,Maduro,0.65,0.49,0.16,0.16,0,0,3.5,7,3.5,4,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873578,1057840
+62,Aguacate,Arbol,Maduro,0.36,0,0.06,0.06,0.16,0.22,1.5,4.2,2.7,3,0,2,0,0,0,"Alto (67 - 100%)",Regular,873571,1057790
+63,"Arrayan cerezo",Arbusto,Maduro,0.42,0,0.04,0.04,0.1,0.15,1.8,3,1.2,2.6,0,3,0,0,0,"Medio (34 - 66%)",Regular,873574,1057790
+64,Aguacate,Arbol,Maduro,0.42,0,0.09,0.09,0.28,0.3,3,7,4,6,0,3,0,0,0,"Alto (67 - 100%)",Regular,873570,1057790
+65,"Nacedero, Madre de agua",Arbol,Maduro,0.32,0,0.04,0.04,0.1,0.12,0.6,2.5,1.9,1.8,0,3,0,0,0,"Medio (34 - 66%)",Regular,873563,1057770
+66,"Nacedero, Madre de agua",Arbol,Maduro,0.25,0,0.04,0.04,0.1,0.13,0.7,2,1.3,1.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873561,1057770
+67,"Saman, Genizaro",Arbol,Maduro,0.47,0,0.06,0.06,0.17,0.22,2,4,2,4.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873539,1057740
+68,Leucaena,Arbol,Juvenil,0.32,0.27,0.09,0.09,0,0,2.2,6,3.8,4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873535,1057750
+69,Guanabano,Arbol,Maduro,0.27,0.18,0.06,0.06,0,0,1.7,3,1.3,1.8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873536,1057740
+70,Leucaena,Arbol,Maduro,0.28,0.19,0.06,0.06,0,0,2,5,3,4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873537,1057750
+71,"Palma areca",Palma,Maduro,0.43,0.27,0.09,0.09,0,0,2.8,3.4,0.6,3.2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873495,1057710
+72,Guayabo,Arbusto,Maduro,0.57,0,0.12,0.12,0.37,0.4,2.4,5,2.6,6,0,2,0,0,0,"Alto (67 - 100%)",Regular,873495,1057710
+73,"Saman, Genizaro",Arbol,Maduro,0.62,0.54,0.17,0.17,0,0,2.2,5,2.8,8.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873495,1057720
+74,"Limon swinglea, Swinglea",Arbol,Juvenil,0.81,0.61,0.19,0.19,0,0,2.5,5.8,3.3,7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873501,1057720
+75,"Saman, Genizaro",Arbol,Maduro,2.54,2.3,0.73,0.73,0,0,6,12,6,25,0,1,0,0,0,"Alto (67 - 100%)",Regular,873531,1057770
+76,Chiminango,Arbol,Maduro,1.3,0,0.23,0.23,0.59,0.88,3,9.5,6.5,12,0,4,0,0,0,"Medio (34 - 66%)",Regular,873553,1057780
+77,Guacimo,Arbol,Juvenil,1.2,0,0.14,0.14,0.33,0.54,2,4.5,2.5,6,0,3,0,0,0,"Alto (67 - 100%)",Regular,873503,1057780
+78,"Saman, Genizaro",Arbol,Juvenil,6,0,0.38,0.38,0.8,1.6,2.5,10,7.5,15,0,5,0,0,0,"Alto (67 - 100%)",Regular,873501,1057770
+79,"Aliso de rio, Sauce playero",Arbol,Maduro,0.35,0.29,0.09,0.09,0,0,3,5,2,4,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873498,1057810
+80,Higuerilla,Arbusto,Maduro,1.1,0,0.06,0.06,0.12,0.27,0.8,2.8,2,4,0,7,0,0,0,"Alto (67 - 100%)",Regular,873506,1057840
+81,Leucaena,Arbol,Maduro,0.83,0.82,0.26,0.26,0,0,2.5,8,5.5,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873557,1057910
+82,"Limon swinglea, Swinglea",Arbol,Maduro,0.8,0.62,0.2,0.2,0,0,2.6,6,3.4,5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873569,1057920
+83,"Limon swinglea, Swinglea",Arbol,Maduro,0.8,0.66,0.21,0.21,0,0,2,5,3,4,0,1,0,0,0,"Alto (67 - 100%)",Regular,873571,1057920
+84,"Limon swinglea, Swinglea",Arbol,Juvenil,0.42,0,0.05,0.05,0.1,0.23,1.5,5,3.5,3,0,5,0,0,0,"Alto (67 - 100%)",Regular,873570,1057910
+85,Leucaena,Arbol,Maduro,1.65,0,0.21,0.21,0.63,0.66,3,5,2,8,0,2,0,0,0,"Medio (34 - 66%)",Regular,873589,1057940
+86,Guacimo,Arbol,Maduro,3.68,0,0.18,0.18,0.43,0.7,2.5,6,3.5,9,0,5,0,0,0,"Alto (67 - 100%)",Regular,873634,1057950
+87,"Palma africana",Palma,Maduro,2.7,2.25,0.72,0.72,0,0,2.5,6,3.5,7.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873638,1057950
+88,"Dracaena roja","Planta arbustiva",Maduro,1,0,0.04,0.04,0.12,0.14,0.5,3.8,3.3,2,0,7,0,0,0,"Alto (67 - 100%)",Regular,873642,1057950
+89,"Palma africana",Palma,Maduro,2.86,1.39,0.44,0.44,0,0,5.5,9,3.5,8,0,1,0,0,0,"Medio (34 - 66%)",Regular,873643,1057960
+90,Guacimo,Arbol,Maduro,1.37,0,0.27,0.27,0.82,0.89,3.5,8.5,5,10,0,2,0,0,0,"Bajo (0 - 33%)",Muerto,873642,1057960
+91,"Caucho, Caucho de la India",Arbol,Maduro,9.2,10,3.18,3.18,0,0,3.5,10.5,7,24,0,1,0,0,0,"Alto (67 - 100%)",Regular,873645,1057960
+92,"Acacia robinia",Arbol,Maduro,1.31,0,0.17,0.17,0.31,0.77,2.8,6,3.2,10,0,5,0,0,0,"Alto (67 - 100%)",Regular,873645,1057980
+93,"Saman, Genizaro",Arbol,Maduro,1.3,0,0.25,0.25,0.72,0.86,3,8.5,5.5,11,0,2,0,0,0,"Medio (34 - 66%)",Regular,873614,1057990
+94,Chiminango,Arbol,Maduro,0.28,0.19,0.06,0.06,0,0,2,3.2,1.2,2.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873646,1057980
+95,Jagua,Arbol,Maduro,1.14,1.46,0.46,0.46,0,0,3,7.5,4.5,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873660,1058030
+96,Almendro,Arbol,Maduro,1.26,1.35,0.43,0.43,0,0,5,7,2,15,0,1,0,0,0,"Alto (67 - 100%)",Regular,873658,1058030
+97,"Dracaena roja","Planta arbustiva",Maduro,0.72,0,0.05,0.05,0.13,0.2,1.6,5,3.4,1.8,0,6,0,0,0,"Alto (67 - 100%)",Regular,873655,1058040
+98,"Acacia robinia",Arbol,Maduro,0.5,0,0.06,0.06,0.16,0.24,2,4,2,5,0,6,0,0,0,"Alto (67 - 100%)",Regular,873651,1058040
+99,Almendro,Arbol,Maduro,0.9,0.72,0.23,0.23,0,0,5,7,2,5.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873656,1058040
+100,"Palma areca",Palma,Maduro,0.55,0,0.05,0.05,0.16,0.17,1.5,3.2,1.7,2.8,0,2,0,0,0,"Medio (34 - 66%)",Regular,873661,1058040
+101,"Palma areca",Palma,Maduro,1.15,0.25,0.08,0.08,0,0,1.7,3.5,1.8,2.4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873661,1058060
+102,"Palma de coco",Palma,Maduro,0.75,0.65,0.21,0.21,0,0,6.5,8.5,2,3.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873664,1058060
+103,"Guayacan rosado",Arbol,Maduro,1.4,1.3,0.41,0.41,0,0,5,14,9,8.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873669,1058060
+104,"Palma areca",Palma,Maduro,0.9,0,0.08,0.08,0.23,0.27,3.1,4.6,1.5,6,0,2,0,0,0,"Medio (34 - 66%)",Regular,873669,1058070
+105,"Palma de yuca",Palma,Maduro,0.52,0.32,0.1,0.1,0,0,0.5,2.8,2.3,1,0,1,0,0,0,"Alto (67 - 100%)",Regular,873668,1058070
+106,"Dracaena roja","Planta arbustiva",Maduro,0.61,0,0.06,0.06,0.14,0.25,0.8,5.8,5,3,0,7,0,0,0,"Alto (67 - 100%)",Regular,873671,1058070
+107,"Acacia robinia",Arbol,Maduro,1.31,0,0.28,0.28,0.81,0.92,4,10,6,9,0,2,0,0,0,"Alto (67 - 100%)",Regular,873669,1058070
+108,"Dracaena roja","Planta arbustiva",Maduro,0.41,0.33,0.11,0.11,0,0,3,5,2,5,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873670,1058070
+109,Mamoncillo,Arbol,Maduro,0.69,0.61,0.19,0.19,0,0,4,9,5,5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873669,1058080
+110,Leucaena,Arbol,Maduro,1,0.9,0.29,0.29,0,0,6.5,10,3.5,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873669,1058080
+111,"Acacia robinia",Arbol,Maduro,1.64,0,0.34,0.34,0.76,1.35,4,9.5,5.5,12,0,3,0,0,0,"Alto (67 - 100%)",Regular,873682,1058090
+112,"Acacia robinia",Arbol,Maduro,1.38,0,0.24,0.24,0.66,0.86,3,10,7,6,0,2,0,0,0,"Alto (67 - 100%)",Regular,873677,1058100
+113,"Acacia robinia",Arbol,Maduro,1.12,0,0.18,0.18,0.42,0.74,4,7,3,8,0,4,0,0,0,"Medio (34 - 66%)",Regular,873681,1058100
+114,"Palma areca",Palma,Maduro,1.57,0,0.06,0.06,0.19,0.2,0.5,2.5,2,2.8,0,4,0,0,0,"Bajo (0 - 33%)",Regular,873581,1057680
+115,Almendro,Arbol,Maduro,1.03,0.8,0.25,0.25,0,0,4,6,2,6.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873604,1057760
+116,"Ceiba, Ceiba bruja, Ceiba de lana, Bonga",Arbol,Maduro,0.85,0.82,0.26,0.26,0,0,3,4.5,1.5,5.7,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873623,1057850
+117,"Arbol de la cruz, Ariza",Arbusto,Maduro,0.8,0,0.08,0.08,0.23,0.25,1.8,3.4,1.6,4.3,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873626,1057850
+118,"Saman, Genizaro",Arbol,Maduro,0.95,0.57,0.18,0.18,0,0,3,4.5,1.5,7.4,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873619,1057850
+119,"Caucho matapalo",Arbol,Maduro,1.6,0,0.14,0.14,0.33,0.52,3,6.5,3.5,8,0,5,0,0,0,"Medio (34 - 66%)",Regular,873612,1057850
+120,"Pino tuya, Pino libro",Arbusto,Maduro,0.7,0,0.06,0.06,0.18,0.21,0.4,2,1.6,1.7,0,4,0,0,0,"Alto (67 - 100%)",Sano,873746,1057800
+121,"Pino tuya, Pino libro",Arbusto,Maduro,0.39,0,0.07,0.07,0.13,0.32,0.4,1.7,1.3,1.2,0,2,0,0,0,"Alto (67 - 100%)",Sano,873765,1057790
+122,"Saman, Genizaro",Arbol,Maduro,2.13,1.87,0.6,0.6,0,0,4.2,8.2,4,7.3,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873789,1057760
+123,Cipres,Arbol,Maduro,0.81,0.71,0.23,0.23,0,0,4,7.5,3.5,4.4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873765,1057730
+124,"Aceituna, Maria Eugenia, Jambolan",Arbol,Maduro,1.07,0.83,0.26,0.26,0,0,4,8,4,5.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873762,1057730
+125,"Guayacan rosado",Arbol,Maduro,0.88,0.8,0.25,0.25,0,0,5,6.5,1.5,9,0,1,0,0,0,"Medio (34 - 66%)",Regular,873762,1057730
+126,"Dracaena roja","Planta arbustiva",Maduro,0.6,0,0.08,0.08,0.17,0.34,0.8,2.2,1.4,1.5,0,4,0,0,0,"Medio (34 - 66%)",Regular,873751,1057730
+127,"Totumo, Mate, Calabazo",Arbusto,Maduro,0.24,0,0.04,0.04,0.09,0.14,0.3,2.4,2.1,2.3,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873737,1057710
+128,Gualanday,Arbol,Maduro,0.35,0,0.04,0.04,0.11,0.11,1.6,3.8,2.2,2.1,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873736,1057700
+129,"Palma africana",Palma,Maduro,2.25,0.87,0.28,0.28,0,0,1.6,4,2.4,4.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873729,1057700
+130,"Cojon de cabrito, Pepa de cabra, Cajeto, Enebro",Arbusto,Maduro,0.59,0,0.04,0.04,0.1,0.15,1.7,3.6,1.9,2.8,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873701,1057640
+131,"Clavellino, Mariposa",Arbusto,Maduro,0.7,0.5,0.16,0.16,0,0,2.2,4.2,2,4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873702,1057650
+132,"Ficus benjamina, Caucho benjamin",Arbol,Maduro,0.97,0.57,0.18,0.18,0,0,3,6.5,3.5,4.3,0,1,0,0,0,"Medio (34 - 66%)",Regular,873705,1057640
+133,Gualanday,Arbol,Maduro,0.87,0.68,0.22,0.22,0,0,3,8,5,4.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873713,1057640
+134,"Acacia roja, Flamboyan",Arbol,Maduro,1.9,1.43,0.46,0.46,0,0,4,8,4,15,0,1,0,0,0,"Medio (34 - 66%)",Regular,873722,1057640
+135,"Ficus benjamina, Caucho benjamin",Arbol,Maduro,3.19,0,0.57,0.57,1.44,2.16,7,15,8,19,0,2,0,0,0,"Medio (34 - 66%)",Regular,873788,1057650
+136,"Pino tuya, Pino libro",Arbusto,Maduro,0.3,0.38,0.12,0.12,0,0,0.3,1.6,1.3,1,0,1,0,0,0,"Medio (34 - 66%)",Sano,873752,1057820
+137,"Pino tuya, Pino libro",Arbusto,Maduro,0.36,0,0.11,0.11,0.33,0.36,0.3,1.6,1.3,1.7,0,2,0,0,0,"Alto (67 - 100%)",Sano,873754,1057830
+138,"Ebano, Ebano costeno",Arbol,Maduro,0.4,0,0.09,0.09,0.25,0.3,1.4,2.4,1,2.8,0,2,0,0,0,"Alto (67 - 100%)",Sano,873759,1057840
+139,"Habano, Azuceno, Habano rosado",Arbusto,Maduro,0.95,0,0.1,0.1,0.23,0.41,2,3.8,1.8,3.3,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873766,1057850
+140,"Pino tuya, Pino libro",Arbusto,Maduro,0.35,0,0.09,0.09,0.17,0.39,0.4,1.9,1.5,1.7,0,2,0,0,0,"Alto (67 - 100%)",Sano,873774,1057870
+141,"Palma manila, Palma navidad",Palma,Maduro,0.79,0.47,0.15,0.15,0,0,1.7,4,2.3,2.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873778,1057880
+142,"Palma areca",Palma,Maduro,1.56,0,0.08,0.08,0.18,0.34,2,4,2,4,0,6,0,0,0,"Bajo (0 - 33%)",Regular,873778,1057880
+143,Resucitado,Arbusto,Maduro,0.6,0,0.07,0.07,0.17,0.27,0.4,2,1.6,1.9,0,4,0,0,0,"Alto (67 - 100%)",Sano,873780,1057890
+144,"Palma manila, Palma navidad",Palma,Maduro,0.9,0.5,0.16,0.16,0,0,1.7,3.8,2.1,2.3,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873784,1057900
+145,"Acacia robinia",Arbol,Maduro,0.51,0,0.09,0.09,0.27,0.31,2.2,4,1.8,4.1,0,2,0,0,0,"Medio (34 - 66%)",Sano,873783,1057910
+146,"Pino tuya, Pino libro",Arbusto,Maduro,0.41,0,0.07,0.07,0.13,0.31,0.4,2.4,2,1.6,0,3,0,0,0,"Alto (67 - 100%)",Sano,873793,1057940
+147,"Palma areca",Palma,Maduro,1.1,0,0.08,0.08,0.24,0.26,1.8,4,2.2,3,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873792,1057940
+148,"Palma manila, Palma navidad",Palma,Maduro,0.58,0.46,0.15,0.15,0,0,2,3.8,1.8,2.7,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873797,1057950
+149,Cheflera,Arbol,Maduro,0.56,0.45,0.14,0.14,0,0,1.6,5.2,3.6,2.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873797,1057950
+150,Almendro,Arbol,Maduro,0.39,0.3,0.1,0.1,0,0,2,2.5,0.5,3.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873820,1057940
+151,"Palma manila, Palma navidad",Palma,Maduro,0.85,0.43,0.14,0.14,0,0,1.1,3,1.9,2.3,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873854,1057950
+152,"Pino tuya, Pino libro",Arbusto,Maduro,0.35,0,0.11,0.11,0.31,0.37,0.9,2.4,1.5,1.6,0,2,0,0,0,"Alto (67 - 100%)",Sano,873813,1057960
+153,"Ebano, Ebano costeno",Arbol,Maduro,0.5,0,0.1,0.1,0.23,0.42,1.7,2.6,0.9,4,0,3,0,0,0,"Alto (67 - 100%)",Sano,873794,1057960
+154,"Ebano, Ebano costeno",Arbol,Maduro,0.25,0.24,0.08,0.08,0,0,2,3.3,1.3,2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873798,1057970
+155,"Ebano, Ebano costeno",Arbol,Maduro,0.15,0.15,0.05,0.05,0,0,2.2,2.8,0.6,1.9,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873801,1057970
+156,"Ebano, Ebano costeno",Arbol,Maduro,0.17,0.14,0.04,0.04,0,0,2.2,3,0.8,1.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873800,1057980
+157,"Ebano, Ebano costeno",Arbol,Maduro,0.13,0.1,0.03,0.03,0,0,2,3.5,1.5,2,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873799,1057980
+158,"Jazmin de noche, Caballero de la noche",Arbusto,Maduro,0.47,0,0.06,0.06,0.16,0.21,0.9,2.4,1.5,2.6,0,3,0,0,0,"Medio (34 - 66%)",Regular,873802,1057980
+159,"Palma real de Cuba",Palma,Maduro,0.93,0.54,0.17,0.17,0,0,2,4,2,2,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873800,1057980
+160,"Palma manila, Palma navidad",Palma,Maduro,0.89,0.6,0.19,0.19,0,0,1.8,4,2.2,2.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873799,1058040
+161,"Guayacan, Guayaco",Arbol,Maduro,0.64,0,0.09,0.09,0.22,0.36,1.7,3.5,1.8,4.4,0,5,0,0,0,"Alto (67 - 100%)",Sano,873797,1058040
+162,"Palma manila, Palma navidad",Palma,Maduro,0.84,0.5,0.16,0.16,0,0,1.9,4,2.1,2.8,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873798,1058060
+163,"Palma manila, Palma navidad",Palma,Maduro,0.76,0.53,0.17,0.17,0,0,2,4.4,2.4,3,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873799,1058080
+164,"Ebano, Ebano costeno",Arbol,Maduro,0.66,0,0.1,0.1,0.29,0.34,1.8,2.7,0.9,3.1,0,3,0,0,0,"Alto (67 - 100%)",Regular,873883,1058110
+165,"Ebano, Ebano costeno",Arbol,Maduro,0.68,0.76,0.24,0.24,0,0,1.6,2.8,1.2,3.8,0,1,0,0,0,"Alto (67 - 100%)",Sano,873887,1058100
+166,"Palma manila, Palma navidad",Palma,Maduro,0.55,0.28,0.09,0.09,0,0,1,2.3,1.3,1.9,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873874,1058100
+167,"Palma areca",Palma,Maduro,0.85,0,0.06,0.06,0.17,0.19,1,2.5,1.5,2.4,0,3,0,0,0,"Bajo (0 - 33%)",Sano,873815,1058100
+168,"Palma areca",Palma,Maduro,1.18,0,0.07,0.07,0.18,0.23,1,2.5,1.5,2.8,0,4,0,0,0,"Bajo (0 - 33%)",Sano,873811,1058100
+169,Cipres,Arbol,Maduro,0.95,0.84,0.27,0.27,0,0,3.5,4.5,1,4.2,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873537,1057590
+170,Carbonero,Arbol,Juvenil,0.47,0.37,0.12,0.12,0,0,1.7,3.5,1.8,2.1,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873536,1057590
+171,Chiminango,Arbol,Maduro,2.89,0,0.39,0.39,0.43,2.03,3,9,6,15,0,4,0,0,0,"Medio (34 - 66%)",Regular,873532,1057590
+172,"Palma areca",Palma,Maduro,2.14,0,0.08,0.08,0.22,0.3,3.3,5.2,1.9,6,0,9,0,0,0,"Bajo (0 - 33%)",Regular,873530,1057590
+173,"Palma areca",Palma,Maduro,2.2,0,0.08,0.08,0.22,0.27,3.5,6,2.5,6.1,0,6,0,0,0,"Bajo (0 - 33%)",Regular,873524,1057590
+174,Guayabo,Arbusto,Maduro,0.66,0.55,0.18,0.18,0,0,2.2,4.2,2,5.1,0,1,0,0,0,"Medio (34 - 66%)",Regular,873594,1057830
+175,Araucaria,Arbol,Maduro,1,0.92,0.29,0.29,0,0,4.1,12,7.9,4.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873584,1057810
+176,"Palma manila, Palma navidad",Palma,Longevo,0.84,0.54,0.17,0.17,0,0,5,8,3,3.7,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873586,1057810
+177,Aguacate,Arbol,Maduro,1.36,0,0.26,0.26,0.77,0.89,3,10,7,7.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873576,1057810
+178,"Ficus benjamina, Caucho benjamin",Arbol,Maduro,2.66,2.63,0.84,0.84,0,0,5,11,6,23.3,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873574,1057810
+179,Guacimo,Arbol,Juvenil,2.4,0,0.3,0.3,0.52,1.34,4,13,9,11,0,3,0,0,0,"Medio (34 - 66%)",Regular,873567,1057800
+180,Chiminango,Arbol,Juvenil,1.87,1.47,0.47,0.47,0,0,6,16,10,15,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873564,1057790
+181,"Limon cidra",Arbusto,Juvenil,0.7,0,0.06,0.06,0.18,0.2,1,2.5,1.5,3,0,2,0,0,0,"Medio (34 - 66%)",Regular,873571,1057780
+182,"Palma areca",Palma,Juvenil,0.16,0.16,0.05,0.05,0,0,5.5,7.5,2,2.8,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873568,1057780
+183,Aguacate,Arbol,Maduro,0.56,0.5,0.16,0.16,0,0,2,5,3,8,0,1,0,0,0,"Medio (34 - 66%)",Regular,873569,1057780
+184,"Nacedero, Madre de agua",Arbol,Maduro,0.28,0.17,0.05,0.05,0,0,1.7,2.3,0.6,2.7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873564,1057770
+185,"Nacedero, Madre de agua",Arbol,Maduro,0.24,0,0.04,0.04,0.12,0.13,1.8,2.8,1,2.2,0,2,0,0,0,"Medio (34 - 66%)",Regular,873565,1057770
+186,"Nacedero, Madre de agua",Arbol,Maduro,0.77,0,0.05,0.05,0.13,0.17,1,2.4,1.4,2.2,0,4,0,0,0,"Medio (34 - 66%)",Regular,873564,1057760
+187,"Nacedero, Madre de agua",Arbol,Maduro,0.22,0,0.04,0.04,0.13,0.14,1.6,3.5,1.9,1.9,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873564,1057760
+188,"Floramarillo, Velero, Vainillo",Arbol,Maduro,0.4,0,0.07,0.07,0.17,0.25,1.6,3,1.4,5,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873537,1057720
+189,"Dracaena roja","Planta arbustiva",Maduro,0.75,0,0.04,0.04,0.1,0.13,2,2.6,0.6,1.8,0,3,0,0,0,"Medio (34 - 66%)",Regular,873522,1057720
+190,"Palma areca",Palma,Maduro,0.32,0.32,0.1,0.1,0,0,3,4.2,1.2,3.7,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873519,1057720
+191,Araucaria,Arbol,Maduro,1.23,0.95,0.3,0.3,0,0,3,6,3,6.2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873544,1057680
+192,"Limon swinglea, Swinglea",Arbol,Maduro,0.84,0,0.07,0.07,0.16,0.27,2,4.5,2.5,4.1,0,4,0,0,0,"Alto (67 - 100%)",Regular,873501,1057720
+193,Guacimo,Arbol,Maduro,0.79,0,0.1,0.1,0.26,0.38,1.7,4,2.3,3.8,0,2,0,0,0,"Medio (34 - 66%)",Regular,873520,1057760
+194,Leucaena,Arbol,Maduro,1.03,1.05,0.33,0.33,0,0,3,8,5,7.1,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873518,1057760
+195,"Limon swinglea, Swinglea",Arbol,Maduro,1.7,0,0.14,0.14,0.26,0.62,3.5,7.5,4,9.1,0,4,0,0,0,"Medio (34 - 66%)",Regular,873512,1057760
+196,"Saman, Genizaro",Arbol,Maduro,1.28,0,0.31,0.31,0.95,0.99,6,10,4,17,0,2,0,0,0,"Medio (34 - 66%)",Regular,873473,1057740
+197,"Saman, Genizaro",Arbol,Maduro,0.95,0,0.25,0.25,0.64,0.94,4,7.5,3.5,11,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873484,1057750
+198,"Saman, Genizaro",Arbol,Maduro,0.63,0.52,0.17,0.17,0,0,4,7.5,3.5,5.1,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873483,1057760
+199,"Saman, Genizaro",Arbol,Maduro,0.54,0.48,0.15,0.15,0,0,4.2,6,1.8,4,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873484,1057750
+200,"Saman, Genizaro",Arbol,Maduro,0.47,0.42,0.13,0.13,0,0,4,6,2,4,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873484,1057760
+201,Leucaena,Arbol,Maduro,1,0.97,0.31,0.31,0,0,4,8,4,10,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873574,1057900
+202,Leucaena,Arbol,Maduro,0.68,0.6,0.19,0.19,0,0,4,7,3,7.2,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873576,1057900
+203,"Floramarillo, Velero, Vainillo",Arbol,Maduro,2.02,0,0.29,0.29,0.79,1.05,3,9,6,14.2,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873579,1057900
+204,Leucaena,Arbol,Maduro,0.66,0.63,0.2,0.2,0,0,2.9,5,2.1,5,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873583,1057950
+205,Leucaena,Arbol,Maduro,0.93,0.82,0.26,0.26,0,0,4,8,4,7,0,1,0,0,0,"Medio (34 - 66%)",Regular,873598,1057950
+206,Guacimo,Arbol,Maduro,0.72,0,0.16,0.16,0.47,0.52,3,7.5,4.5,8,0,2,0,0,0,"Medio (34 - 66%)",Regular,873609,1057950
+207,"Ficus benjamina, Caucho benjamin",Arbol,Maduro,1.75,1.4,0.45,0.45,0,0,3.5,12,8.5,15,0,1,0,0,0,"Medio (34 - 66%)",Regular,873641,1057940
+208,Jagua,Arbol,Maduro,0.86,0.73,0.23,0.23,0,0,3,4.5,1.5,5.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873647,1057950
+209,"Palma de yuca",Palma,Maduro,1.3,0.41,0.13,0.13,0,0,2.4,3.7,1.3,2.7,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873647,1057950
+210,"Limon swinglea, Swinglea",Arbol,Juvenil,1.58,0,0.32,0.32,0.68,1.3,3,8,5,7.5,0,3,0,0,0,"Alto (67 - 100%)",Regular,873648,1057960
+211,"Limon swinglea, Swinglea",Arbol,Longevo,1.6,0,0.22,0.22,0.46,0.9,3.5,8,4.5,7.4,0,5,0,0,0,"Alto (67 - 100%)",Regular,873651,1057960
+212,"Acacia robinia",Arbol,Maduro,1.35,1.28,0.41,0.41,0,0,4,8.5,4.5,7,0,1,0,0,0,"Medio (34 - 66%)",Regular,873652,1057960
+213,"Palma real de Cuba",Palma,Maduro,2,1.23,0.39,0.39,0,0,7,14,7,5.3,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873647,1057970
+214,"Acacia robinia",Arbol,Maduro,1.27,0,0.27,0.27,0.75,0.97,5,7,2,7,0,2,0,0,0,"Bajo (0 - 33%)",Muerto,873651,1058000
+215,"Acacia robinia",Arbol,Maduro,1.65,0,0.3,0.3,0.71,1.17,3,7.3,4.3,15,0,3,0,0,0,"Medio (34 - 66%)",Regular,873652,1058010
+216,"Acacia robinia",Arbol,Maduro,1.35,1.17,0.37,0.37,0,0,4,9,5,12.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873653,1058020
+217,"Limon swinglea, Swinglea",Arbol,Maduro,0.92,0,0.11,0.11,0.28,0.41,1.7,4.5,2.8,5.6,0,3,0,0,0,"Alto (67 - 100%)",Regular,873650,1058020
+218,Almendro,Arbol,Maduro,0.88,0.68,0.22,0.22,0,0,5,7.5,2.5,8.7,0,1,0,0,0,"Medio (34 - 66%)",Regular,873655,1058030
+219,"Ceiba, Ceiba bruja, Ceiba de lana, Bonga",Arbol,Maduro,1.38,1.6,0.51,0.51,0,0,4,7,3,11,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873647,1058040
+220,"Seso, Bien me sabe",Arbol,Maduro,0.68,0.63,0.2,0.2,0,0,3.3,8,4.7,7.1,0,1,0,0,0,"Alto (67 - 100%)",Regular,873658,1058040
+221,Guanabano,Arbol,Maduro,1.29,1.27,0.4,0.4,0,0,4,8,4,10,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873662,1058050
+222,"Ficus Higueron, Ficus insipida, Caucho Insipida",Arbol,Maduro,1.62,0,0.26,0.26,0.75,0.88,2.7,10,7.3,10.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873664,1058050
+223,"Chambimbe, Jaboncillo",Arbol,Maduro,0.62,0.5,0.16,0.16,0,0,5,6,1,6,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873664,1058060
+224,"Chambimbe, Jaboncillo",Arbol,Maduro,0.53,0.39,0.12,0.12,0,0,2.5,6.7,4.2,6.1,0,1,0,0,0,"Medio (34 - 66%)",Regular,873662,1058060
+225,"Acacia robinia",Arbol,Maduro,0.67,0.59,0.19,0.19,0,0,3,3.5,0.5,3.4,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873664,1058060
+226,Guanabano,Arbol,Maduro,0.6,0.47,0.15,0.15,0,0,6,10,4,5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873662,1058070
+227,"Palma de coco",Palma,Maduro,0.7,0.49,0.16,0.16,0,0,1.8,4,2.2,3.7,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873666,1058070
+228,Mamoncillo,Arbol,Maduro,0.36,0.21,0.07,0.07,0,0,3.5,6,2.5,4.2,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873664,1058070
+229,"Ceiba, Ceiba bruja, Ceiba de lana, Bonga",Arbol,Maduro,1.4,1.4,0.45,0.45,0,0,4.3,8.5,4.2,9,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873671,1058080
+230,"Palma de coco",Palma,Maduro,1.12,0.76,0.24,0.24,0,0,7,10,3,4.8,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873673,1058090
+231,"Palma de Madagascar, Palma de anillos",Palma,Maduro,0.7,0.72,0.23,0.23,0,0,7,10,3,3.7,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873670,1058090
+232,"Palma de Madagascar, Palma de anillos",Palma,Maduro,0.9,0,0.13,0.13,0.34,0.47,6,7.5,1.5,2.1,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873671,1058090
+233,Almendro,Arbol,Juvenil,0.87,0.72,0.23,0.23,0,0,1.6,3,1.4,4.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873688,1058120
+234,Aguacate,Arbol,Maduro,1,0.8,0.25,0.25,0,0,6,9,3,9,0,1,0,0,0,"Alto (67 - 100%)",Regular,873664,1058120
+235,Aguacate,Arbol,Maduro,0.36,0,0.07,0.07,0.23,0.24,1,3.5,2.5,4,0,2,0,0,0,"Medio (34 - 66%)",Regular,873663,1058120
+236,Francesina,Arbusto,Longevo,0.34,0,0.07,0.07,0.2,0.24,1,2.5,1.5,3,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873649,1058130
+237,"Palma areca",Palma,Maduro,0.7,0.23,0.07,0.07,0,0,6,7,1,3,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873640,1058120
+238,"Palma areca",Palma,Maduro,1.2,0,0.1,0.1,0.3,0.32,3.5,6,2.5,6,0,3,0,0,0,"Medio (34 - 66%)",Regular,873639,1058130
+239,"Palma areca",Palma,Maduro,3.03,0,0.1,0.1,0.3,0.33,2.6,4.6,2,6,0,9,0,0,0,"Medio (34 - 66%)",Regular,873637,1058130
+240,"Palma areca",Palma,Longevo,2.8,0,0.09,0.09,0.22,0.35,3.1,4.6,1.5,6,0,8,0,0,0,"Medio (34 - 66%)",Regular,873634,1058130
+241,"Palma areca",Palma,Maduro,2.5,0,0.1,0.1,0.28,0.36,5,7,2,6,0,10,0,0,0,"Medio (34 - 66%)",Regular,873631,1058130
+242,"Palma Datilera, Palma canaria",Palma,Maduro,0.85,0.64,0.2,0.2,0,0,1,1.8,0.8,3,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873626,1058130
+243,"Palma areca",Palma,Maduro,1.2,0,0.09,0.09,0.26,0.3,4,7,3,6,0,2,0,0,0,"Medio (34 - 66%)",Regular,873604,1058130
+244,"Palma africana",Palma,Maduro,0.9,0.48,0.15,0.15,0,0,9,13,4,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873600,1058130
+245,Francesina,Arbusto,Maduro,1.1,0,0.04,0.04,0.09,0.19,0.3,2,1.7,2,0,6,0,0,0,"Bajo (0 - 33%)",Regular,873670,1058170
+246,"No me olvides, Nogal, San joaquin",Arbol,Maduro,0.5,0,0.06,0.06,0.17,0.2,0.4,1.8,1.4,1,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873626,1058170
+247,"Dracena dereminsis","Planta arbustiva",Juvenil,0.84,0,0.09,0.09,0.25,0.3,0.4,1.8,1.4,2,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873589,1058140
+248,"Limon swinglea, Swinglea",Arbol,Juvenil,0.4,0,0.05,0.05,0.13,0.19,0.4,1.8,1.4,1,0,3,0,0,0,"Bajo (0 - 33%)",Sano,873674,1058230
+249,"Limon swinglea, Swinglea",Arbol,Maduro,0.36,0,0.04,0.04,0.07,0.19,0.3,1.8,1.5,1,0,6,0,0,0,"Bajo (0 - 33%)",Sano,873674,1058220
+250,"Limon swinglea, Swinglea",Arbol,Maduro,0.32,0,0.05,0.05,0.06,0.25,0.4,1.8,1.4,1,0,4,0,0,0,"Bajo (0 - 33%)",Sano,873674,1058230
+251,"Limon swinglea, Swinglea",Arbol,Maduro,0.3,0,0.05,0.05,0.1,0.2,0.3,1.8,1.5,1,0,4,0,0,0,"Bajo (0 - 33%)",Sano,873674,1058230
+252,"Limon swinglea, Swinglea",Arbol,Maduro,0.32,0,0.06,0.06,0.1,0.26,0.4,1.8,1.4,1,0,5,0,0,0,"Bajo (0 - 33%)",Sano,873675,1058230
+253,Francesina,Arbusto,Maduro,0.34,0,0.05,0.05,0.13,0.2,0.3,1.8,1.5,1,0,4,0,0,0,"Bajo (0 - 33%)",Sano,873677,1058230
+254,Francesina,Arbusto,Maduro,0.37,0,0.03,0.03,0.09,0.12,0.3,1.8,1.5,1,0,6,0,0,0,"Bajo (0 - 33%)",Sano,873678,1058230
+255,"Palma manila, Palma navidad",Palma,Maduro,0.76,0.39,0.12,0.12,0,0,2,2.5,0.5,4,0,1,0,0,0,"Medio (34 - 66%)",Sano,873678,1058230
+256,Francesina,Arbusto,Maduro,0.36,0,0.05,0.05,0.1,0.2,0.3,1.8,1.5,1,0,5,0,0,0,"Bajo (0 - 33%)",Sano,873679,1058230
+257,Francesina,Arbusto,Maduro,0.26,0,0.03,0.03,0.09,0.12,0.3,1.8,1.5,1,0,4,0,0,0,"Bajo (0 - 33%)",Sano,873681,1058230
+258,"Palma areca",Palma,Maduro,1.47,0,0.07,0.07,0.16,0.26,1.8,5,3.2,6,0,5,0,0,0,"Medio (34 - 66%)",Sano,873678,1058230
+259,Francesina,Arbusto,Maduro,0.5,0,0.05,0.05,0.1,0.2,0.3,1.8,1.5,1,0,4,0,0,0,"Bajo (0 - 33%)",Sano,873676,1058230
+260,"Limon swinglea, Swinglea",Arbol,Juvenil,0.28,0,0.04,0.04,0.12,0.15,0.3,1.8,1.5,2,0,3,0,0,0,"Bajo (0 - 33%)",Sano,873682,1058230
+261,"Limon swinglea, Swinglea",Arbol,Longevo,0.3,0,0.05,0.05,0.12,0.2,0.3,1.8,1.5,1,0,2,0,0,0,"Bajo (0 - 33%)",Sano,873682,1058230
+262,"Limon swinglea, Swinglea",Arbol,Juvenil,0.5,0,0.06,0.06,0.15,0.2,0.3,1.8,1.5,1,0,5,0,0,0,"Bajo (0 - 33%)",Sano,873681,1058230
+263,Francesina,Arbusto,Juvenil,0.55,0,0.05,0.05,0.08,0.23,0.3,1.8,1.5,1,0,7,0,0,0,"Bajo (0 - 33%)",Sano,873679,1058230
+264,"Limon swinglea, Swinglea",Arbol,Juvenil,0.44,0,0.05,0.05,0.12,0.2,0.3,1.8,1.5,1.5,0,4,0,0,0,"Bajo (0 - 33%)",Sano,873679,1058220
+265,"Limon swinglea, Swinglea",Arbol,Longevo,0.29,0,0.06,0.06,0.1,0.26,0.3,1.8,1.5,1,0,4,0,0,0,"Bajo (0 - 33%)",Sano,873680,1058230
+266,Veranera,"Planta arbustiva",Juvenil,0.55,0.7,0.22,0.22,0,0,0.3,1.8,1.5,1,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873687,1058240
+267,Veranera,"Planta arbustiva",Juvenil,0.77,0.85,0.27,0.27,0,0,0.3,1.8,1.5,1.5,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873687,1058240
+268,"Millonaria, Crispa","Planta arbustiva",Juvenil,0.43,0,0.05,0.05,0.12,0.18,1.7,4,2.3,2,0,6,0,0,0,"Bajo (0 - 33%)",Sano,873697,1058300
+269,"Palma manila, Palma navidad",Palma,Longevo,0.87,0.39,0.12,0.12,0,0,1.6,4,2.4,4,0,1,0,0,0,"Medio (34 - 66%)",Sano,873696,1058300
+270,Guanabano,Arbol,Longevo,0.42,0,0.09,0.09,0.24,0.31,1.4,4,2.6,3,0,2,0,0,0,"Bajo (0 - 33%)",Sano,873696,1058300
+271,"Palma areca",Palma,Longevo,2.2,0,0.08,0.08,0.19,0.34,1.2,3,1.8,4.5,0,3,0,0,0,"Medio (34 - 66%)",Sano,873696,1058300
+272,"Palma guadua",Palma,Maduro,0.43,0.35,0.11,0.11,0,0,2,4,2,4,0,1,0,0,0,"Medio (34 - 66%)",Sano,873698,1058300
+273,"Millonaria, Crispa","Planta arbustiva",Maduro,0.44,0,0.05,0.05,0.09,0.22,1.55,4,2.45,1,0,7,0,0,0,"Bajo (0 - 33%)",Sano,873696,1058300
+274,"Palma manila, Palma navidad",Palma,Maduro,1.35,0,0.15,0.15,0.48,0.49,1.3,3,1.7,4,0,2,0,0,0,"Medio (34 - 66%)",Sano,873697,1058300
+275,"Palma manila, Palma navidad",Palma,Maduro,1.7,0,0.12,0.12,0.32,0.45,1.7,3.5,1.8,4,0,3,0,0,0,"Medio (34 - 66%)",Sano,873699,1058300
+276,Ciruelo,Arbusto,Maduro,0.79,0.72,0.23,0.23,0,0,1.6,7,5.4,8,0,1,0,0,0,"Medio (34 - 66%)",Sano,873698,1058290
+277,"Dracena dereminsis","Planta arbustiva",Maduro,2.1,0,0.13,0.13,0.2,0.6,3,7,4,7,0,5,0,0,0,"Medio (34 - 66%)",Regular,873699,1058290
+278,"Limon swinglea, Swinglea",Arbol,Maduro,1.3,0,0.09,0.09,0.16,0.42,1.3,2.5,1.2,3,0,8,0,0,0,"Bajo (0 - 33%)",Sano,873703,1058270
+279,"Cerezo, Mirto, Azahar",Arbusto,Maduro,1.7,0,0.08,0.08,0.12,0.4,0.3,1.8,1.5,2,0,7,0,0,0,"Bajo (0 - 33%)",Sano,873703,1058270
+280,Noni,Arbusto,Maduro,0.16,0,0.03,0.03,0.09,0.11,0.4,1.8,1.4,3,0,3,0,0,0,"Bajo (0 - 33%)",Sano,873697,1058270
+281,Mamoncillo,Arbol,Maduro,0.44,0,0.11,0.11,0.27,0.4,1.7,3.5,1.8,3.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873697,1058260
+282,Aguacate,Arbol,Maduro,0.7,0,0.16,0.16,0.39,0.62,1.8,4.5,2.7,3.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873697,1058260
+283,"Guamo rabo de mico, Guamo churimo",Arbol,Maduro,0.9,0,0.17,0.17,0.45,0.6,1.3,7,5.7,9,0,3,0,0,0,"Alto (67 - 100%)",Regular,873695,1058250
+284,"Dracena dereminsis","Planta arbustiva",Maduro,1.47,0,0.23,0.23,0.48,0.94,0.3,1.8,1.5,1,0,2,0,0,0,"Bajo (0 - 33%)",Sano,873699,1058250
+285,"Dracena dereminsis","Planta arbustiva",Maduro,1.32,0,0.07,0.07,0.16,0.3,0.3,2.2,1.9,2,0,9,0,0,0,"Bajo (0 - 33%)",Sano,873697,1058250
+286,Mango,Arbol,Maduro,1.43,1.18,0.38,0.38,0,0,2,9,7,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873680,1058380
+287,"Cojon de cabrito, Pepa de cabra, Cajeto, Enebro",Arbusto,Maduro,0.65,0.57,0.18,0.18,0,0,2,3.2,1.2,4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873684,1058380
+288,Naranjo,Arbusto,Maduro,0.17,0,0.04,0.04,0.09,0.14,1,1.8,0.8,1,0,2,0,0,0,"Bajo (0 - 33%)",Sano,873683,1058380
+289,"Garvanzo, Duranta",Arbusto,Maduro,0.6,0,0.05,0.05,0.13,0.2,0.3,1.8,1.5,2,0,7,0,0,0,"Bajo (0 - 33%)",Sano,873696,1058380
+290,Aguacate,Arbol,Maduro,1.18,1.3,0.41,0.41,0,0,1.7,6,4.3,9,0,1,0,0,0,"Alto (67 - 100%)",Regular,873705,1058380
+291,"Limon swinglea, Swinglea",Arbol,Maduro,1,0,0.16,0.16,0.45,0.56,1.7,4,2.3,3,0,2,0,0,0,"Bajo (0 - 33%)",Sano,873706,1058380
+292,Limon,Arbusto,Maduro,0.8,0,0.06,0.06,0.13,0.27,1,3,2,5,0,4,0,0,0,"Medio (34 - 66%)",Sano,873713,1058380
+293,"Limon swinglea, Swinglea",Arbol,Maduro,1.05,0,0.18,0.18,0.55,0.57,1,6,5,4.5,0,2,0,0,0,"Medio (34 - 66%)",Sano,873713,1058370
+294,"Limon swinglea, Swinglea",Arbol,Maduro,0.7,0,0.14,0.14,0.41,0.5,1,6,5,6,0,2,0,0,0,"Medio (34 - 66%)",Sano,873719,1058370
+295,"Limon swinglea, Swinglea",Arbol,Longevo,0.79,0,0.11,0.11,0.18,0.52,1.6,6,4.4,6,0,2,0,0,0,"Medio (34 - 66%)",Sano,873719,1058370
+296,"Limon swinglea, Swinglea",Arbol,Longevo,0.22,0,0.04,0.04,0.09,0.13,0.3,1.8,1.5,1,0,2,0,0,0,"Bajo (0 - 33%)",Sano,873746,1058440
+297,"Palma areca",Palma,Longevo,2.6,0,0.07,0.07,0.2,0.24,1.8,4.5,2.7,6,0,6,0,0,0,"Medio (34 - 66%)",Regular,873731,1058420
+298,"Acacia robinia",Arbol,Longevo,0.64,0,0.13,0.13,0.4,0.41,1.6,8,6.4,9,0,2,0,0,0,"Alto (67 - 100%)",Sano,873729,1058420
+299,"Acacia robinia",Arbol,Longevo,0.71,0,0.17,0.17,0.39,0.68,1.1,9,7.9,8,0,2,0,0,0,"Medio (34 - 66%)",Sano,873729,1058420
+300,"Acacia robinia",Arbol,Longevo,0.74,0,0.12,0.12,0.27,0.5,1.3,8,6.7,8,0,3,0,0,0,"Medio (34 - 66%)",Sano,873730,1058420
+301,"Acacia robinia",Arbol,Longevo,0.9,0,0.18,0.18,0.44,0.67,1.1,10.5,9.4,11,0,2,0,0,0,"Alto (67 - 100%)",Sano,873727,1058410
+302,"Palma areca",Palma,Maduro,0.76,0,0.07,0.07,0.2,0.22,3,4.8,1.8,3.5,0,2,0,0,0,"Medio (34 - 66%)",Sano,873726,1058410
+303,"Palma areca",Palma,Longevo,1.45,0,0.07,0.07,0.23,0.24,1.9,3.2,1.3,4,0,3,0,0,0,"Medio (34 - 66%)",Sano,873727,1058410
+304,"Palma areca",Palma,Maduro,0.91,0.24,0.08,0.08,0,0,4,5,1,3,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873730,1058410
+305,"Palma de coco",Palma,Maduro,1.87,1.87,0.6,0.6,0,0,0.5,3.2,2.7,2,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873806,1058120
+306,"Cojon de cabrito, Pepa de cabra, Cajeto, Enebro",Arbusto,Maduro,0.38,0,0.06,0.06,0.16,0.19,1.6,2.1,0.5,2,0,2,0,0,0,"Alto (67 - 100%)",Regular,873805,1058130
+307,"Palma de yuca",Palma,Maduro,1.23,0.95,0.3,0.3,0,0,2,4,2,3,0,1,0,0,0,"Alto (67 - 100%)",Regular,873856,1058290
+308,"Seso, Bien me sabe",Arbol,Maduro,1.1,0.93,0.3,0.3,0,0,2,8.5,6.5,6.8,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873874,1058340
+309,Aguacate,Arbol,Maduro,0.73,0.6,0.19,0.19,0,0,2,6.8,4.8,6.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873850,1058460
+310,"Limon swinglea, Swinglea",Arbol,Juvenil,1.73,0,0.22,0.22,0.55,0.82,2,10.5,8.5,9.6,0,4,0,0,0,"Bajo (0 - 33%)",Regular,873841,1058350
+311,Leucaena,Arbol,Maduro,1.4,0,0.2,0.2,0.5,0.76,2.5,9.6,7.1,4,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873844,1058350
+312,"Limon swinglea, Swinglea",Arbol,Juvenil,1,0.74,0.24,0.24,0,0,2.2,8.5,6.3,3.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873846,1058350
+313,Cipres,Arbol,Maduro,1.5,1.55,0.49,0.49,0,0,2,12.5,10.5,8.6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873853,1058360
+314,Mandarina,Arbusto,Juvenil,0.57,0,0.06,0.06,0.09,0.31,1.5,3,1.5,3,0,11,0,0,0,"Alto (67 - 100%)",Regular,873854,1058370
+315,Leucaena,Arbol,Juvenil,0.9,0.76,0.24,0.24,0,0,2,9.8,7.8,6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873852,1058370
+316,"Palma areca",Palma,Juvenil,1.1,0,0.08,0.08,0.23,0.28,3.5,4,0.5,3,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873856,1058370
+317,"Caucho Lira, Ficus Lira",Arbol,Juvenil,0.6,0.58,0.18,0.18,0,0,2,5,3,7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873859,1058380
+318,"Seso, Bien me sabe",Arbol,Maduro,0.38,0.3,0.1,0.1,0,0,1.6,2.5,0.9,2,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873856,1058380
+319,Mango,Arbol,Maduro,1.6,0,0.13,0.13,0.37,0.47,2,5,3,4.5,0,4,0,0,0,"Alto (67 - 100%)",Regular,873852,1058390
+320,"Saman, Genizaro",Arbol,Maduro,1.9,1.5,0.48,0.48,0,0,2.5,12,9.5,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873857,1058390
+321,"Palma de yuca",Palma,Juvenil,1.6,0.14,0.04,0.04,0,0,2,3.8,1.8,2.8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873860,1058290
+322,"Aceituno, Malagueto",Arbol,Maduro,1.77,0,0.26,0.26,0.77,0.88,8,11,3,9,0,3,0,0,0,"Alto (67 - 100%)",Regular,873859,1058400
+323,"Arrayan cerezo",Arbusto,Maduro,0.99,0,0.04,0.04,0.09,0.13,1,2,1,2,0,6,0,0,0,"Alto (67 - 100%)",Regular,873858,1058400
+324,"Limon swinglea, Swinglea",Arbol,Longevo,0.4,0,0.06,0.06,0.1,0.25,1,1.6,0.6,1.6,0,2,0,0,0,"Alto (67 - 100%)",Regular,873860,1058420
+325,"Palma areca",Palma,Maduro,0.72,0,0.08,0.08,0.25,0.28,2.2,3.2,1,0.5,0,2,0,0,0,"Bajo (0 - 33%)",Muerto,873860,1058420
+326,"Palma areca",Palma,Maduro,0.33,0.21,0.07,0.07,0,0,1.6,2.1,0.5,1.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873859,1058420
+327,"Limon swinglea, Swinglea",Arbol,Maduro,0.4,0,0.05,0.05,0.14,0.18,1,1.85,0.85,1.65,0,2,0,0,0,"Alto (67 - 100%)",Regular,873860,1058420
+328,"Cerezo, Mirto, Azahar",Arbusto,Maduro,0.56,0,0.05,0.05,0.1,0.2,0.6,1.75,1.15,1.5,0,10,0,0,0,"Alto (67 - 100%)",Regular,873859,1058420
+329,"Limon swinglea, Swinglea",Arbol,Maduro,0.4,0,0.05,0.05,0.1,0.22,1,1.7,0.7,1,0,6,0,0,0,"Alto (67 - 100%)",Regular,873860,1058420
+330,"Limon swinglea, Swinglea",Arbol,Longevo,0.42,0,0.05,0.05,0.12,0.2,0.7,1.76,1.06,1,0,5,0,0,0,"Alto (67 - 100%)",Regular,873859,1058420
+331,"Limon swinglea, Swinglea",Arbol,Maduro,0.43,0,0.04,0.04,0.1,0.16,1,1.7,0.7,1,0,6,0,0,0,"Alto (67 - 100%)",Regular,873860,1058430
+332,"Limon swinglea, Swinglea",Arbol,Maduro,0.5,0,0.09,0.09,0.22,0.35,1,1.7,0.7,1,0,3,0,0,0,"Alto (67 - 100%)",Regular,873859,1058430
+333,"Limon swinglea, Swinglea",Arbol,Maduro,0.7,0,0.1,0.1,0.25,0.4,1,1.7,0.7,1,0,7,0,0,0,"Alto (67 - 100%)",Regular,873859,1058430
+334,"Limon swinglea, Swinglea",Arbol,Longevo,0.4,0,0.04,0.04,0.1,0.18,1,1.8,0.8,1,0,5,0,0,0,"Alto (67 - 100%)",Regular,873860,1058440
+335,"Arbol de la cruz, Ariza",Arbusto,Longevo,0.9,0.6,0.19,0.19,0,0,1.2,2.5,1.3,1.6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873860,1058430
+336,"Palma areca",Palma,Maduro,1.58,0,0.09,0.09,0.27,0.32,2.8,3.9,1.1,3.2,0,6,0,0,0,"Bajo (0 - 33%)",Regular,873860,1058430
+337,"Limon swinglea, Swinglea",Arbol,Juvenil,0.28,0.3,0.1,0.1,0,0,1,1.85,0.85,1,0,1,0,0,0,"Alto (67 - 100%)",Regular,873860,1058440
+338,"Limon swinglea, Swinglea",Arbol,Juvenil,0.6,0,0.05,0.05,0.09,0.25,1,1.85,0.85,1.2,0,4,0,0,0,"Alto (67 - 100%)",Regular,873860,1058440
+339,"Limon swinglea, Swinglea",Arbol,Maduro,2.07,0,0.39,0.39,0.95,1.47,2,9.8,7.8,8.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873859,1058450
+340,"Seso, Bien me sabe",Arbol,Maduro,0.55,0,0.07,0.07,0.16,0.26,1.7,2.3,0.6,3,0,2,0,0,0,"Bajo (0 - 33%)",Muerto,873841,1058410
+341,"Palma areca",Palma,Maduro,0.28,0.24,0.08,0.08,0,0,4,5,1,0.5,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873839,1058410
+342,Cipres,Arbol,Juvenil,0.8,0,0.04,0.04,0.09,0.15,1.2,2.8,1.6,2,0,12,0,0,0,"Alto (67 - 100%)",Regular,873838,1058400
+343,Cipres,Arbol,Juvenil,0.75,0,0.03,0.03,0.07,0.12,1,2.1,1.1,2,0,10,0,0,0,"Alto (67 - 100%)",Regular,873837,1058400
+344,Veranera,"Planta arbustiva",Maduro,0.8,0,0.06,0.06,0.12,0.25,1,2,1,3.5,0,7,0,0,0,"Alto (67 - 100%)",Regular,873837,1058390
+345,"Limon swinglea, Swinglea",Arbol,Maduro,1.4,0,0.1,0.1,0.22,0.42,1.8,2.5,0.7,2.7,0,9,0,0,0,"Alto (67 - 100%)",Regular,873827,1058400
+346,"Palma areca",Palma,Maduro,1.4,0,0.06,0.06,0.14,0.23,1.6,3,1.4,2.2,0,7,0,0,0,"Bajo (0 - 33%)",Regular,873804,1058380
+347,Naranjo,Arbusto,Juvenil,0.56,0,0.12,0.12,0.37,0.4,2,6.2,4.2,5.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873749,1058690
+348,Naranjo,Arbusto,Maduro,0.85,0.39,0.12,0.12,0,0,1.6,4.2,2.6,3,0,1,0,0,0,"Medio (34 - 66%)",Regular,873749,1058690
+349,"Palma botella, Palma imperial, Mapora",Palma,Maduro,3.55,0,0.41,0.41,1.1,1.5,10.5,14.5,4,10.6,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873751,1058690
+350,Mango,Arbol,Maduro,0.8,0.6,0.19,0.19,0,0,2,5.6,3.6,5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873754,1058680
+351,Mango,Arbol,Maduro,0.74,0.64,0.2,0.2,0,0,2.2,5.3,3.1,4.6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873761,1058690
+352,Chiminango,Arbol,Maduro,1.4,0,0.28,0.28,0.36,1.4,2,8.5,6.5,6.8,0,3,0,0,0,"Medio (34 - 66%)",Regular,873762,1058690
+353,Naranjo,Arbusto,Maduro,0.7,0,0.14,0.14,0.38,0.52,2,6,4,4.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873762,1058690
+354,Aguacate,Arbol,Maduro,0.8,0.7,0.22,0.22,0,0,3,8,5,7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873748,1058700
+355,Chiminango,Arbol,Longevo,1.36,0,0.29,0.29,0.9,0.94,2,10.5,8.5,9.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873754,1058700
+356,"Palma de coco",Palma,Juvenil,0.8,0.4,0.13,0.13,0,0,0.5,3,2.5,2.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873756,1058700
+357,Mango,Arbol,Maduro,0.89,0,0.17,0.17,0.49,0.56,2,4.5,2.5,4.9,0,2,0,0,0,"Alto (67 - 100%)",Regular,873758,1058700
+358,Aguacate,Arbol,Maduro,0.58,0.41,0.13,0.13,0,0,2,5,3,4.6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873756,1058710
+359,Aguacate,Arbol,Maduro,0.23,0.13,0.04,0.04,0,0,2,3.2,1.2,3,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873756,1058700
+360,"Ficus Higueron, Ficus insipida, Caucho Insipida",Arbol,Maduro,5.19,6,1.91,1.91,0,0,2,13.5,11.5,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873764,1058700
+361,"Ceiba rosada",Arbol,Maduro,1.2,1.53,0.49,0.49,0,0,3.2,4.2,1,3.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873766,1058700
+362,Mango,Arbol,Maduro,1,0,0.15,0.15,0.4,0.57,2,5,3,5.2,0,3,0,0,0,"Alto (67 - 100%)",Regular,873764,1058710
+363,Chiminango,Arbol,Maduro,2,1.85,0.59,0.59,0,0,2,10.6,8.6,10.9,0,1,0,0,0,"Alto (67 - 100%)",Regular,873760,1058720
+364,"Guayacan rosado",Arbol,Maduro,0.3,0.25,0.08,0.08,0,0,2,5.2,3.2,3,0,1,0,0,0,"Alto (67 - 100%)",Regular,873765,1058720
+365,Chiminango,Arbol,Maduro,1.25,0,0.3,0.3,0.84,1.04,2,13.5,11.5,12.6,0,2,0,0,0,"Alto (67 - 100%)",Regular,873777,1058720
+366,"Seso, Bien me sabe",Arbol,Maduro,0.24,0.2,0.06,0.06,0,0,2,3.6,1.6,2,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873766,1058730
+367,"Guayacan rosado",Arbol,Maduro,0.34,0.3,0.1,0.1,0,0,2,5,3,3,0,1,0,0,0,"Medio (34 - 66%)",Regular,873781,1058740
+368,Guanabano,Arbol,Maduro,0.57,0.44,0.14,0.14,0,0,2,5.1,3.1,4.2,0,1,0,0,0,"Alto (67 - 100%)",Regular,873763,1058730
+369,Chiminango,Arbol,Maduro,1.95,0,0.32,0.32,0.65,1.37,2,12,10,13,0,8,0,0,0,"Alto (67 - 100%)",Regular,873760,1058740
+370,Chiminango,Arbol,Maduro,2.06,0,0.52,0.52,1.5,1.78,2,12,10,10.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873754,1058730
+371,Chiminango,Arbol,Maduro,2.34,0,0.44,0.44,1.24,1.53,2,10.8,8.8,10,0,4,0,0,0,"Alto (67 - 100%)",Regular,873748,1058720
+372,Mango,Arbol,Maduro,0.45,0,0.07,0.07,0.2,0.27,2,3.2,1.2,2.2,0,3,0,0,0,"Alto (67 - 100%)",Regular,873741,1058710
+373,Chiminango,Arbol,Maduro,2.02,0,0.35,0.35,1.1,1.12,2,8,6,9,0,4,0,0,0,"Alto (67 - 100%)",Regular,873735,1058700
+374,Chiminango,Arbol,Maduro,1.61,0,0.37,0.37,0.82,1.53,2,7.5,5.5,6.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873733,1058700
+375,"Dracaena roja","Planta arbustiva",Maduro,0.72,0,0.07,0.07,0.13,0.28,1.2,3,1.8,2,0,3,0,0,0,"Alto (67 - 100%)",Regular,873731,1058700
+376,Guacimo,Arbol,Maduro,1.36,0,0.12,0.12,0.22,0.53,2.5,6,3.5,5,0,4,0,0,0,"Alto (67 - 100%)",Regular,873389,1056880
+377,Guacimo,Arbol,Maduro,1.35,0,0.08,0.08,0.23,0.3,1.5,3.5,2,4,0,2,0,0,0,"Medio (34 - 66%)",Regular,873382,1056870
+378,Gualanday,Arbol,Maduro,2.2,2.23,0.71,0.71,0,0,3,16,13,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873367,1056860
+379,Mandarina,Arbusto,Maduro,0.54,0.44,0.14,0.14,0,0,2.5,5,2.5,4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873355,1056860
+380,Guanabano,Arbol,Maduro,1.26,1.2,0.38,0.38,0,0,2.6,11,8.4,7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873350,1056860
+381,Aguacate,Arbol,Maduro,1.06,0,0.1,0.1,0.22,0.42,2,5,3,4,0,2,0,0,0,"Medio (34 - 66%)",Regular,873316,1056880
+382,Sietecueros,Arbol,Maduro,0.35,0,0.04,0.04,0.12,0.14,0.6,3,2.4,5,0,3,0,0,0,"Medio (34 - 66%)",Sano,873318,1056880
+383,"Acacia robinia",Arbol,Maduro,1.17,0,0.25,0.25,0.75,0.8,4,10,6,11,0,2,0,0,0,"Alto (67 - 100%)",Regular,873156,1057210
+384,Gualanday,Arbol,Maduro,1.18,1.02,0.32,0.32,0,0,5,13,8,9,0,1,0,0,0,"Alto (67 - 100%)",Regular,873158,1057200
+385,Gualanday,Arbol,Maduro,1,0.9,0.29,0.29,0,0,5.5,13,7.5,8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873157,1057200
+386,Gualanday,Arbol,Maduro,1.75,1.02,0.32,0.32,0,0,5,13,8,8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873158,1057190
+387,"Acacia robinia",Arbol,Maduro,0.86,0.81,0.26,0.26,0,0,4,7,3,6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873157,1057190
+388,Gualanday,Arbol,Maduro,1.32,1.13,0.36,0.36,0,0,5,14,9,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873158,1057180
+389,"Acacia robinia",Arbol,Juvenil,1.43,0.77,0.25,0.25,0,0,5,9,4,11,0,1,0,0,0,"Alto (67 - 100%)",Regular,873158,1057180
+390,"Acacia robinia",Arbol,Maduro,1.52,0.77,0.25,0.25,0,0,5,9,4,8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873159,1057170
+391,"Palma Payanesa",Palma,Maduro,0.85,0.75,0.24,0.24,0,0,8,12,4,6,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873160,1057160
+392,"Cadmio, Cananga",Arbol,Maduro,1.35,1.2,0.38,0.38,0,0,6,10,4,8,0,1,0,0,0,"Medio (34 - 66%)",Sano,873146,1057140
+393,"Cadmio, Cananga",Arbol,Maduro,0.84,0.65,0.21,0.21,0,0,6,12,6,7,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873154,1057150
+394,"Palma areca",Palma,Maduro,2.2,0,0.08,0.08,0.15,0.38,2,5,3,6,0,8,0,0,0,"Bajo (0 - 33%)",Sano,873156,1057130
+395,"Palma areca",Palma,Maduro,0.4,0.39,0.12,0.12,0,0,3,5,2,4,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873154,1057130
+396,"Palma areca",Palma,Maduro,1.1,0,0.05,0.05,0.12,0.2,0.8,2.2,1.4,2.5,0,6,0,0,0,"Bajo (0 - 33%)",Sano,873141,1057110
+397,Guacimo,Arbol,Maduro,3.4,0,0.28,0.28,0.65,1.13,3,11,8,16,0,5,0,0,0,"Alto (67 - 100%)",Regular,873128,1057110
+398,Mango,Arbol,Maduro,2.2,2.4,0.76,0.76,0,0,3,12,9,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873182,1057040
+399,Mango,Arbol,Maduro,3.2,1.8,0.57,0.57,0,0,5,12,7,13,0,1,0,0,0,"Alto (67 - 100%)",Regular,873188,1057040
+400,Mango,Arbol,Maduro,1.4,1.3,0.41,0.41,0,0,3,8,5,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873186,1057040
+401,Guacimo,Arbol,Maduro,2,0,0.45,0.45,1.2,1.6,4,11,7,15,0,2,0,0,0,"Alto (67 - 100%)",Regular,873223,1057080
+402,Guayabo,Arbusto,Maduro,0.68,0.64,0.2,0.2,0,0,2.5,5,2.5,10,0,1,0,0,0,"Medio (34 - 66%)",Regular,873218,1057080
+403,Arrayan,Arbol,Maduro,0.6,0,0.07,0.07,0.18,0.25,2,5,3,3,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873215,1057080
+404,Guacimo,Arbol,Maduro,2.15,1.67,0.53,0.53,0,0,4,14,10,15,0,1,0,0,0,"Alto (67 - 100%)",Regular,873214,1057090
+405,Chiminango,Arbol,Juvenil,1.16,0.8,0.25,0.25,0,0,2,5,3,8,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873227,1057090
+406,Guacimo,Arbol,Maduro,1.74,0,0.34,0.34,0.8,1.35,4,10,6,12,0,2,0,0,0,"Alto (67 - 100%)",Regular,873236,1057110
+407,Chiminango,Arbol,Juvenil,0.92,0,0.05,0.05,0.15,0.18,1.7,3.5,1.8,7,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873228,1057100
+408,Guacimo,Arbol,Maduro,1.12,0.95,0.3,0.3,0,0,3,10,7,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873244,1057100
+409,Leucaena,Arbol,Maduro,1.55,1.7,0.54,0.54,0,0,4,10,6,15,0,1,0,0,0,"Medio (34 - 66%)",Sano,873250,1057100
+410,Guacimo,Arbol,Maduro,1.8,1.6,0.51,0.51,0,0,2,9,7,8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873243,1057120
+411,Guacimo,Arbol,Maduro,1.7,1.5,0.48,0.48,0,0,2.5,12,9.5,19,0,1,0,0,0,"Alto (67 - 100%)",Regular,873254,1057100
+412,"Chambimbe, Jaboncillo",Arbol,Maduro,1.35,1.2,0.38,0.38,0,0,5,13,8,15,0,1,0,0,0,"Alto (67 - 100%)",Regular,873254,1057090
+413,Guacimo,Arbol,Maduro,1.9,0,0.23,0.23,0.6,0.85,2,10,8,12,0,2,0,0,0,"Alto (67 - 100%)",Regular,873257,1057080
+414,Guacimo,Arbol,Maduro,1.65,1.4,0.45,0.45,0,0,3,13,10,14,0,1,0,0,0,"Alto (67 - 100%)",Regular,873252,1057080
+415,Guacimo,Arbol,Maduro,1.7,0,0.32,0.32,0.82,1.18,3,13,10,12,0,2,0,0,0,"Alto (67 - 100%)",Regular,873249,1057090
+416,Guacimo,Arbol,Maduro,1,0.87,0.28,0.28,0,0,5,12,7,8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873245,1057090
+417,Guacimo,Arbol,Maduro,1.4,0,0.26,0.26,0.75,0.9,4,13,9,15,0,2,0,0,0,"Alto (67 - 100%)",Regular,873251,1057100
+418,Guacimo,Arbol,Maduro,0.84,0.8,0.25,0.25,0,0,4,10,6,11,0,1,0,0,0,"Alto (67 - 100%)",Regular,873242,1057090
+419,Guacimo,Arbol,Maduro,1.3,0,0.27,0.27,0.82,0.87,3,9,6,11,0,2,0,0,0,"Alto (67 - 100%)",Regular,873245,1057100
+420,"Palma areca",Palma,Maduro,0.9,0,0.07,0.07,0.21,0.25,3.5,6,2.5,4,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873295,1057240
+421,"Palma de coco",Palma,Juvenil,0.84,0.8,0.25,0.25,0,0,12,15,3,6,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873291,1057240
+422,"Dracena dereminsis","Planta arbustiva",Maduro,0.64,0,0.03,0.03,0.07,0.12,1,3,2,1,0,4,0,0,0,"Bajo (0 - 33%)",Sano,873298,1057250
+423,"Carbonero de flor blanca",Arbusto,Juvenil,0.45,0,0.06,0.06,0.12,0.25,0.8,1.5,0.7,3.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873321,1057280
+424,Limon,Arbusto,Maduro,0.32,0,0.07,0.07,0.17,0.24,1,3,2,2,0,2,0,0,0,"Alto (67 - 100%)",Regular,873291,1057280
+425,Aguacate,Arbol,Juvenil,0.65,0,0.09,0.09,0.24,0.32,2,4,2,5,0,3,0,0,0,"Alto (67 - 100%)",Regular,873288,1057280
+426,Aguacate,Arbol,Maduro,0.65,0,0.11,0.11,0.3,0.4,1.6,4.5,2.9,6,0,2,0,0,0,"Alto (67 - 100%)",Regular,873284,1057280
+427,"Dracena dereminsis","Planta arbustiva",Juvenil,0.48,0,0.05,0.05,0.14,0.15,1.1,2.3,1.2,1.5,0,2,0,0,0,"Bajo (0 - 33%)",Sano,873246,1057340
+428,"Dracena dereminsis","Planta arbustiva",Juvenil,0.75,0,0.1,0.1,0.28,0.32,2,5,3,2,0,2,0,0,0,"Alto (67 - 100%)",Regular,873250,1057330
+429,Aguacate,Arbol,Juvenil,0.5,0.45,0.14,0.14,0,0,2.5,7,4.5,4,0,1,0,0,0,"Alto (67 - 100%)",Regular,873250,1057340
+430,Aguacate,Arbol,Maduro,0.13,0.12,0.04,0.04,0,0,1,2.3,1.3,1.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873251,1057340
+431,Aguacate,Arbol,Maduro,0.37,0.32,0.1,0.1,0,0,1.6,5,3.4,4,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873252,1057340
+432,Almendro,Arbol,Maduro,0.9,0,0.18,0.18,0.52,0.6,1.7,5,3.3,4,0,2,0,0,0,"Medio (34 - 66%)",Regular,873255,1057290
+433,"Palma areca",Palma,Maduro,1.2,0,0.07,0.07,0.16,0.25,2,4,2,4,0,4,0,0,0,"Bajo (0 - 33%)",Sano,873254,1057290
+434,"Palma areca",Palma,Maduro,2.15,0,0.07,0.07,0.17,0.3,2,4,2,5,0,6,0,0,0,"Bajo (0 - 33%)",Sano,873255,1057290
+435,Almendro,Arbol,Juvenil,0.75,0.68,0.22,0.22,0,0,3,5,2,8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873334,1057370
+436,Aguacate,Arbol,Maduro,0.16,0.12,0.04,0.04,0,0,1.4,3,1.6,1.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873360,1057360
+437,"Pino romeron, Pino colombiano",Arbol,Juvenil,0.2,0.15,0.05,0.05,0,0,1.4,2.3,0.9,1.2,0,1,0,0,0,"Medio (34 - 66%)",Sano,873361,1057360
+438,Aguacate,Arbol,Maduro,0.5,0.42,0.13,0.13,0,0,2,6,4,4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873388,1057350
+439,Guayabo,Arbusto,Maduro,0.22,0.2,0.06,0.06,0,0,1.9,3,1.1,3,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873388,1057350
+440,Mango,Arbol,Maduro,0.7,0,0.12,0.12,0.26,0.47,1.8,5,3.2,4,0,3,0,0,0,"Alto (67 - 100%)",Regular,873392,1057340
+441,Mango,Arbol,Maduro,0.68,0,0.13,0.13,0.37,0.42,2,6,4,6,0,3,0,0,0,"Alto (67 - 100%)",Regular,873392,1057340
+442,Mango,Arbol,Maduro,0.9,0.5,0.16,0.16,0,0,2.3,6,3.7,5,0,1,0,0,0,"Alto (67 - 100%)",Sano,873388,1057340
+443,Naranjo,Arbusto,Maduro,0.16,0.13,0.04,0.04,0,0,1.2,2.5,1.3,1,0,1,0,0,0,"Medio (34 - 66%)",Regular,873390,1057340
+444,"Limon swinglea, Swinglea",Arbol,Maduro,1,0,0.19,0.19,0.6,0.61,3,7,4,8,0,2,0,0,0,"Alto (67 - 100%)",Regular,873398,1057350
+445,"Limon swinglea, Swinglea",Arbol,Maduro,0.62,0,0.14,0.14,0.4,0.48,3,7,4,7,0,2,0,0,0,"Medio (34 - 66%)",Regular,873400,1057360
+446,Limon,Arbusto,Maduro,0.37,0,0.07,0.07,0.22,0.23,1.3,3.5,2.2,4,0,2,0,0,0,"Alto (67 - 100%)",Regular,873294,1057620
+447,Guacimo,Arbol,Maduro,0.75,0,0.16,0.16,0.43,0.6,2,6,4,5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873271,1057700
+448,Leucaena,Arbol,Maduro,0.55,0.4,0.13,0.13,0,0,1.5,5,3.5,5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873266,1057740
+449,Chiminango,Arbol,Maduro,1.4,0,0.3,0.3,0.7,1.17,4,11,7,13,0,2,0,0,0,"Alto (67 - 100%)",Regular,873257,1057760
+450,"Eucaliptus grandis",Arbol,Maduro,0.22,0.2,0.06,0.06,0,0,2.3,7,4.7,3,0,1,0,0,0,"Alto (67 - 100%)",Sano,873237,1057750
+451,Chiminango,Arbol,Maduro,3.2,0,0.36,0.36,0.75,1.5,3,11,8,15,0,3,0,0,0,"Alto (67 - 100%)",Regular,873219,1057730
+452,Guacimo,Arbol,Maduro,0.72,0.67,0.21,0.21,0,0,2,10,8,9,0,1,0,0,0,"Alto (67 - 100%)",Regular,873250,1057660
+453,Guacimo,Arbol,Maduro,1.14,0.9,0.29,0.29,0,0,4,10,6,8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873253,1057650
+454,"Eucaliptus grandis",Arbol,Maduro,0.24,0,0.04,0.04,0.1,0.13,0.5,5,4.5,2,0,2,0,0,0,"Medio (34 - 66%)",Sano,873242,1057600
+455,"Eucaliptus grandis",Arbol,Maduro,0.27,0.26,0.08,0.08,0,0,2,8,6,3,0,1,0,0,0,"Medio (34 - 66%)",Sano,873216,1057550
+456,"Eucaliptus grandis",Arbol,Maduro,0.2,0.15,0.05,0.05,0,0,1.5,5,3.5,2.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873205,1057510
+457,"Guayacan rosado",Arbol,Maduro,0.52,0.51,0.16,0.16,0,0,2,6,4,2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873490,1057020
+458,"Palma areca",Palma,Maduro,1.4,0,0.07,0.07,0.15,0.27,1.8,3.5,1.7,3,0,5,0,0,0,"Bajo (0 - 33%)",Sano,873484,1057020
+459,"Dracena dereminsis","Planta arbustiva",Maduro,0.92,0,0.06,0.06,0.13,0.27,2,5,3,1.5,0,4,0,0,0,"Medio (34 - 66%)",Regular,873480,1057020
+460,"Arrayan cerezo",Arbusto,Maduro,0.45,0,0.04,0.04,0.08,0.18,1.6,3,1.4,1.3,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873486,1057020
+461,"Seso, Bien me sabe",Arbol,Maduro,0.22,0.2,0.06,0.06,0,0,1.7,4,2.3,1.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873480,1057010
+462,Almendro,Arbol,Juvenil,0.63,0.57,0.18,0.18,0,0,1.6,3,1.4,3.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873488,1057010
+463,Almendro,Arbol,Maduro,0.75,0.7,0.22,0.22,0,0,1.4,3,1.6,7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873488,1057000
+464,Resucitado,Arbusto,Maduro,0.52,0,0.03,0.03,0.05,0.15,0.3,2,1.7,2,0,7,0,0,0,"Medio (34 - 66%)",Sano,873487,1056980
+465,Veranera,"Planta arbustiva",Maduro,0.44,0,0.05,0.05,0.1,0.2,0.6,2.5,1.9,3,0,4,0,0,0,"Alto (67 - 100%)",Sano,873484,1056970
+466,"Ficus benjamina, Caucho benjamin",Arbol,Maduro,0.8,0,0.13,0.13,0.3,0.5,1.7,5,3.3,3,0,5,0,0,0,"Alto (67 - 100%)",Regular,873525,1056830
+467,"Palma areca",Palma,Juvenil,2,0,0.06,0.06,0.12,0.27,4,7,3,7,0,8,0,0,0,"Bajo (0 - 33%)",Sano,873529,1056750
+468,Francesina,Arbusto,Juvenil,0.24,0,0.03,0.03,0.05,0.13,1,2.5,1.5,2,0,3,0,0,0,"Medio (34 - 66%)",Regular,873531,1056740
+469,"Acacia robinia",Arbol,Juvenil,2.4,0,0.26,0.26,0.63,1,3,5,2,7,0,3,0,0,0,"Alto (67 - 100%)",Regular,873530,1056740
+470,"Acacia robinia",Arbol,Juvenil,1.3,0,0.15,0.15,0.3,0.66,5,12,7,10,0,4,0,0,0,"Alto (67 - 100%)",Regular,873523,1056730
+471,"Jazmin de noche, Caballero de la noche",Arbusto,Maduro,0.32,0,0.02,0.02,0.05,0.1,1,2.3,1.3,2,0,4,0,0,0,"Medio (34 - 66%)",Sano,873533,1056710
+472,"Palma Sica, Palma de Sagu, Funeraria, Palma Funebre",Palma,Maduro,0.5,0.45,0.14,0.14,0,0,0.6,2,1.4,2,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873528,1056710
+473,"Palma Sica, Palma de Sagu, Funeraria, Palma Funebre",Palma,Juvenil,0.7,0.6,0.19,0.19,0,0,0.6,1.8,1.2,1.5,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873531,1056710
+474,"Dracena dereminsis","Planta arbustiva",Maduro,1.2,0,0.05,0.05,0.12,0.2,0.3,2.5,2.2,1,0,4,0,0,0,"Medio (34 - 66%)",Regular,873531,1056710
+475,"Carbonero de flor blanca",Arbusto,Maduro,0.56,0,0.13,0.13,0.3,0.5,1.7,4,2.3,6,0,2,0,0,0,"Alto (67 - 100%)",Regular,873604,1056290
+476,Chiminango,Arbol,Maduro,2.5,0,0.33,0.33,0.6,1.5,3,12,9,11,0,4,0,0,0,"Alto (67 - 100%)",Regular,873594,1056270
+477,Guacimo,Arbol,Maduro,1.6,0,0.27,0.27,0.7,0.98,1.3,9,7.7,14,0,2,0,0,0,"Alto (67 - 100%)",Regular,873582,1056230
+478,Chiminango,Arbol,Maduro,1.7,0,0.29,0.29,0.8,1.05,3,14,11,15,0,5,0,0,0,"Alto (67 - 100%)",Regular,873559,1056190
+479,Guanabano,Arbol,Juvenil,0.87,0.6,0.19,0.19,0,0,3,9,6,4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873551,1056150
+480,"Dracena dereminsis","Planta arbustiva",Maduro,0.3,0.2,0.06,0.06,0,0,2.3,5.5,3.2,1,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873551,1056150
+481,"Capote rojo, Capote rojo brasilero",Arbusto,Maduro,0.54,0,0.05,0.05,0.1,0.2,1.3,3.7,2.4,4,0,3,0,0,0,"Medio (34 - 66%)",Regular,873548,1056170
+482,"Capote rojo, Capote rojo brasilero",Arbusto,Maduro,0.8,0,0.05,0.05,0.1,0.2,1,4,3,5,0,4,0,0,0,"Medio (34 - 66%)",Regular,873549,1056180
+483,Mango,Arbol,Maduro,1.6,0,0.32,0.32,0.94,1.05,4,9,5,8,0,2,0,0,0,"Alto (67 - 100%)",Regular,873546,1056180
+484,"Chambimbe, Jaboncillo",Arbol,Maduro,1.3,1.1,0.35,0.35,0,0,5,10,5,15,0,1,0,0,0,"Alto (67 - 100%)",Regular,873543,1056190
+485,"Guayacan rosado",Arbol,Maduro,1.04,0.84,0.27,0.27,0,0,4,10,6,8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873533,1056200
+486,"Guayacan rosado",Arbol,Maduro,0.64,0.55,0.18,0.18,0,0,3,10,7,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873546,1056200
+487,"Floramarillo, Velero, Vainillo",Arbol,Maduro,1.26,1.04,0.33,0.33,0,0,6,12,6,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873536,1056210
+488,Guanabano,Arbol,Maduro,1.2,1.05,0.33,0.33,0,0,2.3,9,6.7,4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873534,1056220
+489,Mango,Arbol,Maduro,1.26,1.13,0.36,0.36,0,0,2.6,7,4.4,9,0,1,0,0,0,"Alto (67 - 100%)",Regular,873540,1056220
+490,Mango,Arbol,Maduro,1.63,0,0.23,0.23,0.72,0.74,2,7,5,10,0,2,0,0,0,"Alto (67 - 100%)",Regular,873540,1056220
+491,Mango,Arbol,Maduro,0.24,0.2,0.06,0.06,0,0,2.7,6,3.3,2,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873544,1056230
+492,Mango,Arbol,Maduro,0.96,0.82,0.26,0.26,0,0,3,6,3,5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873546,1056230
+493,"Casuarina, Pino australiano",Arbol,Maduro,1.57,1.2,0.38,0.38,0,0,6,12,6,8,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873546,1056230
+494,"Arrayan cerezo",Arbusto,Maduro,0.27,0,0.06,0.06,0.16,0.2,1.4,4,2.6,4,0,2,0,0,0,"Medio (34 - 66%)",Regular,873549,1056240
+495,"Guamo rabo de mico, Guamo churimo",Arbol,Maduro,0.2,0.1,0.03,0.03,0,0,1.2,2,0.8,1.8,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873547,1056240
+496,"Capote rojo, Capote rojo brasilero",Arbusto,Maduro,0.4,0,0.05,0.05,0.1,0.2,0.3,3.5,3.2,4,0,4,0,0,0,"Medio (34 - 66%)",Sano,873550,1056240
+497,"Dracena dereminsis","Planta arbustiva",Maduro,0.27,0.1,0.03,0.03,0,0,0.3,2.8,2.5,1,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873551,1056240
+498,Mango,Arbol,Maduro,1.5,0,0.24,0.24,0.71,0.8,2.5,8,5.5,10,0,3,0,0,0,"Alto (67 - 100%)",Regular,873555,1056250
+499,Mango,Arbol,Maduro,2.6,0,0.37,0.37,1.03,1.3,3,8,5,11,0,2,0,0,0,"Alto (67 - 100%)",Regular,873564,1056270
+500,Mango,Arbol,Juvenil,0.9,0.8,0.25,0.25,0,0,2.5,7,4.5,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873564,1056270
+501,Mango,Arbol,Maduro,1.5,1.3,0.41,0.41,0,0,5,14,9,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873575,1056290
+502,Zapote,Arbol,Maduro,1.34,1.2,0.38,0.38,0,0,4,10,6,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873575,1056290
+503,"Chambimbe, Jaboncillo",Arbol,Juvenil,0.9,0.75,0.24,0.24,0,0,3,10,7,8,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873572,1056290
+504,"Guamo rabo de mico, Guamo churimo",Arbol,Juvenil,0.94,0.9,0.29,0.29,0,0,6,15,9,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873574,1056300
+505,Mango,Arbol,Maduro,1.5,0,0.21,0.21,0.5,0.8,3,8,5,6,0,2,0,0,0,"Medio (34 - 66%)",Regular,873567,1056300
+506,Guacimo,Arbol,Juvenil,0.7,0,0.11,0.11,0.2,0.5,1.6,7,5.4,9,0,3,0,0,0,"Alto (67 - 100%)",Regular,873570,1056300
+507,"Eucaliptus grandis",Arbol,Juvenil,1.96,1.85,0.59,0.59,0,0,7,16,9,10,0,1,0,0,0,"Medio (34 - 66%)",Regular,873561,1056300
+508,"Ciruelo, Hobo, Jobo",Arbol,Maduro,0.25,0.2,0.06,0.06,0,0,2,5,3,3,0,1,0,0,0,"Medio (34 - 66%)",Sano,873553,1056310
+509,"Nacedero, Madre de agua",Arbol,Maduro,0.8,0,0.1,0.1,0.2,0.4,1.5,5,3.5,6,0,7,0,0,0,"Alto (67 - 100%)",Regular,873555,1056310
+510,"Carbonero de flor blanca",Arbusto,Maduro,0.14,0,0.17,0.17,0.3,0.74,3,5,2,5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873560,1056300
+511,"Dracena dereminsis","Planta arbustiva",Maduro,0.5,0,0.06,0.06,0.15,0.2,0.3,2.1,1.8,1,0,3,0,0,0,"Bajo (0 - 33%)",Sano,873595,1056300
+512,Mango,Arbol,Maduro,1.1,0.93,0.3,0.3,0,0,2,7,5,6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873535,1056650
+513,Chiminango,Arbol,Maduro,2.7,0,0.46,0.46,1.17,1.75,3,9,6,13,0,2,0,0,0,"Medio (34 - 66%)",Regular,873490,1056670
+514,Leucaena,Arbol,Maduro,1.14,0,0.21,0.21,0.54,0.75,3,9,6,8,0,2,0,0,0,"Alto (67 - 100%)",Regular,873478,1056660
+515,"Friega platos",Arbusto,Juvenil,0.23,0.2,0.06,0.06,0,0,1.7,2.4,0.7,1.5,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873482,1056660
+516,"Saman, Genizaro",Arbol,Maduro,0.6,0.52,0.17,0.17,0,0,2,7,5,6,0,1,0,0,0,"Medio (34 - 66%)",Sano,873479,1056670
+517,Leucaena,Arbol,Juvenil,0.3,0.22,0.07,0.07,0,0,1.8,7,5.2,3,0,1,0,0,0,"Medio (34 - 66%)",Sano,873481,1056670
+518,"Chambimbe, Jaboncillo",Arbol,Maduro,1.57,1.1,0.35,0.35,0,0,3,10,7,13,0,1,0,0,0,"Alto (67 - 100%)",Regular,873488,1056670
+519,"Nacedero, Madre de agua",Arbol,Juvenil,1.4,0,0.1,0.1,0.3,0.34,1,6,5,5,0,5,0,0,0,"Alto (67 - 100%)",Sano,873480,1056680
+520,Guacimo,Arbol,Maduro,5.06,0,0.24,0.24,0.6,0.9,2,13,11,14,0,7,0,0,0,"Alto (67 - 100%)",Regular,873473,1056690
+521,"Floramarillo, Velero, Vainillo",Arbol,Juvenil,0.34,0,0.08,0.08,0.22,0.3,2.3,6,3.7,8,0,2,0,0,0,"Medio (34 - 66%)",Regular,873471,1056700
+522,Guacimo,Arbol,Maduro,3,0,0.18,0.18,0.4,0.7,1.3,7,5.7,11,0,2,0,0,0,"Alto (67 - 100%)",Regular,873479,1056700
+523,"Chambimbe, Jaboncillo",Arbol,Maduro,0.55,0.4,0.13,0.13,0,0,3,6,3,5,0,1,0,0,0,"Alto (67 - 100%)",Sano,873487,1056690
+524,Leucaena,Arbol,Maduro,0.45,0.3,0.1,0.1,0,0,2,5,3,3,0,1,0,0,0,"Medio (34 - 66%)",Sano,873476,1056710
+525,Guacimo,Arbol,Maduro,2.4,0,0.33,0.33,1,1.1,3,12,9,11,0,3,0,0,0,"Alto (67 - 100%)",Regular,873476,1056730
+526,Leucaena,Arbol,Maduro,1.6,0,0.24,0.24,0.7,0.8,2,11,9,14,0,2,0,0,0,"Alto (67 - 100%)",Regular,873486,1056730
+527,Veranera,"Planta arbustiva",Maduro,0.36,0.44,0.14,0.14,0,0,2,4.5,2.5,1.3,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873527,1056670
+528,"Dracena dereminsis","Planta arbustiva",Maduro,0.5,0,0.12,0.12,0.36,0.38,1.6,7,5.4,1,0,2,0,0,0,"Bajo (0 - 33%)",Sano,873530,1056700
+529,Guacimo,Arbol,Maduro,0.6,0,0.04,0.04,0.1,0.12,1,3,2,4,0,3,0,0,0,"Medio (34 - 66%)",Sano,873524,1056710
+530,Guacimo,Arbol,Maduro,0.45,0.25,0.08,0.08,0,0,1.2,6,4.8,2,0,1,0,0,0,"Alto (67 - 100%)",Sano,873528,1056720
+531,Aguacate,Arbol,Maduro,0.5,0.45,0.14,0.14,0,0,2.3,4.5,2.2,3,0,1,0,0,0,"Alto (67 - 100%)",Regular,873487,1056750
+532,Mango,Arbol,Maduro,1,0,0.19,0.19,0.4,0.8,3,7,4,6,0,2,0,0,0,"Alto (67 - 100%)",Regular,873481,1056750
+533,Aguacate,Arbol,Maduro,0.7,0.6,0.19,0.19,0,0,1.3,5,3.7,7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873468,1056750
+534,Mango,Arbol,Maduro,0.35,0.3,0.1,0.1,0,0,1,6,5,4,0,1,0,0,0,"Medio (34 - 66%)",Sano,873461,1056750
+535,"Chambimbe, Jaboncillo",Arbol,Maduro,1.9,0,0.35,0.35,0.8,1.4,3,9,6,11,0,2,0,0,0,"Alto (67 - 100%)",Sano,873462,1056750
+536,Mandarina,Arbusto,Maduro,0.8,0,0.08,0.08,0.2,0.3,2.5,5,2.5,4,0,3,0,0,0,"Alto (67 - 100%)",Regular,873460,1056740
+537,Guacimo,Arbol,Maduro,0.45,0.4,0.13,0.13,0,0,1.8,3,1.2,2.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873461,1056730
+538,"Chorro de oro, Lluvia de oro",Arbol,Maduro,1,0,0.13,0.13,0.28,0.52,0.9,3.5,2.6,3,0,3,0,0,0,"Alto (67 - 100%)",Regular,873532,1056110
+539,Leucaena,Arbol,Maduro,0.17,0.15,0.05,0.05,0,0,1.2,5,3.8,2,0,1,0,0,0,"Medio (34 - 66%)",Sano,873489,1056060
+540,Leucaena,Arbol,Maduro,0.22,0.18,0.06,0.06,0,0,1,4,3,2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873488,1056060
+541,Leucaena,Arbol,Juvenil,0.36,0.28,0.09,0.09,0,0,2,6,4,2,0,1,0,0,0,"Medio (34 - 66%)",Sano,873491,1056060
+542,"Papayuelo, Paraguas chino",Arbol,Maduro,0.28,0,0.04,0.04,0.1,0.17,1,3,2,2,0,2,0,0,0,"Bajo (0 - 33%)",Sano,873499,1056140
+543,"Chirlobirlo, Floramarillo",Arbusto,Maduro,0.42,0.35,0.11,0.11,0,0,2,5,3,3,0,1,0,0,0,"Medio (34 - 66%)",Regular,873497,1056130
+544,"Papayuelo, Paraguas chino",Arbol,Maduro,0.2,0.19,0.06,0.06,0,0,1.2,3.5,2.3,1.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873503,1056140
+545,"Papayuelo, Paraguas chino",Arbol,Maduro,0.86,0,0.09,0.09,0.23,0.33,2,6,4,5,0,3,0,0,0,"Medio (34 - 66%)",Sano,873507,1056150
+546,"Chirlobirlo, Floramarillo",Arbusto,Maduro,0.47,0.33,0.11,0.11,0,0,2,5,3,3,0,1,0,0,0,"Medio (34 - 66%)",Regular,873504,1056150
+547,"Chirlobirlo, Floramarillo",Arbusto,Juvenil,0.87,0.46,0.15,0.15,0,0,1.3,6,4.7,3,0,1,0,0,0,"Medio (34 - 66%)",Regular,873505,1056150
+548,"Papayuelo, Paraguas chino",Arbol,Maduro,0.87,0,0.07,0.07,0.12,0.33,1.8,4,2.2,4,0,2,0,0,0,"Medio (34 - 66%)",Sano,873510,1056160
+549,Guacimo,Arbol,Maduro,1.5,0,0.21,0.21,0.25,1.1,3,9,6,8,0,3,0,0,0,"Alto (67 - 100%)",Regular,873531,1056300
+550,"Palma areca",Palma,Maduro,2.1,0,0.09,0.09,0.27,0.32,2,4,2,4,0,4,0,0,0,"Bajo (0 - 33%)",Sano,873507,1056360
+551,Ciruelo,Arbusto,Juvenil,1.2,0.75,0.24,0.24,0,0,3,5,2,5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873521,1056390
+552,Leucaena,Arbol,Maduro,0.8,0.55,0.18,0.18,0,0,4,11,7,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873510,1056450
+553,Chiminango,Arbol,Juvenil,2.5,1.37,0.44,0.44,0,0,4,15,11,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873503,1056460
+554,Leucaena,Arbol,Maduro,0.4,0.37,0.12,0.12,0,0,2,6,4,4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873492,1056460
+555,Leucaena,Arbol,Maduro,0.45,0.4,0.13,0.13,0,0,3,8,5,5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873485,1056460
+556,Leucaena,Arbol,Maduro,1.4,0,0.13,0.13,0.32,0.5,3,8,5,10,0,3,0,0,0,"Alto (67 - 100%)",Regular,873457,1056460
+557,Leucaena,Arbol,Maduro,0.6,0.51,0.16,0.16,0,0,1.5,6,4.5,7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873434,1056470
+558,Leucaena,Arbol,Maduro,0.5,0,0.07,0.07,0.19,0.22,2,5,3,3,0,3,0,0,0,"Medio (34 - 66%)",Regular,873425,1056470
+559,Leucaena,Arbol,Maduro,0.28,0.25,0.08,0.08,0,0,1.7,5,3.3,3,0,1,0,0,0,"Medio (34 - 66%)",Sano,873427,1056470
+560,Leucaena,Arbol,Maduro,0.3,0.24,0.08,0.08,0,0,1.6,5,3.4,2.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873433,1056480
+561,Guacimo,Arbol,Juvenil,2.2,1.6,0.51,0.51,0,0,2,11,9,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873378,1056560
+562,Leucaena,Arbol,Maduro,1.58,1.43,0.46,0.46,0,0,3,12,9,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873571,1057090
+563,Mango,Arbol,Juvenil,1.35,0,0.11,0.11,0.28,0.38,2,4,2,4,0,2,0,0,0,"Alto (67 - 100%)",Regular,873630,1057100
+564,"Palma Washingtonia",Palma,Juvenil,0.87,0.87,0.28,0.28,0,0,1.3,3,1.7,5,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873713,1057130
+565,"Cojon de cabrito, Pepa de cabra, Cajeto, Enebro",Arbusto,Maduro,0.87,0,0.06,0.06,0.16,0.2,0.5,2.3,1.8,3,0,2,0,0,0,"Medio (34 - 66%)",Sano,873707,1057140
+566,"Ficus benjamina, Caucho benjamin",Arbol,Maduro,1.8,0,0.38,0.38,1.17,1.22,1.6,6,4.4,8,0,2,0,0,0,"Alto (67 - 100%)",Regular,873722,1057130
+567,Guacimo,Arbol,Maduro,1.2,1.1,0.35,0.35,0,0,2,6,4,4,0,1,0,0,0,"Alto (67 - 100%)",Regular,873459,1056710
+568,Araucaria,Arbol,Maduro,0.8,0.7,0.22,0.22,0,0,2.3,12,9.7,4,0,1,0,0,0,"Alto (67 - 100%)",Regular,873724,1057130
+569,"Seso, Bien me sabe",Arbol,Maduro,1.68,1.36,0.43,0.43,0,0,2,10,8,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873722,1057120
+570,Araucaria,Arbol,Maduro,1.38,1.16,0.37,0.37,0,0,3,15,12,5,0,1,0,0,0,"Alto (67 - 100%)",Sano,873721,1057030
+571,"Palma areca",Palma,Maduro,0.7,0,0.11,0.11,0.33,0.34,4,7,3,5,0,2,0,0,0,"Bajo (0 - 33%)",Sano,873720,1057030
+572,"Palma areca",Palma,Maduro,1.53,0,0.1,0.1,0.28,0.33,4,7,3,5,0,4,0,0,0,"Bajo (0 - 33%)",Regular,873726,1057030
+573,Francesina,Arbusto,Maduro,1.03,0,0.05,0.05,0.14,0.17,1.2,2.5,1.3,3,0,5,0,0,0,"Alto (67 - 100%)",Sano,873671,1056950
+574,Araucaria,Arbol,Juvenil,1.08,0,0.26,0.26,0.79,0.84,2.5,5,2.5,4.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873883,1056350
+575,Matarraton,Arbol,Juvenil,1.06,0.85,0.27,0.27,0,0,2.5,8,5.5,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873896,1056340
+576,Leucaena,Arbol,Juvenil,2,1.7,0.54,0.54,0,0,4,10,6,14,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873902,1056340
+577,"Floramarillo, Velero, Vainillo",Arbol,Juvenil,0.87,0.83,0.26,0.26,0,0,2.5,8,5.5,7,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873930,1056340
+578,Leucaena,Arbol,Maduro,1.2,0.92,0.29,0.29,0,0,4,10,6,8,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873933,1056340
+579,Chiminango,Arbol,Maduro,2.3,0,0.37,0.37,0.87,1.47,2,10,8,9,0,3,0,0,0,"Medio (34 - 66%)",Regular,873935,1056320
+580,Chiminango,Arbol,Maduro,2.34,0,0.45,0.45,1.34,1.47,3,11,8,10,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873939,1056310
+581,"Balso, Balsa, Balso negro, Balso tambor",Arbol,Maduro,1.8,1.6,0.51,0.51,0,0,3,10,7,15,0,1,0,0,0,"Alto (67 - 100%)",Regular,873970,1056310
+582,"Guadua amarilla, Bambu amarillo, Bambu",Bambu,Maduro,0,0.14,0.04,0.04,0,0,1.5,8,6.5,3,0,1,0,0,0,"Alto (67 - 100%)",Regular,873972,1056320
+583,"Palo blanco",Arbol,Maduro,0.97,0,0.12,0.12,0.3,0.48,2,8,6,6,0,2,0,0,0,"Medio (34 - 66%)",Regular,873914,1056330
+584,"Floramarillo, Velero, Vainillo",Arbol,Maduro,1.3,0,0.13,0.13,0.3,0.52,2,7,5,6,0,5,0,0,0,"Bajo (0 - 33%)",Muerto,873911,1056340
+585,"Palma areca",Palma,Maduro,2.3,0,0.07,0.07,0.18,0.28,2,5,3,6,0,7,0,0,0,"Bajo (0 - 33%)",Sano,873668,1056350
+586,"Palma de yuca",Palma,Juvenil,1.5,0,0.08,0.08,0.19,0.31,1,3,2,1.5,0,3,0,0,0,"Medio (34 - 66%)",Regular,873672,1056350
+587,"Palma areca",Palma,Maduro,1,0,0.1,0.1,0.23,0.37,2,5,3,4,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873678,1056340
+588,"Palma areca",Palma,Maduro,0.5,0.4,0.13,0.13,0,0,3,5,2,4,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873678,1056340
+589,"Palma areca",Palma,Maduro,2,0,0.1,0.1,0.2,0.4,2,4,2,5,0,4,0,0,0,"Bajo (0 - 33%)",Regular,873680,1056340
+590,"Palma areca",Palma,Maduro,2.2,0,0.09,0.09,0.24,0.32,2,4,2,6,0,5,0,0,0,"Bajo (0 - 33%)",Regular,873679,1056340
+591,Guacimo,Arbol,Maduro,0.9,0,0.09,0.09,0.22,0.37,3.5,8.2,4.7,8.4,0,6,0,0,0,"Alto (67 - 100%)",Regular,873388,1056870
+592,Guacimo,Arbol,Maduro,1,0,0.18,0.18,0.38,0.74,3,8.5,5.5,8,0,2,0,0,0,"Alto (67 - 100%)",Regular,873392,1056870
+593,"Cerezo, Mirto, Azahar",Arbusto,Maduro,1.15,0,0.06,0.06,0.18,0.21,1.7,3.2,1.5,5,0,7,0,0,0,"Alto (67 - 100%)",Sano,873433,1056850
+594,Francesina,Arbusto,Maduro,0.46,0,0.05,0.05,0.12,0.2,0.5,2.8,2.3,2,0,6,0,0,0,"Alto (67 - 100%)",Regular,873432,1056850
+595,Guanabano,Arbol,Maduro,2.1,0,0.29,0.29,0.85,1,3.6,14.5,10.9,8,0,2,0,0,0,"Alto (67 - 100%)",Regular,873323,1056850
+596,Guanabano,Arbol,Maduro,1.2,1.08,0.34,0.34,0,0,2.9,12.5,9.6,9.2,0,1,0,0,0,"Alto (67 - 100%)",Regular,873315,1056850
+597,Guacimo,Arbol,Maduro,1.85,0,0.16,0.16,0.2,0.81,6,11,5,12,0,5,0,0,0,"Alto (67 - 100%)",Regular,873178,1057250
+598,"Palo blanco",Arbol,Maduro,1.2,0,0.11,0.11,0.22,0.5,5,9,4,4.5,0,3,0,0,0,"Medio (34 - 66%)",Sano,873186,1057260
+599,Chiminango,Arbol,Maduro,4.1,0,0.52,0.52,1.48,1.8,8,15,7,11,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873179,1057260
+600,"Limon swinglea, Swinglea",Arbol,Maduro,0.7,0,0.14,0.14,0.32,0.54,5,8,3,6,0,5,0,0,0,"Alto (67 - 100%)",Regular,873186,1057260
+601,"Seso, Bien me sabe",Arbol,Maduro,1.08,0.83,0.26,0.26,0,0,4,7,3,0,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873184,1057260
+602,Arrayan,Arbol,Maduro,0.61,0.37,0.12,0.12,0,0,4,7,3,5.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873185,1057250
+603,"Palo blanco",Arbol,Maduro,0.42,0.38,0.12,0.12,0,0,3,6,3,5.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873187,1057250
+604,Arrayan,Arbol,Maduro,0.6,0,0.08,0.08,0.2,0.31,3,7.3,4.3,5,0,4,0,0,0,"Medio (34 - 66%)",Regular,873185,1057250
+605,"Chirlobirlo, Floramarillo",Arbusto,Maduro,0.8,0,0.14,0.14,0.4,0.48,3,5,2,8,0,6,0,0,0,"Medio (34 - 66%)",Regular,873187,1057250
+606,"Chirlobirlo, Floramarillo",Arbusto,Maduro,0.9,0,0.11,0.11,0.23,0.46,2,5,3,7.5,0,8,0,0,0,"Medio (34 - 66%)",Regular,873189,1057260
+607,"Chirlobirlo, Floramarillo",Arbusto,Maduro,0.85,0,0.11,0.11,0.29,0.38,3,4.7,1.7,4.6,0,5,0,0,0,"Medio (34 - 66%)",Regular,873189,1057260
+608,"Seso, Bien me sabe",Arbol,Juvenil,1.3,0,0.13,0.13,0.35,0.48,3,5,2,0,0,3,0,0,0,"Bajo (0 - 33%)",Muerto,873193,1057260
+609,"Seso, Bien me sabe",Arbol,Juvenil,0.9,0,0.14,0.14,0.35,0.52,2,4,2,0,0,2,0,0,0,"Bajo (0 - 33%)",Muerto,873195,1057250
+610,Arrayan,Arbol,Maduro,1.1,0,0.11,0.11,0.3,0.37,3,7,4,5,0,4,0,0,0,"Medio (34 - 66%)",Regular,873194,1057250
+611,Arrayan,Arbol,Maduro,0.6,0,0.1,0.1,0.25,0.4,3,5,2,8,0,3,0,0,0,"Medio (34 - 66%)",Regular,873195,1057250
+612,"Chirlobirlo, Floramarillo",Arbusto,Longevo,0.65,0.32,0.1,0.1,0,0,3,6,3,7,0,1,0,0,0,"Medio (34 - 66%)",Regular,873196,1057240
+613,"Laurel blanco, Laurel Jigua, Laurel colorado y amarillo",Arbol,Maduro,0.4,0.32,0.1,0.1,0,0,3,7,4,5,0,1,0,0,0,"Alto (67 - 100%)",Sano,873196,1057240
+614,"Palo blanco",Arbol,Maduro,1.2,0,0.1,0.1,0.28,0.35,3,6,3,6.8,0,2,0,0,0,"Medio (34 - 66%)",Regular,873200,1057250
+615,"Palo blanco",Arbol,Juvenil,0.32,0.25,0.08,0.08,0,0,2,4,2,3,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873196,1057250
+616,"Aliso de rio, Sauce playero",Arbol,Maduro,2.3,0,0.09,0.09,0.2,0.38,3,6,3,9.5,0,9,0,0,0,"Medio (34 - 66%)",Regular,873197,1057250
+617,"Chirlobirlo, Floramarillo",Arbusto,Maduro,0.8,0,0.07,0.07,0.18,0.25,3.5,5,1.5,6.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873193,1057250
+618,"Chagualo, Cucharo",Arbol,Maduro,0.6,0,0.15,0.15,0.47,0.48,3,6,3,4.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873192,1057240
+619,"Seso, Bien me sabe",Arbol,Maduro,0.95,0,0.1,0.1,0.25,0.36,2,4,2,0,0,3,0,0,0,"Bajo (0 - 33%)",Muerto,873190,1057240
+620,Gualanday,Arbol,Maduro,0.83,0,0.08,0.08,0.13,0.35,3,5.5,2.5,4.8,0,3,0,0,0,"Medio (34 - 66%)",Regular,873198,1057220
+621,"Seso, Bien me sabe",Arbol,Maduro,0.8,0.6,0.19,0.19,0,0,3,5,2,0,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873194,1057220
+622,Chiminango,Arbol,Maduro,3.5,0,0.41,0.41,0.85,1.7,7,13,6,18.6,0,4,0,0,0,"Medio (34 - 66%)",Regular,873195,1057210
+623,Chiminango,Arbol,Maduro,1.85,0,0.16,0.16,0.48,0.55,5,8,3,10.5,0,4,0,0,0,"Medio (34 - 66%)",Regular,873194,1057200
+624,"Dracaena roja","Planta arbustiva",Maduro,0.3,0,0.04,0.04,0.11,0.13,0.4,2.6,2.2,1,0,2,0,0,0,"Alto (67 - 100%)",Regular,873368,1056880
+625,"Chambimbe, Jaboncillo",Arbol,Maduro,1.15,1.06,0.34,0.34,0,0,3.9,8.3,4.4,14,0,1,0,0,0,"Alto (67 - 100%)",Regular,873266,1057070
+626,"Orejero, Pinon de oreja",Arbol,Maduro,2,0,0.13,0.13,0.38,0.43,4,7,3,6.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873196,1057190
+627,"Orejero, Pinon de oreja",Arbol,Maduro,0.62,0.45,0.14,0.14,0,0,4,8,4,7.7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873202,1057190
+628,Leucaena,Arbol,Maduro,0.32,0,0.07,0.07,0.2,0.22,1.5,3.5,2,2,0,3,0,0,0,"Alto (67 - 100%)",Regular,873204,1057180
+629,"Lecherito, Lechero rojo, Manzanillo de cerca",Arbusto,Maduro,0.22,0.25,0.08,0.08,0,0,0.7,1.9,1.2,1.2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873210,1057220
+630,"Palo blanco",Arbol,Maduro,0.7,0,0.12,0.12,0.35,0.43,2,5,3,7,0,2,0,0,0,"Medio (34 - 66%)",Regular,873212,1057220
+631,Arrayan,Arbol,Maduro,0.3,0.2,0.06,0.06,0,0,3,4.2,1.2,1.8,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873213,1057220
+632,Gualanday,Arbol,Maduro,0.37,0.32,0.1,0.1,0,0,3,5,2,3,0,1,0,0,0,"Medio (34 - 66%)",Regular,873214,1057220
+633,Gualanday,Arbol,Maduro,0.87,0,0.14,0.14,0.28,0.57,4,8,4,9,0,2,0,0,0,"Alto (67 - 100%)",Regular,873216,1057210
+634,"Seso, Bien me sabe",Arbol,Longevo,0.38,0.27,0.09,0.09,0,0,2,3.7,1.7,0,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873217,1057220
+635,Aguacate,Arbol,Maduro,1,0.92,0.29,0.29,0,0,5,8,3,7.6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873215,1057210
+636,"Palo blanco",Arbol,Maduro,0.86,0,0.1,0.1,0.25,0.36,4,7,3,6.4,0,3,0,0,0,"Medio (34 - 66%)",Regular,873216,1057220
+637,Guacimo,Arbol,Maduro,2.8,0,0.21,0.21,0.5,0.85,6,10,4,13,0,6,0,0,0,"Alto (67 - 100%)",Regular,873217,1057220
+638,"Palo blanco",Arbol,Juvenil,1.3,0,0.27,0.27,0.43,1.25,5,8,3,7,0,6,0,0,0,"Medio (34 - 66%)",Regular,873218,1057210
+639,Arrayan,Arbol,Juvenil,1.15,0,0.08,0.08,0.23,0.3,4,7,3,6.2,0,4,0,0,0,"Medio (34 - 66%)",Regular,873222,1057210
+640,"Palo blanco",Arbol,Maduro,0.95,0.55,0.18,0.18,0,0,3,7,4,4.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873222,1057220
+641,Gualanday,Arbol,Juvenil,0.7,0,0.21,0.21,0.45,0.85,4,9,5,11,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873221,1057220
+642,Caucho,Arbol,Juvenil,0.48,0,0.09,0.09,0.25,0.32,3,6,3,5,0,3,0,0,0,"Medio (34 - 66%)",Sano,873224,1057210
+643,Chiminango,Arbol,Juvenil,2.7,0,0.37,0.37,0.5,1.8,7,12,5,10.5,0,4,0,0,0,"Bajo (0 - 33%)",Regular,873226,1057210
+644,"Palo blanco",Arbol,Maduro,0.88,0,0.1,0.1,0.2,0.42,4,8,4,5,0,3,0,0,0,"Medio (34 - 66%)",Regular,873229,1057220
+645,Guacimo,Arbol,Maduro,1.1,0,0.15,0.15,0.25,0.72,5,9,4,8,0,3,0,0,0,"Medio (34 - 66%)",Regular,873224,1057220
+646,"Palo blanco",Arbol,Maduro,1.8,0,0.16,0.16,0.22,0.8,4,8,4,10.5,0,4,0,0,0,"Medio (34 - 66%)",Regular,873223,1057220
+647,Gualanday,Arbol,Maduro,0.38,0.25,0.08,0.08,0,0,3,6,3,4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873219,1057220
+648,Arrayan,Arbol,Maduro,0.58,0.45,0.14,0.14,0,0,2,4.5,2.5,8.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873220,1057220
+649,"Palo blanco",Arbol,Juvenil,0.75,0,0.09,0.09,0.21,0.38,4,7,3,5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873221,1057220
+650,"Palo blanco",Arbol,Juvenil,0.58,0.47,0.15,0.15,0,0,2.3,5,2.7,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873222,1057220
+651,"Palo blanco",Arbol,Juvenil,1.2,0,0.18,0.18,0.32,0.78,3,7,4,11,0,3,0,0,0,"Medio (34 - 66%)",Regular,873228,1057230
+652,Guacimo,Arbol,Maduro,1.34,0,0.3,0.3,0.8,1.1,2.3,5,2.7,12,0,2,0,0,0,"Medio (34 - 66%)",Regular,873226,1057230
+653,"Seso, Bien me sabe",Arbol,Juvenil,2.35,1.85,0.59,0.59,0,0,7,11,4,0,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873232,1057230
+654,Guacimo,Arbol,Maduro,2.5,0,0.31,0.31,0.45,1.5,4,9,5,14,0,7,0,0,0,"Alto (67 - 100%)",Regular,873234,1057220
+655,"Palo blanco",Arbol,Maduro,2.6,0,0.24,0.24,0.4,1.1,4,8,4,12.6,0,6,0,0,0,"Medio (34 - 66%)",Regular,873227,1057210
+656,"Chambimbe, Jaboncillo",Arbol,Maduro,1.8,0,0.28,0.28,0.6,1.15,6,10,4,14,0,2,0,0,0,"Alto (67 - 100%)",Sano,873237,1057220
+657,"Palo blanco",Arbol,Maduro,1.4,0,0.12,0.12,0.35,0.42,3,5,2,4.7,0,4,0,0,0,"Medio (34 - 66%)",Regular,873236,1057230
+658,Guacimo,Arbol,Maduro,1.45,0,0.24,0.24,0.6,0.92,3,6,3,8,0,3,0,0,0,"Medio (34 - 66%)",Regular,873242,1057230
+659,Guacimo,Arbol,Maduro,1.38,0,0.22,0.22,0.42,0.98,4,8,4,11,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873242,1057230
+660,"Chambimbe, Jaboncillo",Arbol,Maduro,1.15,0.95,0.3,0.3,0,0,5,9,4,13.2,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873239,1057220
+661,"Palo blanco",Arbol,Maduro,0.6,0,0.14,0.14,0.4,0.45,2,3,1,2,0,2,0,0,0,"Medio (34 - 66%)",Regular,873240,1057220
+662,Guacimo,Arbol,Maduro,2.1,0,0.33,0.33,0.5,1.6,5,10,5,12.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873243,1057210
+663,"Palo blanco",Arbol,Maduro,0.86,0,0.1,0.1,0.3,0.35,2,4.6,2.6,5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873244,1057220
+664,"Palo blanco",Arbol,Maduro,0.6,0,0.14,0.14,0.4,0.45,2,3,1,2,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873244,1057230
+665,"Palo blanco",Arbol,Maduro,0.56,0.5,0.16,0.16,0,0,3,7.5,4.5,8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873231,1057200
+666,Guacimo,Arbol,Juvenil,1.82,0,0.24,0.24,0.37,1.15,6,10,4,12,0,4,0,0,0,"Alto (67 - 100%)",Regular,873235,1057190
+667,"Palo blanco",Arbol,Maduro,1.3,0,0.11,0.11,0.28,0.38,3,6,3,9.5,0,4,0,0,0,"Medio (34 - 66%)",Regular,873233,1057190
+668,"Palo blanco",Arbol,Maduro,1.2,0.6,0.19,0.19,0,0,3,6,3,8,0,1,0,0,0,"Medio (34 - 66%)",Regular,873234,1057190
+669,Guacimo,Arbol,Maduro,1.1,1,0.32,0.32,0,0,6,10,4,11.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873231,1057190
+670,"Palo blanco",Arbol,Maduro,0.77,0,0.13,0.13,0.36,0.44,3,7,4,7.7,0,2,0,0,0,"Alto (67 - 100%)",Regular,873231,1057190
+671,"Palo blanco",Arbol,Maduro,0.52,0.48,0.15,0.15,0,0,3,6,3,8.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873238,1057180
+672,Mango,Arbol,Maduro,1.7,1.4,0.45,0.45,0,0,4,6.5,2.5,6.4,0,1,0,0,0,"Alto (67 - 100%)",Regular,873374,1057080
+673,Cipres,Arbol,Maduro,0.45,0,0.08,0.08,0.2,0.3,1,2.4,1.4,2.2,0,3,0,0,0,"Alto (67 - 100%)",Sano,873380,1057090
+674,Aguacate,Arbol,Maduro,0.42,0.28,0.09,0.09,0,0,1.7,3,1.3,4.2,0,1,0,0,0,"Alto (67 - 100%)",Regular,873414,1057080
+675,"Palma botella, Palma imperial, Mapora",Palma,Maduro,0.73,0.41,0.13,0.13,0,0,1.6,3,1.4,2.8,0,1,0,0,0,"Medio (34 - 66%)",Sano,873545,1057050
+676,"Palma areca",Palma,Maduro,0.5,0.4,0.13,0.13,0,0,3.5,5,1.5,3.5,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873554,1056950
+677,Almendro,Arbol,Maduro,0.91,0.85,0.27,0.27,0,0,3.8,5.6,1.8,9.4,0,1,0,0,0,"Alto (67 - 100%)",Regular,873562,1056920
+678,Almendro,Arbol,Juvenil,0.9,0,0.14,0.14,0.37,0.5,3,5,2,3.5,0,3,0,0,0,"Alto (67 - 100%)",Regular,873565,1056900
+679,"Acacia robinia",Arbol,Maduro,1.7,0.85,0.27,0.27,0,0,3.5,6.5,3,9.2,0,1,0,0,0,"Alto (67 - 100%)",Regular,873573,1056840
+680,Mango,Arbol,Maduro,1.1,0.85,0.27,0.27,0,0,3.5,7,3.5,8.3,0,1,0,0,0,"Alto (67 - 100%)",Regular,873577,1056830
+681,"Ficus benjamina, Caucho benjamin",Arbol,Maduro,0.4,0,0.07,0.07,0.17,0.25,1.7,2.5,0.8,2.1,0,5,0,0,0,"Medio (34 - 66%)",Regular,873583,1056810
+682,"Ficus benjamina, Caucho benjamin",Arbol,Maduro,0.6,0,0.07,0.07,0.17,0.25,1.6,2.5,0.9,2.2,0,7,0,0,0,"Medio (34 - 66%)",Regular,873578,1056800
+683,Araucaria,Arbol,Juvenil,0.8,0.68,0.22,0.22,0,0,5,8,3,5,0,1,0,0,0,"Alto (67 - 100%)",Sano,873580,1056780
+684,"Dracaena roja","Planta arbustiva",Maduro,0.58,0,0.07,0.07,0.17,0.26,2,4,2,1.4,0,4,0,0,0,"Medio (34 - 66%)",Sano,873589,1056760
+685,"Limon swinglea, Swinglea",Arbol,Maduro,1.1,0.6,0.19,0.19,0,0,1.7,3.2,1.5,2.8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873588,1056760
+686,"Acacia robinia",Arbol,Maduro,1.1,1,0.32,0.32,0,0,4,6.5,2.5,11.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873602,1056660
+687,"Ficus benjamina, Caucho benjamin",Arbol,Maduro,1.3,1.15,0.37,0.37,0,0,7,12,5,11.8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873605,1056630
+688,"Seso, Bien me sabe",Arbol,Juvenil,1.2,0.85,0.27,0.27,0,0,2,4,2,0,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873610,1056630
+689,"Palma areca",Palma,Longevo,1.4,0,0.11,0.11,0.32,0.35,3,6,3,5.5,0,4,0,0,0,"Bajo (0 - 33%)",Regular,873607,1056620
+690,Mango,Arbol,Maduro,1.45,1.2,0.38,0.38,0,0,4,6.5,2.5,9.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873613,1056610
+691,"Acacia robinia",Arbol,Maduro,0.5,0,0.09,0.09,0.25,0.31,2,4,2,5.6,0,2,0,0,0,"Alto (67 - 100%)",Regular,873608,1056620
+692,Mango,Arbol,Maduro,1.41,0.83,0.26,0.26,0,0,2,4,2,2.22,0,1,0,0,0,"Medio (34 - 66%)",Regular,873611,1056600
+693,"Arrayan cerezo",Arbusto,Maduro,1.1,0,0.07,0.07,0.18,0.23,2.3,3.5,1.2,2.5,0,5,0,0,0,"Medio (34 - 66%)",Regular,873888,1056350
+694,"Palma areca",Palma,Maduro,1.1,0,0.09,0.09,0.18,0.37,1.5,3.2,1.7,4.22,0,3,0,0,0,"Medio (34 - 66%)",Sano,873887,1056340
+695,Guanabano,Arbol,Maduro,1,0.76,0.24,0.24,0,0,4,8,4,8.4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873900,1056310
+696,"Sauce Costeno, Bohio",Arbol,Juvenil,0.95,0.41,0.13,0.13,0,0,2,4,2,5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873944,1056340
+697,"Ficus ovalis, Caucho ovalis",Arbol,Maduro,0.38,0,0.07,0.07,0.2,0.24,2,4.3,2.3,2.5,0,2,0,0,0,"Medio (34 - 66%)",Sano,873945,1056330
+698,"Tulipan africano",Arbol,Maduro,0.83,0.58,0.18,0.18,0,0,2.3,4.5,2.2,6.5,0,1,0,0,0,"Medio (34 - 66%)",Sano,873970,1056340
+699,Guacimo,Arbol,Maduro,0.55,0,0.09,0.09,0.23,0.32,2,4.1,2.1,4.2,0,2,0,0,0,"Alto (67 - 100%)",Sano,873976,1056340
+700,"Ficus variegado",Arbol,Maduro,2.25,2.07,0.66,0.66,0,0,8,14,6,17,0,1,0,0,0,"Alto (67 - 100%)",Regular,873977,1056330
+701,"Guadua amarilla, Bambu amarillo, Bambu",Bambu,Juvenil,0,0.14,0.04,0.04,0,0,3,6,3,6,0,1,0,0,0,"Alto (67 - 100%)",Sano,873975,1056320
+702,Chiminango,Arbol,Juvenil,1.15,0.83,0.26,0.26,0,0,4,9,5,7,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873914,1056330
+703,Limon,Arbusto,Juvenil,0.85,0,0.11,0.11,0.34,0.35,2,3.5,1.5,5,0,3,0,0,0,"Alto (67 - 100%)",Regular,873912,1056340
+704,"Cojon de cabrito, Pepa de cabra, Cajeto, Enebro",Arbusto,Maduro,0.42,0,0.06,0.06,0.13,0.24,2,3.5,1.5,5.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873907,1056350
+705,Guanabano,Arbol,Longevo,1.05,0.83,0.26,0.26,0,0,3.5,5.5,2,5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873721,1056350
+706,Matarraton,Arbol,Maduro,1.7,0,0.27,0.27,0.8,0.92,3,9,6,14,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873890,1056340
+707,Matarraton,Arbol,Maduro,0.64,0.45,0.14,0.14,0,0,2.5,8,5.5,7,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873902,1056330
+708,Chiminango,Arbol,Maduro,1.72,1.52,0.48,0.48,0,0,3.5,8,4.5,17,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873912,1056320
+709,Chiminango,Arbol,Maduro,1.4,1.38,0.44,0.44,0,0,3.5,8,4.5,15,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873912,1056320
+710,Guayabo,Arbusto,Maduro,0.39,0,0.09,0.09,0.24,0.3,0.8,3.5,2.7,4.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873912,1056320
+711,"Friega platos",Arbusto,Maduro,0.48,0.28,0.09,0.09,0,0,2.5,6.5,4,7.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873908,1056320
+712,Limon,Arbusto,Maduro,0.35,0,0.06,0.06,0.14,0.23,1,4.5,3.5,3,0,2,0,0,0,"Medio (34 - 66%)",Regular,873906,1056320
+713,"Palo blanco",Arbol,Juvenil,0.72,0.34,0.11,0.11,0,0,2,6,4,7,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873906,1056330
+714,"Palo blanco",Arbol,Juvenil,0.76,0.45,0.14,0.14,0,0,2,7,5,7,0,1,0,0,0,"Medio (34 - 66%)",Regular,873906,1056330
+715,"Palo blanco",Arbol,Maduro,0.52,0.36,0.11,0.11,0,0,3,8,5,8,0,1,0,0,0,"Medio (34 - 66%)",Regular,873908,1056330
+716,"Palo blanco",Arbol,Maduro,0.67,0.36,0.11,0.11,0,0,3,8,5,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873908,1056340
+717,Guacimo,Arbol,Juvenil,1.57,1.53,0.49,0.49,0,0,3.2,4.5,1.3,6,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873277,1056890
+718,Guacimo,Arbol,Maduro,1.2,0,0.17,0.17,0.35,0.69,3,5,2,6,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873250,1056820
+719,Matarraton,Arbol,Maduro,1.09,1.07,0.34,0.34,0,0,4.5,8,3.5,10,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873250,1056820
+720,Guacimo,Arbol,Maduro,2.4,0,0.26,0.26,0.28,1.33,4,8,4,16,0,4,0,0,0,"Alto (67 - 100%)",Regular,873388,1056790
+721,"Cedro macho",Arbol,Maduro,0.7,0.46,0.15,0.15,0,0,3.5,6.5,3,8,0,1,0,0,0,"Medio (34 - 66%)",Regular,873391,1056790
+722,Guacimo,Arbol,Maduro,1.02,0.73,0.23,0.23,0,0,4.5,7,2.5,10,0,1,0,0,0,"Medio (34 - 66%)",Regular,873384,1056780
+723,"Cedro macho",Arbol,Juvenil,0.52,0.36,0.11,0.11,0,0,4,7,3,6,0,1,0,0,0,"Alto (67 - 100%)",Sano,873382,1056780
+724,"Cedro macho",Arbol,Juvenil,0.53,0,0.08,0.08,0.13,0.35,2,5,3,6,0,2,0,0,0,"Medio (34 - 66%)",Sano,873380,1056790
+725,"Palma de yuca",Palma,Maduro,0.27,0.18,0.06,0.06,0,0,2.5,3.5,1,1.2,0,1,0,0,0,"Medio (34 - 66%)",Sano,873375,1056790
+726,"Palma de yuca",Palma,Maduro,0.39,0.2,0.06,0.06,0,0,3,4.5,1.5,1.2,0,1,0,0,0,"Alto (67 - 100%)",Sano,873376,1056790
+727,"Palma de yuca",Palma,Maduro,0.56,0.27,0.09,0.09,0,0,4.5,5.5,1,1.2,0,1,0,0,0,"Alto (67 - 100%)",Sano,873375,1056790
+728,"Cedro macho",Arbol,Maduro,1.32,0,0.22,0.22,0.67,0.73,4.5,9.5,5,6,0,2,0,0,0,"Medio (34 - 66%)",Regular,873378,1056790
+729,"Palma de yuca",Palma,Maduro,0.58,0,0.07,0.07,0.18,0.27,0.6,4.5,3.9,4,0,2,0,0,0,"Alto (67 - 100%)",Sano,873374,1056800
+730,"Cedro macho",Arbol,Maduro,0.5,0.38,0.12,0.12,0,0,2.3,6.5,4.2,6,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873369,1056800
+731,"Seso, Bien me sabe",Arbol,Maduro,0.26,0,0.06,0.06,0.15,0.21,2,4.5,2.5,3,0,2,0,0,0,"Alto (67 - 100%)",Sano,873374,1056800
+732,"Seso, Bien me sabe",Arbol,Juvenil,0.24,0.2,0.06,0.06,0,0,2.1,4,1.9,3,0,1,0,0,0,"Alto (67 - 100%)",Sano,873375,1056800
+733,Aguacate,Arbol,Juvenil,0.37,0.23,0.07,0.07,0,0,1.3,2.5,1.2,2.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873376,1056800
+734,Aguacate,Arbol,Maduro,0.55,0.4,0.13,0.13,0,0,2.3,5.5,3.2,6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873379,1056800
+735,Guacimo,Arbol,Maduro,1.38,0,0.25,0.25,0.79,0.8,4.5,7,2.5,14,0,2,0,0,0,"Alto (67 - 100%)",Regular,873365,1056800
+736,Guacimo,Arbol,Juvenil,1.45,0,0.17,0.17,0.43,0.65,4.5,7,2.5,10,0,2,0,0,0,"Alto (67 - 100%)",Regular,873360,1056800
+737,Guanabano,Arbol,Juvenil,1.15,1.04,0.33,0.33,0,0,4.5,7.5,3,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873360,1056800
+738,Matarraton,Arbol,Juvenil,0.46,0.33,0.11,0.11,0,0,1.4,5,3.6,4.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873346,1056800
+739,Naranjo,Arbusto,Juvenil,0.63,0,0.09,0.09,0.25,0.29,1.8,5,3.2,5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873337,1056800
+740,"Cerezo, Mirto, Azahar",Arbusto,Maduro,0.45,0,0.08,0.08,0.25,0.26,1,3,2,3,0,2,0,0,0,"Alto (67 - 100%)",Regular,873335,1056800
+741,"Palma de coco",Palma,Juvenil,0.73,0.31,0.1,0.1,0,0,0.8,1.5,0.7,5,0,1,0,0,0,"Medio (34 - 66%)",Sano,873336,1056800
+742,Aguacate,Arbol,Maduro,0.92,0,0.13,0.13,0.36,0.44,3,5.5,2.5,6,0,2,0,0,0,"Medio (34 - 66%)",Regular,873323,1056810
+743,Mango,Arbol,Maduro,0.53,0,0.06,0.06,0.15,0.24,1.4,3.5,2.1,4,0,2,0,0,0,"Alto (67 - 100%)",Regular,873319,1056820
+744,"Dracaena roja","Planta arbustiva",Juvenil,0.57,0,0.07,0.07,0.21,0.22,1.5,4.5,3,2,0,2,0,0,0,"Alto (67 - 100%)",Regular,873310,1056810
+745,"Dracaena roja","Planta arbustiva",Juvenil,0.26,0.14,0.04,0.04,0,0,1.5,3,1.5,1,0,1,0,0,0,"Alto (67 - 100%)",Regular,873310,1056810
+746,Almendro,Arbol,Maduro,0.6,0,0.09,0.09,0.25,0.32,1.8,4,2.2,6.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873274,1056820
+747,"Caucho goldmannii",Arbol,Maduro,0.36,0.26,0.08,0.08,0,0,2,6.5,4.5,9,0,1,0,0,0,"Medio (34 - 66%)",Sano,873289,1056810
+748,"Acacia amarilla, Acacia siamea",Arbol,Maduro,3.41,1.61,0.51,0.51,0,0,7,17,10,11,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873197,1057090
+749,"Acacia amarilla, Acacia siamea",Arbol,Maduro,1.91,1.51,0.48,0.48,0,0,7,15,8,10,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873201,1057090
+750,"Acacia amarilla, Acacia siamea",Arbol,Maduro,0.54,0.36,0.11,0.11,0,0,3.5,5.5,2,2,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873202,1057090
+751,"Acacia amarilla, Acacia siamea",Arbol,Maduro,0.61,0.42,0.13,0.13,0,0,5,9.5,4.5,5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873198,1057100
+752,"Acacia amarilla, Acacia siamea",Arbol,Maduro,0.37,0.28,0.09,0.09,0,0,5,5.5,0.5,4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873200,1057100
+753,"Acacia amarilla, Acacia siamea",Arbol,Maduro,2.18,2.1,0.67,0.67,0,0,1.8,3,1.2,20,0,1,0,0,0,"Medio (34 - 66%)",Regular,873201,1057100
+754,"Palma areca",Palma,Maduro,1.24,0,0.05,0.05,0.13,0.16,1.2,2.1,0.9,2.5,0,6,0,0,0,"Medio (34 - 66%)",Regular,873199,1057100
+755,"Palma areca",Palma,Maduro,1.38,0,0.07,0.07,0.15,0.26,2.3,3.5,1.2,4.5,0,4,0,0,0,"Medio (34 - 66%)",Sano,873203,1057100
+756,"Acacia amarilla, Acacia siamea",Arbol,Maduro,1.07,0.51,0.16,0.16,0,0,3,5,2,5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873205,1057110
+757,"Acacia amarilla, Acacia siamea",Arbol,Maduro,1.11,0.78,0.25,0.25,0,0,3,9,6,8,0,1,0,0,0,"Medio (34 - 66%)",Regular,873203,1057110
+758,"Acacia robinia",Arbol,Juvenil,0.55,0,0.1,0.1,0.29,0.31,1.6,4,2.4,9,0,2,0,0,0,"Alto (67 - 100%)",Regular,873205,1057110
+759,"Acacia amarilla, Acacia siamea",Arbol,Maduro,1.02,0.74,0.24,0.24,0,0,6,12,6,20,0,1,0,0,0,"Medio (34 - 66%)",Regular,873204,1057110
+760,"Acacia amarilla, Acacia siamea",Arbol,Maduro,1.48,1.2,0.38,0.38,0,0,6,13,7,16,0,1,0,0,0,"Medio (34 - 66%)",Regular,873205,1057120
+761,"Acacia amarilla, Acacia siamea",Arbol,Maduro,1.5,1.27,0.4,0.4,0,0,2,14,12,18,0,1,0,0,0,"Medio (34 - 66%)",Regular,873202,1057120
+762,Guacimo,Arbol,Maduro,1.57,0,0.21,0.21,0.59,0.71,1.7,9,7.3,15,0,3,0,0,0,"Alto (67 - 100%)",Regular,873201,1057120
+763,"Acacia robinia",Arbol,Maduro,0.54,0,0.12,0.12,0.28,0.47,4.5,6,1.5,8,0,2,0,0,0,"Alto (67 - 100%)",Regular,873204,1057130
+764,Guacimo,Arbol,Maduro,1.12,0.81,0.26,0.26,0,0,4.5,9.5,5,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873203,1057130
+765,"Acacia amarilla, Acacia siamea",Arbol,Maduro,2.87,2.31,0.74,0.74,0,0,2.3,18,15.7,22,0,1,0,0,0,"Medio (34 - 66%)",Regular,873200,1057140
+766,Guayabo,Arbusto,Maduro,0.71,0.39,0.12,0.12,0,0,1.9,5,3.1,4.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873192,1057130
+767,"Palma botella, Palma imperial, Mapora",Palma,Maduro,1.73,0.94,0.3,0.3,0,0,4.5,6.5,2,5,0,1,0,0,0,"Medio (34 - 66%)",Sano,873190,1057130
+768,"Acacia robinia",Arbol,Maduro,0.9,0,0.18,0.18,0.54,0.6,4.5,7,2.5,8.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873197,1057150
+769,"Acacia robinia",Arbol,Juvenil,0.9,0,0.15,0.15,0.23,0.7,2.5,6,3.5,8,0,4,0,0,0,"Alto (67 - 100%)",Regular,873195,1057150
+770,"Acacia robinia",Arbol,Juvenil,0.85,0,0.21,0.21,0.67,0.67,2,7,5,10,0,2,0,0,0,"Alto (67 - 100%)",Regular,873196,1057150
+771,"Acacia robinia",Arbol,Maduro,0.55,0,0.11,0.11,0.18,0.5,1.2,3.5,2.3,6,0,3,0,0,0,"Alto (67 - 100%)",Regular,873191,1057160
+772,"Acacia robinia",Arbol,Juvenil,1.51,0,0.31,0.31,0.76,1.18,3,7.5,4.5,10,0,3,0,0,0,"Alto (67 - 100%)",Regular,873193,1057150
+773,"Acacia robinia",Arbol,Maduro,0.61,0,0.11,0.11,0.21,0.49,2,5,3,6,0,2,0,0,0,"Medio (34 - 66%)",Regular,873195,1057160
+774,"Acacia robinia",Arbol,Maduro,0.71,0,0.11,0.11,0.3,0.42,2.7,4.5,1.8,8,0,2,0,0,0,"Medio (34 - 66%)",Regular,873195,1057170
+775,"Acacia robinia",Arbol,Maduro,0.64,0,0.11,0.11,0.32,0.4,2.2,5,2.8,7,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873197,1057160
+776,"Acacia robinia",Arbol,Maduro,1.08,0,0.21,0.21,0.62,0.68,4,8,4,10,0,2,0,0,0,"Medio (34 - 66%)",Regular,873196,1057160
+777,Carbonero,Arbol,Maduro,0.75,0,0.1,0.1,0.23,0.42,5,6.5,1.5,7,0,2,0,0,0,"Medio (34 - 66%)",Regular,873198,1057160
+778,"Acacia robinia",Arbol,Maduro,1.16,0,0.21,0.21,0.41,0.89,3,7.5,4.5,10,0,2,0,0,0,"Medio (34 - 66%)",Regular,873199,1057150
+779,"Acacia robinia",Arbol,Maduro,1.19,0,0.23,0.23,0.62,0.85,5,8,3,12,0,2,0,0,0,"Medio (34 - 66%)",Regular,873196,1057140
+780,"Acacia robinia",Arbol,Maduro,1.44,0,0.27,0.27,0.75,0.94,2.5,10,7.5,12,0,2,0,0,0,"Alto (67 - 100%)",Regular,873207,1057150
+781,"Acacia amarilla, Acacia siamea",Arbol,Maduro,1.7,0,0.28,0.28,0.7,1.05,4,11,7,11,0,2,0,0,0,"Medio (34 - 66%)",Regular,873190,1057170
+782,Chiminango,Arbol,Maduro,0.78,0,0.14,0.14,0.22,0.65,3,7,4,10,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873190,1057200
+783,Guacimo,Arbol,Maduro,1.5,1.33,0.42,0.42,0,0,3,8,5,14,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873171,1057240
+784,Guacimo,Arbol,Maduro,2.11,0,0.33,0.33,0.59,1.48,3.5,8.5,5,12,0,3,0,0,0,"Alto (67 - 100%)",Regular,873220,1057160
+785,Gualanday,Arbol,Maduro,0.76,0.58,0.18,0.18,0,0,3,6.5,3.5,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873217,1057160
+786,Leucaena,Arbol,Maduro,1.08,0.95,0.3,0.3,0,0,2,5,3,10,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873217,1057170
+787,"Acacia amarilla, Acacia siamea",Arbol,Maduro,1.89,0,0.15,0.15,0.25,0.72,3.5,12,8.5,8,0,5,0,0,0,"Bajo (0 - 33%)",Muerto,873222,1057160
+788,"Acacia amarilla, Acacia siamea",Arbol,Maduro,0.87,0.67,0.21,0.21,0,0,3,11,8,10,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873226,1057160
+789,"Orejero, Pinon de oreja",Arbol,Maduro,1.82,1.73,0.55,0.55,0,0,7,14,7,22,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873224,1057160
+790,Guacimo,Arbol,Maduro,2.01,0,0.21,0.21,0.44,0.91,1.6,8,6.4,12,0,3,0,0,0,"Alto (67 - 100%)",Regular,873226,1057160
+791,"Palo blanco",Arbol,Maduro,1.75,0,0.12,0.12,0.31,0.45,1.7,5,3.3,7.5,0,4,0,0,0,"Medio (34 - 66%)",Regular,873222,1057180
+792,Guacimo,Arbol,Maduro,1.92,0,0.28,0.28,0.64,1.15,2,9,7,12,0,4,0,0,0,"Medio (34 - 66%)",Regular,873222,1057180
+793,Guacimo,Arbol,Maduro,0.9,0,0.19,0.19,0.58,0.63,3.5,9,5.5,10,0,2,0,0,0,"Medio (34 - 66%)",Regular,873225,1057170
+794,Chiminango,Arbol,Maduro,2.24,0,0.28,0.28,0.6,1.16,5,7.5,2.5,14,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873232,1057170
+795,Leucaena,Arbol,Maduro,1.16,1.05,0.33,0.33,0,0,4.5,11,6.5,12,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873232,1057160
+796,"Chirlobirlo, Floramarillo",Arbusto,Maduro,1.65,0,0.16,0.16,0.28,0.73,1,4.5,3.5,7,0,4,0,0,0,"Bajo (0 - 33%)",Regular,873226,1057150
+797,Guacimo,Arbol,Maduro,0.84,0.63,0.2,0.2,0,0,2,8,6,10,0,1,0,0,0,"Medio (34 - 66%)",Regular,873224,1057150
+798,Guacimo,Arbol,Juvenil,1.64,0,0.26,0.26,0.75,0.91,3,9,6,16,0,2,0,0,0,"Medio (34 - 66%)",Regular,873229,1057150
+799,Guacimo,Arbol,Juvenil,1.65,0,0.31,0.31,0.45,1.49,2.5,10,7.5,15,0,2,0,0,0,"Medio (34 - 66%)",Regular,873228,1057140
+800,Guacimo,Arbol,Maduro,1.69,0,0.22,0.22,0.68,0.73,2,10,8,15,0,3,0,0,0,"Medio (34 - 66%)",Regular,873225,1057130
+801,"Acacia amarilla, Acacia siamea",Arbol,Maduro,1.3,0,0.2,0.2,0.56,0.68,2.5,6,3.5,4.5,0,2,0,0,0,"Bajo (0 - 33%)",Muerto,873208,1057100
+802,Chiminango,Arbol,Maduro,1.19,0.9,0.29,0.29,0,0,3,6,3,5.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873209,1057090
+803,"Ficus ovalis, Caucho ovalis",Arbol,Maduro,1.33,0.94,0.3,0.3,0,0,2.5,15,12.5,13,0,1,0,0,0,"Medio (34 - 66%)",Regular,873206,1057090
+804,Gualanday,Arbol,Maduro,2.33,0,0.34,0.34,0.36,1.78,2,14,12,10,0,3,0,0,0,"Medio (34 - 66%)",Regular,873207,1057080
+805,"Limon swinglea, Swinglea",Arbol,Maduro,0.6,0,0.1,0.1,0.28,0.34,2.7,6.5,3.8,7,0,2,0,0,0,"Medio (34 - 66%)",Regular,873125,1057120
+806,Urapan,Arbol,Maduro,0.97,0.85,0.27,0.27,0,0,2.7,10.5,7.8,10,0,1,0,0,0,"Medio (34 - 66%)",Regular,873131,1057130
+807,"Ceiba, Ceiba bruja, Ceiba de lana, Bonga",Arbol,Maduro,3.62,3.67,1.17,1.17,0,0,4,14,10,25,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873133,1057130
+808,"Cerezo, Mirto, Azahar",Arbusto,Maduro,0.6,0,0.07,0.07,0.18,0.26,2,4.5,2.5,5,0,3,0,0,0,"Medio (34 - 66%)",Regular,873134,1057130
+809,Guacimo,Arbol,Maduro,2.75,0,0.29,0.29,0.7,1.1,6.5,10,3.5,10,0,3,0,0,0,"Bajo (0 - 33%)",Muerto,873275,1056880
+810,"Guayacan rosado",Arbol,Maduro,0.57,0,0.07,0.07,0.2,0.27,2.3,4.1,1.8,2.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873250,1056830
+811,"Nacedero, Madre de agua",Arbol,Maduro,0.37,0,0.06,0.06,0.15,0.2,2.3,3.5,1.2,2.8,0,2,0,0,0,"Alto (67 - 100%)",Sano,873251,1056830
+812,"Algarrobo, Algarrobo pecueca, Pecueco",Arbol,Maduro,0.32,0.21,0.07,0.07,0,0,2.4,4,1.6,3,0,1,0,0,0,"Alto (67 - 100%)",Regular,873253,1056830
+813,"Dracaena roja","Planta arbustiva",Maduro,0.6,0,0.08,0.08,0.21,0.29,1.7,4,2.3,2,0,2,0,0,0,"Alto (67 - 100%)",Sano,873252,1056830
+814,Anon,Arbol,Maduro,0.3,0,0.07,0.07,0.2,0.23,1.2,3.4,2.2,3.5,0,2,0,0,0,"Alto (67 - 100%)",Sano,873254,1056830
+815,Guacimo,Arbol,Maduro,1.12,0,0.18,0.18,0.32,0.8,5,10,5,10,0,2,0,0,0,"Alto (67 - 100%)",Sano,873389,1056780
+816,Guacimo,Arbol,Maduro,2.5,0,0.26,0.26,0.74,0.92,2,11,9,14,0,3,0,0,0,"Alto (67 - 100%)",Regular,873389,1056780
+817,Guacimo,Arbol,Maduro,0.55,0.5,0.16,0.16,0,0,1.8,9,7.2,15,0,1,0,0,0,"Medio (34 - 66%)",Sano,873384,1056780
+818,Guacimo,Arbol,Maduro,0.84,0,0.15,0.15,0.24,0.72,3.6,12,8.4,12,0,2,0,0,0,"Alto (67 - 100%)",Sano,873383,1056770
+819,"Laurel blanco, Laurel Jigua, Laurel colorado y amarillo",Arbol,Maduro,0.7,0.5,0.16,0.16,0,0,1.8,9,7.2,5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873383,1056770
+820,"Laurel blanco, Laurel Jigua, Laurel colorado y amarillo",Arbol,Maduro,0.61,0.53,0.17,0.17,0,0,1.8,9,7.2,10,0,1,0,0,0,"Medio (34 - 66%)",Regular,873377,1056780
+821,Guacimo,Arbol,Maduro,1.48,0.58,0.18,0.18,0,0,1.8,9,7.2,15,0,1,0,0,0,"Alto (67 - 100%)",Sano,873373,1056780
+822,Guacimo,Arbol,Maduro,2.8,0,0.3,0.3,0.91,0.95,2.6,13,10.4,14,0,2,0,0,0,"Alto (67 - 100%)",Regular,873366,1056780
+823,"Laurel blanco, Laurel Jigua, Laurel colorado y amarillo",Arbol,Maduro,1.3,0,0.2,0.2,0.35,0.9,4.5,10,5.5,15,0,2,0,0,0,"Alto (67 - 100%)",Regular,873367,1056780
+824,"Guamo machete",Arbol,Maduro,0.25,0,0.06,0.06,0.17,0.19,1.9,2.9,1,6,0,2,0,0,0,"Medio (34 - 66%)",Regular,873360,1056780
+825,"Palma areca",Palma,Maduro,1.3,0,0.08,0.08,0.2,0.3,1,4,3,4,0,4,0,0,0,"Alto (67 - 100%)",Sano,873369,1056790
+826,"Cedro macho",Arbol,Maduro,0.45,0.3,0.1,0.1,0,0,2.5,5.3,2.8,2.8,0,1,0,0,0,"Alto (67 - 100%)",Sano,873368,1056790
+827,"Laurel blanco, Laurel Jigua, Laurel colorado y amarillo",Arbol,Maduro,2.2,0,0.22,0.22,0.5,0.89,2.5,5.3,2.8,20,0,3,0,0,0,"Alto (67 - 100%)",Regular,873374,1056790
+828,"Laurel blanco, Laurel Jigua, Laurel colorado y amarillo",Arbol,Maduro,1.45,1.09,0.35,0.35,0,0,5.5,15,9.5,15,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873367,1056780
+829,Guacimo,Arbol,Maduro,2,1.7,0.54,0.54,0,0,5,15,10,13.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873356,1056790
+830,"Ficus Higueron, Ficus insipida, Caucho Insipida",Arbol,Maduro,4.8,4.5,1.43,1.43,0,0,5,16,11,20,0,1,0,0,0,"Alto (67 - 100%)",Regular,873337,1056790
+831,Guacimo,Arbol,Maduro,1.15,0.98,0.31,0.31,0,0,5,9,4,9,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873333,1056790
+832,"Palma botella, Palma imperial, Mapora",Palma,Maduro,0.53,0.3,0.1,0.1,0,0,0.9,3.5,2.6,3.2,0,1,0,0,0,"Alto (67 - 100%)",Sano,873340,1056800
+833,Limon,Arbusto,Maduro,0.6,0,0.07,0.07,0.18,0.28,1.9,4.2,2.3,5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873329,1056800
+834,Zapote,Arbol,Maduro,0.25,0.15,0.05,0.05,0,0,1.7,3.1,1.4,3.2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873317,1056810
+835,Guanabano,Arbol,Maduro,0.3,0.21,0.07,0.07,0,0,1.2,3.8,2.6,2,0,1,0,0,0,"Alto (67 - 100%)",Regular,873303,1056810
+836,Aguacate,Arbol,Maduro,0.4,0.3,0.1,0.1,0,0,2,5,3,6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873291,1056810
+837,Chiminango,Arbol,Maduro,1.95,0,0.25,0.25,0.68,0.9,3,9,6,18,0,4,0,0,0,"Alto (67 - 100%)",Regular,873241,1057200
+838,Guacimo,Arbol,Maduro,2.86,1.03,0.33,0.33,0,0,3.7,9,5.3,16,0,1,0,0,0,"Alto (67 - 100%)",Regular,873247,1057200
+839,"Limon swinglea, Swinglea",Arbol,Maduro,1,0,0.14,0.14,0.42,0.48,0.7,8,7.3,8,0,2,0,0,0,"Alto (67 - 100%)",Regular,873251,1057200
+840,"Limon swinglea, Swinglea",Arbol,Maduro,0.93,0,0.17,0.17,0.38,0.68,3.7,6,2.3,4,0,2,0,0,0,"Medio (34 - 66%)",Regular,873253,1057200
+841,"Limon swinglea, Swinglea",Arbol,Maduro,0.64,0.4,0.13,0.13,0,0,5.5,7,1.5,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873255,1057210
+842,"Limon swinglea, Swinglea",Arbol,Juvenil,0.45,0.3,0.1,0.1,0,0,1.7,7.5,5.8,7.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873255,1057210
+843,"Limon swinglea, Swinglea",Arbol,Maduro,1.1,0,0.16,0.16,0.27,0.75,3.7,7.5,3.8,10,0,2,0,0,0,"Medio (34 - 66%)",Regular,873257,1057200
+844,Guacimo,Arbol,Maduro,1.8,0,0.11,0.11,0.22,0.47,0.4,7.5,7.1,16,0,8,0,0,0,"Alto (67 - 100%)",Regular,873252,1057210
+845,Mamoncillo,Arbol,Juvenil,0.38,0.24,0.08,0.08,0,0,3,5.3,2.3,4.5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873247,1057200
+846,Guacimo,Arbol,Maduro,1.41,0,0.18,0.18,0.46,0.7,2.3,9.5,7.2,13,0,4,0,0,0,"Alto (67 - 100%)",Regular,873254,1057200
+847,Guacimo,Arbol,Maduro,1.2,0,0.12,0.12,0.27,0.47,3.4,9,5.6,10,0,3,0,0,0,"Medio (34 - 66%)",Regular,873258,1057220
+848,Guacimo,Arbol,Maduro,2.15,0,0.27,0.27,0.5,1.2,3,11,8,16,0,2,0,0,0,"Alto (67 - 100%)",Regular,873260,1057230
+849,Guacimo,Arbol,Maduro,1.03,0.97,0.31,0.31,0,0,5,11,6,13,0,1,0,0,0,"Medio (34 - 66%)",Regular,873260,1057220
+850,Guacimo,Arbol,Maduro,0.72,0,0.11,0.11,0.32,0.37,4.6,9,4.4,12,0,2,0,0,0,"Medio (34 - 66%)",Regular,873264,1057220
+851,Guacimo,Arbol,Maduro,0.58,0.54,0.17,0.17,0,0,4,7.5,3.5,11,0,1,0,0,0,"Medio (34 - 66%)",Regular,873267,1057230
+852,"Guadua amarilla, Bambu amarillo, Bambu",Bambu,Maduro,0,0.14,0.04,0.04,0,0,3,9,6,4.2,0,1,0,0,0,"Alto (67 - 100%)",Regular,873274,1057220
+853,"Limon swinglea, Swinglea",Arbol,Maduro,1.32,0,0.13,0.13,0.3,0.51,3,6,3,6.5,0,10,0,0,0,"Bajo (0 - 33%)",Regular,873268,1057230
+854,"Limon swinglea, Swinglea",Arbol,Maduro,1.45,0,0.14,0.14,0.39,0.51,2.2,7.5,5.3,8,0,4,0,0,0,"Alto (67 - 100%)",Regular,873272,1057230
+855,Chiminango,Arbol,Maduro,2.4,1.83,0.58,0.58,0,0,4.5,12,7.5,18,0,1,0,0,0,"Alto (67 - 100%)",Regular,873278,1057220
+856,Chiminango,Arbol,Maduro,2.3,1.86,0.59,0.59,0,0,3.8,12,8.2,15,0,1,0,0,0,"Alto (67 - 100%)",Regular,873286,1057230
+857,Chiminango,Arbol,Maduro,2,0,0.39,0.39,0.85,1.6,4,10,6,16,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873288,1057230
+858,"Acacia amarilla, Acacia siamea",Arbol,Maduro,1.7,0,0.28,0.28,0.71,1.03,4.5,12,7.5,24,0,2,0,0,0,"Alto (67 - 100%)",Regular,873294,1057240
+859,Guacimo,Arbol,Maduro,2.8,0,0.14,0.14,0.15,0.73,2.5,8.5,6,15,0,13,0,0,0,"Alto (67 - 100%)",Regular,873262,1057210
+860,Guacimo,Arbol,Maduro,2.2,0,0.24,0.24,0.66,0.87,2.4,8.5,6.1,14,0,4,0,0,0,"Alto (67 - 100%)",Regular,873292,1057240
+861,Chiminango,Arbol,Maduro,3.28,0,0.21,0.21,0.5,0.79,3,9,6,15,0,7,0,0,0,"Alto (67 - 100%)",Regular,873291,1057250
+862,Guacimo,Arbol,Maduro,2,1.33,0.42,0.42,0,0,3.8,8.5,4.7,13,0,1,0,0,0,"Alto (67 - 100%)",Regular,873287,1057250
+863,Guacimo,Arbol,Juvenil,1.07,0,0.21,0.21,0.54,0.75,3.5,10,6.5,12,0,5,0,0,0,"Alto (67 - 100%)",Regular,873298,1057260
+864,Guacimo,Arbol,Juvenil,6.9,0,0.23,0.23,0.67,0.76,2.5,9,6.5,20,0,7,0,0,0,"Alto (67 - 100%)",Regular,873300,1057260
+865,Guacimo,Arbol,Juvenil,1.03,0,0.12,0.12,0.35,0.4,1.6,6.5,4.9,11,0,6,0,0,0,"Alto (67 - 100%)",Regular,873294,1057260
+866,Guacimo,Arbol,Juvenil,0.9,0.83,0.26,0.26,0,0,4,10.5,6.5,15,0,1,0,0,0,"Medio (34 - 66%)",Regular,873257,1057220
+867,"Floramarillo, Velero, Vainillo",Arbol,Maduro,1.12,1,0.32,0.32,0,0,9,15,6,8.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873252,1057220
+868,Guacimo,Arbol,Maduro,0.72,0,0.14,0.14,0.35,0.53,4,10,6,13,0,2,0,0,0,"Medio (34 - 66%)",Regular,873252,1057210
+869,Guacimo,Arbol,Maduro,1.27,1.06,0.34,0.34,0,0,2.5,6.8,4.3,12,0,1,0,0,0,"Medio (34 - 66%)",Regular,873249,1057210
+870,"Palo blanco",Arbol,Maduro,0.5,0.32,0.1,0.1,0,0,3.2,7.5,4.3,7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873247,1057220
+871,"Floramarillo, Velero, Vainillo",Arbol,Maduro,1.22,1,0.32,0.32,0,0,7,15,8,8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873253,1057220
+872,Guacimo,Arbol,Maduro,1.32,1.07,0.34,0.34,0,0,3.3,6,2.7,11,0,1,0,0,0,"Alto (67 - 100%)",Regular,873247,1057230
+873,Chiminango,Arbol,Maduro,2.3,0,0.3,0.3,0.7,1.2,4,11,7,20,0,2,0,0,0,"Alto (67 - 100%)",Regular,873249,1057230
+874,Guacimo,Arbol,Maduro,1.8,0,0.15,0.15,0.4,0.55,2.4,9,6.6,10,0,5,0,0,0,"Medio (34 - 66%)",Regular,873244,1057210
+875,Guacimo,Arbol,Maduro,1.15,0,0.14,0.14,0.36,0.5,1.7,7,5.3,10,0,4,0,0,0,"Alto (67 - 100%)",Regular,873239,1057200
+876,"Acacia amarilla, Acacia siamea",Arbol,Maduro,1.2,0,0.3,0.3,0.89,0.98,4,9,5,15,0,4,0,0,0,"Alto (67 - 100%)",Regular,873236,1057200
+877,Chiminango,Arbol,Maduro,0.96,0.47,0.15,0.15,0,0,3.8,8.5,4.7,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873242,1057200
+878,Chiminango,Arbol,Maduro,1.1,0.8,0.25,0.25,0,0,6,11,5,15,0,1,0,0,0,"Alto (67 - 100%)",Regular,873242,1057200
+879,Guacimo,Arbol,Maduro,0.82,0,0.11,0.11,0.3,0.4,2.3,7.5,5.2,14,0,3,0,0,0,"Alto (67 - 100%)",Regular,873238,1057190
+880,"Limon swinglea, Swinglea",Arbol,Maduro,0.96,0.72,0.23,0.23,0,0,1.5,10,8.5,9,0,1,0,0,0,"Alto (67 - 100%)",Regular,873240,1057180
+881,Guacimo,Arbol,Maduro,2,0,0.22,0.22,0.54,0.83,4,9,5,13,0,5,0,0,0,"Alto (67 - 100%)",Regular,873241,1057180
+882,Guacimo,Arbol,Maduro,2.2,0,0.21,0.21,0.54,0.76,2.5,9,6.5,15,0,11,0,0,0,"Alto (67 - 100%)",Regular,873242,1057180
+883,Carbonero,Arbol,Maduro,0.58,0,0.06,0.06,0.16,0.22,2.7,4,1.3,6,0,2,0,0,0,"Medio (34 - 66%)",Regular,873236,1057180
+884,Guanabano,Arbol,Maduro,0.7,0,0.07,0.07,0.16,0.3,2.5,7,4.5,3.5,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873237,1057180
+885,Guacimo,Arbol,Juvenil,0.53,0,0.06,0.06,0.16,0.24,3.5,5,1.5,3.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873238,1057180
+886,Guacimo,Arbol,Maduro,0.78,0,0.14,0.14,0.38,0.53,4,9,5,10,0,2,0,0,0,"Alto (67 - 100%)",Regular,873239,1057180
+887,Guacimo,Arbol,Maduro,0.75,0,0.09,0.09,0.25,0.3,3.8,8,4.2,6,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873234,1057180
+888,Guacimo,Arbol,Maduro,0.43,0.39,0.12,0.12,0,0,2.5,4.5,2,5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873232,1057180
+889,Guacimo,Arbol,Maduro,0.93,0,0.15,0.15,0.42,0.5,4.5,8.5,4,8,0,2,0,0,0,"Medio (34 - 66%)",Regular,873234,1057180
+890,Guacimo,Arbol,Maduro,1.56,0.99,0.32,0.32,0,0,4,9.5,5.5,13,0,1,0,0,0,"Alto (67 - 100%)",Regular,873232,1057180
+891,Carbonero,Arbol,Maduro,0.8,0,0.06,0.06,0.15,0.25,1.7,4.5,2.8,3.8,0,5,0,0,0,"Bajo (0 - 33%)",Regular,873236,1057180
+892,Guacimo,Arbol,Maduro,2.1,0,0.34,0.34,0.34,1.8,4,12,8,12,0,3,0,0,0,"Alto (67 - 100%)",Regular,873235,1057170
+893,Guacimo,Arbol,Maduro,0.8,0,0.18,0.18,0.44,0.7,4,9,5,13,0,2,0,0,0,"Alto (67 - 100%)",Regular,873234,1057170
+894,Chiminango,Arbol,Maduro,2,0,0.16,0.16,0.35,0.66,4,11,7,12,0,4,0,0,0,"Medio (34 - 66%)",Regular,873241,1057170
+895,Francesina,Arbusto,Maduro,0.28,0,0.06,0.06,0.18,0.22,1.9,2.8,0.9,2.5,0,2,0,0,0,"Alto (67 - 100%)",Regular,873490,1057020
+896,Almendro,Arbol,Maduro,1.1,0.96,0.31,0.31,0,0,3.8,5.4,1.6,13,0,1,0,0,0,"Alto (67 - 100%)",Regular,873484,1057020
+897,Almendro,Arbol,Maduro,0.26,0.18,0.06,0.06,0,0,1.2,2.1,0.9,2.8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873485,1057010
+898,Almendro,Arbol,Maduro,0.28,0.21,0.07,0.07,0,0,2,2.7,0.7,2.7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873487,1057010
+899,Almendro,Arbol,Maduro,0.93,0.66,0.21,0.21,0,0,1.2,2.8,1.6,5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873487,1057000
+900,Francesina,Arbusto,Maduro,0.51,0,0.05,0.05,0.15,0.17,1.1,2,0.9,1.8,0,4,0,0,0,"Medio (34 - 66%)",Regular,873489,1056980
+901,"Dracaena roja","Planta arbustiva",Maduro,0.96,0,0.08,0.08,0.23,0.28,0.6,4,3.4,1.8,0,4,0,0,0,"Alto (67 - 100%)",Regular,873488,1056970
+902,Aguacate,Arbol,Maduro,0.5,0.73,0.23,0.23,0,0,2.5,4.6,2.1,5.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873525,1056740
+903,Aguacate,Arbol,Maduro,0.68,0.6,0.19,0.19,0,0,2.4,6,3.6,7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873526,1056740
+904,"Acacia robinia",Arbol,Maduro,1.86,0,0.26,0.26,0.76,0.85,5,8.5,3.5,13,0,4,0,0,0,"Alto (67 - 100%)",Regular,873526,1056730
+905,Mandarina,Arbusto,Maduro,0.7,0,0.08,0.08,0.18,0.35,1.8,5,3.2,8,0,5,0,0,0,"Alto (67 - 100%)",Regular,873529,1056720
+906,"Acacia robinia",Arbol,Maduro,1.5,0,0.29,0.29,0.85,0.97,4.5,6.8,2.3,15,0,2,0,0,0,"Medio (34 - 66%)",Regular,873531,1056710
+907,"Amancayo, Blanco, Azuceno",Arbol,Maduro,0.5,0,0.12,0.12,0.36,0.37,1.4,4,2.6,5.5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873533,1056700
+908,Coca,Arbusto,Maduro,0.38,0,0.08,0.08,0.18,0.3,4,6.3,2.3,6,0,6,0,0,0,"Medio (34 - 66%)",Regular,873534,1056700
+909,Limon,Arbusto,Maduro,0.72,0.62,0.2,0.2,0,0,1.8,3,1.2,2.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873723,1056350
+910,"Dracaena roja","Planta arbustiva",Maduro,0.7,0,0.06,0.06,0.16,0.24,1.5,3.1,1.6,3.5,0,6,0,0,0,"Alto (67 - 100%)",Regular,873881,1056340
+911,"Palma areca",Palma,Maduro,1.4,0,0.08,0.08,0.2,0.32,1.5,3.1,1.6,4,0,3,0,0,0,"Alto (67 - 100%)",Sano,873881,1056340
+912,"Palma areca",Palma,Maduro,1.15,0,0.08,0.08,0.15,0.35,1,2.4,1.4,3,0,2,0,0,0,"Alto (67 - 100%)",Sano,873880,1056340
+913,"Floramarillo, Velero, Vainillo",Arbol,Maduro,0.9,0.85,0.27,0.27,0,0,3,7,4,7.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873928,1056340
+914,"Floramarillo, Velero, Vainillo",Arbol,Maduro,1.1,0.92,0.29,0.29,0,0,4,8,4,10.2,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873930,1056340
+915,Chiminango,Arbol,Maduro,0.62,0.6,0.19,0.19,0,0,1.2,4,2.8,4.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873932,1056340
+916,"Palma areca",Palma,Maduro,1.46,0,0.1,0.1,0.26,0.35,1.4,3.7,2.3,4,0,3,0,0,0,"Alto (67 - 100%)",Regular,873671,1056350
+917,Leucaena,Arbol,Maduro,1.1,0.8,0.25,0.25,0,0,2,9,7,9,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873677,1056350
+918,"Dracaena roja","Planta arbustiva",Maduro,0.35,0.29,0.09,0.09,0,0,1.6,3.5,1.9,3.5,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873681,1056360
+919,Leucaena,Arbol,Maduro,0.14,0.1,0.03,0.03,0,0,1.2,3.2,2,2,0,1,0,0,0,"Alto (67 - 100%)",Sano,873686,1056360
+920,"Palma botella, Palma imperial, Mapora",Palma,Juvenil,2.15,1.52,0.48,0.48,0,0,4.5,6.5,2,6.4,0,1,0,0,0,"Alto (67 - 100%)",Regular,873787,1058770
+921,"Palma botella, Palma imperial, Mapora",Palma,Maduro,1.6,0.8,0.25,0.25,0,0,3.7,4.8,1.1,6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873787,1058770
+922,"Palma botella, Palma imperial, Mapora",Palma,Juvenil,1.7,1.54,0.49,0.49,0,0,10,12,2,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873790,1058770
+923,"Palma Robeleni",Palma,Juvenil,0.4,0.32,0.1,0.1,0,0,1.8,2.8,1,3.6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873790,1058770
+924,"Palma Robeleni",Palma,Juvenil,0.4,0.45,0.14,0.14,0,0,2,3.2,1.2,3.6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873790,1058770
+925,"Palma botella, Palma imperial, Mapora",Palma,Maduro,2.06,1.9,0.6,0.6,0,0,9.5,12,2.5,11,0,1,0,0,0,"Alto (67 - 100%)",Regular,873792,1058770
+926,"Palma Robeleni",Palma,Maduro,0.33,0.29,0.09,0.09,0,0,1.75,2.5,0.75,3.7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873790,1058780
+927,"Palma Robeleni",Palma,Juvenil,0.33,0.3,0.1,0.1,0,0,2.1,3.1,1,3.3,0,1,0,0,0,"Alto (67 - 100%)",Regular,873793,1058770
+928,"Palma Robeleni",Palma,Juvenil,0.33,0.29,0.09,0.09,0,0,1.8,3,1.2,3.7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873792,1058770
+929,"Palma botella, Palma imperial, Mapora",Palma,Maduro,1.9,1.3,0.41,0.41,0,0,5,6.8,1.8,8,0,1,0,0,0,"Alto (67 - 100%)",Regular,873794,1058770
+930,"Palma africana",Palma,Maduro,1.85,1.2,0.38,0.38,0,0,6.8,11,4.2,12,0,1,0,0,0,"Alto (67 - 100%)",Regular,873803,1058760
+931,"Palma Alejandra",Palma,Juvenil,0.5,0.44,0.14,0.14,0,0,7,8.4,1.4,9,0,1,0,0,0,"Alto (67 - 100%)",Regular,873800,1058760
+932,"Palma africana",Palma,Juvenil,2.6,1.48,0.47,0.47,0,0,8,10.5,2.5,11,0,1,0,0,0,"Alto (67 - 100%)",Regular,873792,1058770
+933,"Limon swinglea, Swinglea",Arbol,Maduro,0.86,0,0.14,0.14,0.34,0.52,2.5,8.5,6,6,0,2,0,0,0,"Alto (67 - 100%)",Regular,873792,1058800
+934,"Limon swinglea, Swinglea",Arbol,Maduro,0.6,0.41,0.13,0.13,0,0,2.6,6,3.4,9,0,1,0,0,0,"Alto (67 - 100%)",Regular,873796,1058800
+935,Guacimo,Arbol,Maduro,3.5,2.5,0.8,0.8,0,0,4,14,10,23,0,1,0,0,0,"Alto (67 - 100%)",Regular,873797,1058790
+936,"Limon swinglea, Swinglea",Arbol,Juvenil,0.55,0.36,0.11,0.11,0,0,1.7,6,4.3,5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873794,1058790
+937,"Limon swinglea, Swinglea",Arbol,Maduro,0.62,0.33,0.11,0.11,0,0,5.5,8.5,3,4,0,1,0,0,0,"Medio (34 - 66%)",Sano,873798,1058790
+938,"Limon swinglea, Swinglea",Arbol,Juvenil,0.78,0.41,0.13,0.13,0,0,4.3,8.5,4.2,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873794,1058790
+939,"Limon swinglea, Swinglea",Arbol,Maduro,1,0.8,0.25,0.25,0,0,4,8,4,7,0,1,0,0,0,"Medio (34 - 66%)",Regular,873795,1058790
+940,"Limon swinglea, Swinglea",Arbol,Juvenil,0.4,0.28,0.09,0.09,0,0,4,8,4,4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873796,1058790
+941,"Limon swinglea, Swinglea",Arbol,Juvenil,0.5,0.08,0.03,0.03,0,0,5.2,8,2.8,8,0,1,0,0,0,"Medio (34 - 66%)",Regular,873798,1058790
+942,"Limon swinglea, Swinglea",Arbol,Juvenil,0.7,0.53,0.17,0.17,0,0,3.6,10,6.4,8,0,1,0,0,0,"Medio (34 - 66%)",Regular,873797,1058790
+943,"Limon swinglea, Swinglea",Arbol,Maduro,0.7,0.53,0.17,0.17,0,0,3.8,7.5,3.7,6.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873798,1058790
+944,"Limon swinglea, Swinglea",Arbol,Maduro,0.38,0.25,0.08,0.08,0,0,2.3,8.5,6.2,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873800,1058790
+945,"Saman, Genizaro",Arbol,Maduro,3.5,0,0.62,0.62,1.9,2,4.5,16,11.5,23,0,2,0,0,0,"Alto (67 - 100%)",Regular,873817,1058740
+946,"Limon swinglea, Swinglea",Arbol,Maduro,0.3,0,0.18,0.18,0.43,0.7,2.5,8,5.5,6,0,5,0,0,0,"Alto (67 - 100%)",Regular,873834,1058760
+947,Limon,Arbusto,Maduro,2.2,0,0.18,0.18,0.43,0.7,1.2,7,5.8,10,0,5,0,0,0,"Medio (34 - 66%)",Regular,873836,1058750
+948,"Cachimbo, Pisamo, Bucaro",Arbol,Juvenil,2,1.72,0.55,0.55,0,0,6,12,6,15,0,1,0,0,0,"Medio (34 - 66%)",Regular,873841,1058760
+949,Guacimo,Arbol,Maduro,1.8,2,0.64,0.64,0,0,3,12,9,12,0,1,0,0,0,"Medio (34 - 66%)",Regular,873843,1058750
+950,"Limon swinglea, Swinglea",Arbol,Maduro,0.51,0.3,0.1,0.1,0,0,2.3,8,5.7,4.8,0,1,0,0,0,"Medio (34 - 66%)",Regular,873848,1058750
+951,"Limon swinglea, Swinglea",Arbol,Maduro,0.32,0.21,0.07,0.07,0,0,2.6,8,5.4,2.4,0,1,0,0,0,"Medio (34 - 66%)",Regular,873844,1058750
+952,"Limon swinglea, Swinglea",Arbol,Maduro,0.45,0,0.06,0.06,0.13,0.27,2.6,7,4.4,4,0,2,0,0,0,"Medio (34 - 66%)",Regular,873844,1058750
+953,"Limon swinglea, Swinglea",Arbol,Maduro,0.7,0,0.06,0.06,0.13,0.27,2,9,7,5,0,2,0,0,0,"Medio (34 - 66%)",Regular,873847,1058740
+954,"Limon swinglea, Swinglea",Arbol,Juvenil,0.6,0,0.12,0.12,0.35,0.4,2,8,6,6,0,2,0,0,0,"Medio (34 - 66%)",Regular,873845,1058740
+955,"Limon swinglea, Swinglea",Arbol,Juvenil,0.47,0.33,0.11,0.11,0,0,4.5,8,3.5,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873851,1058740
+956,"Limon swinglea, Swinglea",Arbol,Maduro,0.53,0.35,0.11,0.11,0,0,2.7,8,5.3,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873849,1058740
+957,"Limon swinglea, Swinglea",Arbol,Maduro,0.45,0.3,0.1,0.1,0,0,2,8,6,6,0,1,0,0,0,"Medio (34 - 66%)",Regular,873851,1058740
+958,"Limon swinglea, Swinglea",Arbol,Maduro,0.28,0.22,0.07,0.07,0,0,2,4.3,2.3,2.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873858,1058740
+959,"Limon swinglea, Swinglea",Arbol,Juvenil,0.56,0.5,0.16,0.16,0,0,1.8,5.4,3.6,3,0,1,0,0,0,"Medio (34 - 66%)",Sano,873857,1058740
+960,"Palma real de Cuba",Palma,Maduro,1.7,1.13,0.36,0.36,0,0,7,9,2,7,0,1,0,0,0,"Alto (67 - 100%)",Regular,873910,1058660
+961,Leucaena,Arbol,Juvenil,0.6,0.52,0.17,0.17,0,0,5,8,3,9,0,1,0,0,0,"Alto (67 - 100%)",Regular,873908,1058660
+962,"Limon swinglea, Swinglea",Arbol,Juvenil,0.47,0.36,0.11,0.11,0,0,2.5,8,5.5,3.5,0,1,0,0,0,"Medio (34 - 66%)",Regular,873100,1057060
+963,Almendro,Arbol,Maduro,0.53,0.46,0.15,0.15,0,0,4,6,2,4,0,1,0,0,0,"Alto (67 - 100%)",Sano,873405,1056990
+964,"Acacia china",Arbusto,Maduro,0.38,0.21,0.07,0.07,0,0,2,3,1,2,0,1,0,0,0,"Medio (34 - 66%)",Regular,873358,1056980
+965,"Clavellino, Mariposa",Arbusto,Maduro,0.57,0.26,0.08,0.08,0,0,0.5,3.5,3,2,0,1,0,0,0,"Alto (67 - 100%)",Sano,873345,1056970
+966,"Clavellino, Mariposa",Arbusto,Maduro,0.15,0,0.02,0.02,0.06,0.07,0.5,2,1.5,2,0,4,0,0,0,"Bajo (0 - 33%)",Regular,873343,1056970
+967,Jupiter,Arbol,Juvenil,0.28,0,0.04,0.04,0.09,0.13,2.2,15,12.8,1,0,3,0,0,0,"Bajo (0 - 33%)",Regular,873334,1056960
+968,"Dracaena roja","Planta arbustiva",Juvenil,0.31,0,0.04,0.04,0.09,0.13,0.5,2.5,2,2,0,3,0,0,0,"Alto (67 - 100%)",Sano,873323,1056960
+969,"Cerezo, Mirto, Azahar",Arbusto,Juvenil,0.54,0,0.04,0.04,0.09,0.15,0.5,2.5,2,2,0,12,0,0,0,"Alto (67 - 100%)",Regular,873315,1056960
+970,"Dracaena roja","Planta arbustiva",Juvenil,0.16,0.14,0.04,0.04,0,0,0.05,2.2,2.15,1,0,1,0,0,0,"Medio (34 - 66%)",Sano,873312,1056950
+971,Leucaena,Arbol,Juvenil,1.2,0,0.14,0.14,0.38,0.5,3,6,3,10,0,3,0,0,0,"Medio (34 - 66%)",Regular,873260,1056980
+972,"Limon swinglea, Swinglea",Arbol,Juvenil,1.06,0,0.2,0.2,0.55,0.72,2,4.5,2.5,2,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873266,1056980
+973,Araucaria,Arbol,Juvenil,2.1,1.72,0.55,0.55,0,0,4,10,6,3,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873262,1057010
+974,Gualanday,Arbol,Juvenil,3.05,2.78,0.88,0.88,0,0,8,14,6,22,0,1,0,0,0,"Alto (67 - 100%)",Sano,873167,1057120
+975,"Acacia robinia",Arbol,Maduro,1.1,0.72,0.23,0.23,0,0,3,5,2,4,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873167,1057130
+976,"Acacia robinia",Arbol,Maduro,1.32,0,0.17,0.17,0.36,0.69,4.5,8,3.5,7,0,4,0,0,0,"Bajo (0 - 33%)",Regular,873165,1057140
+977,"Acacia robinia",Arbol,Maduro,1.32,0,0.17,0.17,0.44,0.64,4,8,4,8,0,4,0,0,0,"Medio (34 - 66%)",Regular,873164,1057150
+978,"Acacia robinia",Arbol,Maduro,1.19,0.73,0.23,0.23,0,0,6.5,9,2.5,6,0,1,0,0,0,"Medio (34 - 66%)",Sano,873160,1057160
+979,"Acacia robinia",Arbol,Longevo,1.68,0,0.2,0.2,0.5,0.73,4,9,5,12,0,3,0,0,0,"Medio (34 - 66%)",Sano,873159,1057170
+980,"Dracaena roja","Planta arbustiva",Juvenil,0.14,0,0.02,0.02,0.06,0.08,0.5,2.5,2,0.5,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873170,1057100
+981,"Tulipan africano",Arbol,Juvenil,2.25,1.64,0.52,0.52,0,0,10,14,4,11,0,1,0,0,0,"Bajo (0 - 33%)",Sano,873170,1057100
+982,Gualanday,Arbol,Maduro,2.3,2.12,0.67,0.67,0,0,4,8,4,5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873169,1057100
+983,"Ficus Higueron, Ficus insipida, Caucho Insipida",Arbol,Longevo,3.8,2.77,0.88,0.88,0,0,4,8,4,8,0,1,0,0,0,"Bajo (0 - 33%)",Muerto,873144,1057100
+984,"Palma areca",Palma,Juvenil,1.24,0,0.06,0.06,0.15,0.2,1,2,1,3,0,8,0,0,0,"Medio (34 - 66%)",Sano,873142,1057090
+985,"Dracaena roja","Planta arbustiva",Maduro,0.24,0,0.02,0.02,0.06,0.07,0.8,2,1.2,1,0,5,0,0,0,"Alto (67 - 100%)",Regular,873140,1057080
+986,"Palma areca",Palma,Maduro,2.19,0,0.08,0.08,0.2,0.32,2,6,4,6,0,9,0,0,0,"Medio (34 - 66%)",Sano,873139,1057070
+987,Gualanday,Arbol,Maduro,0.21,0,0.03,0.03,0.07,0.1,1.8,3,1.2,1.5,0,2,0,0,0,"Bajo (0 - 33%)",Regular,873132,1057060
+988,"Acacia robinia",Arbol,Juvenil,1.37,1.05,0.33,0.33,0,0,5,10,5,10,0,1,0,0,0,"Alto (67 - 100%)",Regular,873137,1057050
+989,Mandarina,Arbusto,Juvenil,0.76,0.71,0.23,0.23,0,0,2,5,3,5,0,1,0,0,0,"Alto (67 - 100%)",Regular,873113,1057100
+990,"Limon swinglea, Swinglea",Arbol,Maduro,1.12,0.99,0.32,0.32,0,0,3,8,5,6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873113,1057090
+991,"Limon swinglea, Swinglea",Arbol,Maduro,0.82,0,0.14,0.14,0.23,0.62,3,8,5,6,0,2,0,0,0,"Alto (67 - 100%)",Sano,873108,1057090
+992,"Limon swinglea, Swinglea",Arbol,Maduro,0.71,0.72,0.23,0.23,0,0,3,8,5,6,0,1,0,0,0,"Alto (67 - 100%)",Sano,873110,1057080
+993,Igua,Arbol,Maduro,2.64,1.87,0.6,0.6,0,0,12,22,10,20,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873114,1057090
+994,"Limon swinglea, Swinglea",Arbol,Maduro,0.7,0.52,0.17,0.17,0,0,6,8,2,6,0,1,0,0,0,"Alto (67 - 100%)",Sano,873107,1057080
+995,"Limon swinglea, Swinglea",Arbol,Maduro,0.71,0.55,0.18,0.18,0,0,3,8,5,5,0,1,0,0,0,"Medio (34 - 66%)",Sano,873104,1057080
+996,Igua,Arbol,Maduro,1.54,1.12,0.36,0.36,0,0,6,10,4,4,0,1,0,0,0,"Bajo (0 - 33%)",Regular,873099,1057070
+997,"Limon swinglea, Swinglea",Arbol,Maduro,0.78,0,0.18,0.18,0.51,0.62,6,8,2,6,0,2,0,0,0,"Alto (67 - 100%)",Sano,873102,1057070
+998,"Limon swinglea, Swinglea",Arbol,Longevo,0.99,0,0.14,0.14,0.18,0.72,6,8,2,6,0,3,0,0,0,"Alto (67 - 100%)",Sano,873100,1057080
+999,Igua,Arbol,Juvenil,2.96,2.02,0.64,0.64,0,0,6,20,14,18,0,1,0,0,0,"Medio (34 - 66%)",Regular,873097,1057070
+1000,"Limon swinglea, Swinglea",Arbol,Maduro,0.99,0.82,0.26,0.26,0,0,3,8,5,6,0,1,0,0,0,"Alto (67 - 100%)",Regular,873097,1057070
