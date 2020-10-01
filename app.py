@@ -2,10 +2,14 @@ import flask
 from flask import Flask, jsonify, request
 import json
 import pickle
+from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
+cors = CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 
 @app.route('/hello', methods=['GET'])
+@cross_origin()
 def hello():
     response = json.dumps({'response': 'yahhhh!'})
     return response, 200
@@ -25,6 +29,7 @@ def get_specie(number_specie):
     return species.get(number_specie, "Especie Inválida")
 
 @app.route('/predict_get', methods=['GET'])
+@cross_origin()
 def predict_get():
     request_json = request.get_json()
 
@@ -51,6 +56,7 @@ def predict_get():
     return response, 200
 
 @app.route('/predict_post', methods=['POST'])
+@cross_origin()
 def predict_post():
     request_data = request.get_json()
     pb = float(request_data['pb'])
