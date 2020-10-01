@@ -17,6 +17,13 @@ def load_models():
         model = data['model']
     return model
 
+def get_specie(number_specie):
+    species = {0:'Guacimo',
+               1:'Limon swinglea, Swinglea',
+               2: 'Palma areca'
+               }
+    return species.get(number_specie, "Especie Inválida")
+
 @app.route('/predict_get', methods=['GET'])
 def predict_get():
     request_json = request.get_json()
@@ -40,7 +47,7 @@ def predict_get():
     prediction = model.predict([[pb, pap, dap, dap2, papdel, papgrueso, altura_fuste,
                                  altura_arbol, diferencia, diametro_copa, tallos, veg_Palma, veg_Arbol]])[0]
 
-    response = json.dumps({'response': int(prediction)})
+    response = json.dumps({'response': get_specie(int(prediction))})
     return response, 200
 
 @app.route('/predict_post', methods=['POST'])
@@ -65,7 +72,7 @@ def predict_post():
     prediction = model.predict([[pb, pap, dap, dap2, papdel, papgrueso, altura_fuste,
                                  altura_arbol, diferencia, diametro_copa, tallos, veg_Palma, veg_Arbol]])[0]
 
-    response = json.dumps({'response': int(prediction)})
+    response = json.dumps({'response': get_specie(int(prediction))})
     return response, 200
 
 if __name__ == '__main__':
