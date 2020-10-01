@@ -11,6 +11,7 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 @app.route('/hello', methods=['GET'])
 @cross_origin()
 def hello():
+    print("hola")
     response = json.dumps({'response': 'yahhhh!'})
     return response, 200
 
