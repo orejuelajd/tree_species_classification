@@ -17,11 +17,8 @@ def load_models():
         model = data['model']
     return model
 
-@app.route('/predict', methods=['GET'])
-def predict():
-    # stub input features
-    # x = 5.963
-    # parse input features from request
+@app.route('/predict_get', methods=['GET'])
+def predict_get():
     request_json = request.get_json()
 
     pb = float(request_json['pb'])
@@ -43,9 +40,31 @@ def predict():
     prediction = model.predict([[pb, pap, dap, dap2, papdel, papgrueso, altura_fuste,
                                  altura_arbol, diferencia, diametro_copa, tallos, veg_Palma, veg_Arbol]])[0]
 
-    # prediction = model.predict([[2.56, 0, 0.08, 0.08, 0.21, 0.28, 5.5, 7.3, 1.8, 4.8, 6, 1, 0]])[0]
+    response = json.dumps({'response': int(prediction)})
+    return response, 200
 
-    print(prediction)
+@app.route('/predict_post', methods=['POST'])
+def predict_post():
+    request_data = request.get_json()
+    pb = float(request_data['pb'])
+    pap = float(request_data['pap'])
+    dap = float(request_data['dap'])
+    dap2 = float(request_data['dap2'])
+    papdel = float(request_data['papdel'])
+    papgrueso = float(request_data['papgrueso'])
+    altura_fuste = float(request_data['altura_fuste'])
+    altura_arbol = float(request_data['altura_arbol'])
+    diferencia = float(request_data['diferencia'])
+    diametro_copa = float(request_data['diametro_copa'])
+    tallos = float(request_data['tallos'])
+    veg_Palma = float(request_data['veg_Palma'])
+    veg_Arbol = float(request_data['veg_Arbol'])
+
+    # load model
+    model = load_models()
+    prediction = model.predict([[pb, pap, dap, dap2, papdel, papgrueso, altura_fuste,
+                                 altura_arbol, diferencia, diametro_copa, tallos, veg_Palma, veg_Arbol]])[0]
+
     response = json.dumps({'response': int(prediction)})
     return response, 200
 
