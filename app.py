@@ -25,7 +25,7 @@ def load_models():
     return model
 
 def get_specie(number_specie):
-    species = {0:'Guacimo',
+    species = {0:'Palma real de Cuba',
                1:'Limon swinglea, Swinglea',
                2: 'Palma areca'
                }
