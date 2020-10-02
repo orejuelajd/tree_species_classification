@@ -15,6 +15,8 @@ def hello():
     response = json.dumps({'response': 'yahhhh!'})
     return response, 200
 
+# Time to add our machine learning model. Grab your model_file.p pickle and drop it into the /models/ directory in the
+# app we made so your file tree now looks like the left.
 def load_models():
     file_name = "resources/models/model_rfc_file.p"
     with open(file_name, 'rb') as pickled:
