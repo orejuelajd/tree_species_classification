@@ -77,7 +77,6 @@ def predict_post():
     pb = float(request_data['pb'])
     pap = float(request_data['pap'])
     dap = float(request_data['dap'])
-    dap2 = float(request_data['dap2'])
     papdel = float(request_data['papdel'])
     papgrueso = float(request_data['papgrueso'])
     altura_fuste = float(request_data['altura_fuste'])
@@ -93,7 +92,7 @@ def predict_post():
     scaler = load_scaler()
     transformer = load_transformer()
 
-    data = [[pb, pap, dap, dap2, papdel, papgrueso, altura_fuste,
+    data = [[pb, pap, dap, papdel, papgrueso, altura_fuste,
             altura_arbol, diferencia, diametro_copa, tallos, veg_Palma, veg_Arbol]]
     data = scaler.transform(data)
     data = transformer.transform(data)
