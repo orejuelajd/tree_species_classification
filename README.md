@@ -8,6 +8,8 @@
 
 ![](https://raw.githubusercontent.com/orejuelajd/tree_species_classification/master/resources/readme/dataset.PNG)
 
+Link portal datos abiertos Santiago de Cali: http://datos.cali.gov.co/dataset/censo-arboreo-de-santiago-de-cali
+
 # Data Pre-Processing:
 
 - Pregunta a Expertos: Limitación del dataset por vitalidad y edad.
