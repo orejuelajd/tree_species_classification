@@ -6,6 +6,8 @@
 
 # Dataset:
 
+![](https://raw.githubusercontent.com/orejuelajd/tree_species_classification/master/resources/readme/dataset.PNG)
+
 # Data Pre-Processing:
 
 - Pregunta a Expertos: Limitación del dataset por vitalidad y edad.
@@ -16,7 +18,7 @@
 
 # Pipeline:
 
-
+![](https://raw.githubusercontent.com/orejuelajd/tree_species_classification/master/resources/readme/pipeline.PNG)
 
 # Importación de base de datos:
 
