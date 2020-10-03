@@ -20,6 +20,11 @@
 
 # Importación de base de datos:
 
+Usar el archivo .sql:
+
+```
+$ project_path/resources/database.sql
+```
 
 # Instalación En Heroku de Webservice y App:
 
