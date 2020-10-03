@@ -1,62 +1,65 @@
-Problema:
+# Problema:
 
-Dataset:
+- Desconocimiento en ocasiones de la taxonomía (especie) de un árbol por parte de los técnicos. Subjetividad al asignar una especie.
 
-Problema de Machine Learning:
+- **Problema de Machine Learning:** Clasificación de nuevos árboles que se ingresen al censo árboreo.
 
-Data Pre-Processing:
+# Dataset:
 
-Pregunta a Expertos:
-Limpieza de datos:
-Escalamiento de datos y Reducción de dimensionalidad:
+# Data Pre-Processing:
 
-Resultados:
+- Pregunta a Expertos: Limitación del dataset por vitalidad y edad.
 
-Conclusiones:
+- Limpieza de datos: Eliminación de columnas innecearias, espacios en blanco, nombres o datos mal escritos.
 
-Arquitectura:
+- Escalamiento de datos, códificación One-Hot y Reducción de dimensionalidad PCA.
 
-Importación de base de datos:
+# Pipeline:
 
-Instalación En Heroku de Webservice y App:
+
+
+# Importación de base de datos:
+
+
+# Instalación En Heroku de Webservice y App:
 
 - Activar el ambiente de desarrollo:
 
-´´´
+```
 $ project_path/venv/bin/activate
-´´´
+```
 
 Instalar las librerias a usar: flask para hacer build de la app y gunicorn como servidor:
 
-´´´
+```
 $ pip install flask
 $ pip install gunicorn
-´´´
+```
 
 Heroku
 
 El archivo requirements.txt contiene todas la librerias que instalará Heroku. Para generar el 
 archivo requirements.txtfile con los módulos que se ha instalado en el ambiente/proyecto:
 
-´´´
+```
 $ pip freeze > requirements.txt
-´´´
+```
 
 Crear el archivo Procfile para establecer el comando que se correrá en heroku al subirse el repositorio.
 Dentro del archivo Procfile escribir esto:
 
-´´´
+```
 web: gunicorn app:app
-´´´
+```
 
 Para subir el repositorio se deben ejecutar comandos de Git a la rama heroku master.
 Git
 
-´´´
+```
 $ git init .
 git add --all
 $ git commit -m "first commit"
 $ heroku login
 $ heroku git:remote -a {your-project-name}
 $ git push heroku master
-´´´
+```
