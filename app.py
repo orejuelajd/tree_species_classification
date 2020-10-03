@@ -3,6 +3,9 @@ from flask import Flask, jsonify, request
 import json
 import pickle
 from flask_cors import CORS, cross_origin
+from pickle import load
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
 
 app = Flask(__name__)
 cors = CORS(app)
@@ -23,6 +26,14 @@ def load_models():
         data = pickle.load(pickled)
         model = data['model']
     return model
+
+def load_scaler():
+    scaler = load(open('resources/models/stardardscaler.pkl', 'rb'))
+    return scaler
+
+def load_transformer():
+    transformer = load(open('resources/models/pcamodel.pkl', 'rb'))
+    return transformer
 
 def get_specie(number_specie):
     species = {0:'Palma real de Cuba',
@@ -52,6 +63,7 @@ def predict_get():
 
     # load model
     model = load_models()
+
     prediction = model.predict([[pb, pap, dap, dap2, papdel, papgrueso, altura_fuste,
                                  altura_arbol, diferencia, diametro_copa, tallos, veg_Palma, veg_Arbol]])[0]
 
@@ -78,9 +90,15 @@ def predict_post():
 
     # load model
     model = load_models()
-    prediction = model.predict([[pb, pap, dap, dap2, papdel, papgrueso, altura_fuste,
-                                 altura_arbol, diferencia, diametro_copa, tallos, veg_Palma, veg_Arbol]])[0]
+    scaler = load_scaler()
+    transformer = load_transformer()
 
+    data = [[pb, pap, dap, dap2, papdel, papgrueso, altura_fuste,
+            altura_arbol, diferencia, diametro_copa, tallos, veg_Palma, veg_Arbol]]
+    data = scaler.transform(data)
+    data = transformer.transform(data)
+
+    prediction = model.predict(data)[0]
     response = json.dumps({'response': get_specie(int(prediction))})
     return response, 200
 
