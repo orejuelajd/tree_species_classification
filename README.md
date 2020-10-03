@@ -1,43 +1,62 @@
-And let's activate it with the source command:
+Problema:
+
+Dataset:
+
+Problema de Machine Learning:
+
+Data Pre-Processing:
+
+Pregunta a Expertos:
+Limpieza de datos:
+Escalamiento de datos y Reducción de dimensionalidad:
+
+Resultados:
+
+Conclusiones:
+
+Arquitectura:
+
+Importación de base de datos:
+
+Instalación En Heroku de Webservice y App:
+
+- Activar el ambiente de desarrollo:
+
 ´´´
-$ source venv/bin/activate
+$ project_path/venv/bin/activate
 ´´´
 
-Then, let's use pip to install the libraries we're going to use - flask to build the app and gunicorn as our server:
+Instalar las librerias a usar: flask para hacer build de la app y gunicorn como servidor:
 
+´´´
 $ pip install flask
 $ pip install gunicorn
+´´´
 
 Heroku
 
-To achieve this, we need to create a requirements.txt file with all of the modules:
+El archivo requirements.txt contiene todas la librerias que instalará Heroku. Para generar el 
+archivo requirements.txtfile con los módulos que se ha instalado en el ambiente/proyecto:
 
+´´´
 $ pip freeze > requirements.txt
+´´´
 
-For Heroku to be able to run our application like it should, we need to define a set of processes/commands that it should run beforehand. These commands are located in the Procfile:
+Crear el archivo Procfile para establecer el comando que se correrá en heroku al subirse el repositorio.
+Dentro del archivo Procfile escribir esto:
 
+´´´
 web: gunicorn app:app
+´´´
 
+Para subir el repositorio se deben ejecutar comandos de Git a la rama heroku master.
 Git
 
-To upload our code, we'll use Git. First, let's make a git repository:
-
+´´´
 $ git init .
 git add --all
 $ git commit -m "first commit"
-
-Alternatively, we can login using the browser if we run the command:
-
 $ heroku login
-
-At this point, while logged in, we should add our repository to the remote one:
-
 $ heroku git:remote -a {your-project-name}
-
-And with that done, let's upload the project by pushing it to Heroku:
-
 $ git push heroku master
-
-Test
-
-https://{your-project-name}.herokuapp.com/
+´´´
