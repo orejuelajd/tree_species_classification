@@ -50,7 +50,6 @@ def predict_get():
     pb = float(request_json['pb'])
     pap = float(request_json['pap'])
     dap = float(request_json['dap'])
-    dap2 = float(request_json['dap2'])
     papdel = float(request_json['papdel'])
     papgrueso = float(request_json['papgrueso'])
     altura_fuste = float(request_json['altura_fuste'])
